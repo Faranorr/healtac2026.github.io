@@ -1,0 +1,30 @@
+
+main:
+  - title: "Home"
+    url: /
+  # - title: "Programme"
+  #   url: /programme/
+  - title: "Committees"
+    url: /committees/
+  # - title: "Keynote Speakers"
+    # url: /keynotes/
+  # - title: "Registration"
+  #   url: /registration/
+  # - title: "Accommodation"
+  #   url: /accommodation/
+  - title: "Calls"
+    url: /cfp/
+  # - title: "Second Call"
+  #   url: /cfp2/
+  # - title: "Submissions"
+  #   url: /submissions/
+  # - title: "Dates"
+  #   url: /dates/
+  # - title: "Calls and Dates"
+  #   url: /datesandcalls/
+  # - title: "Venue"
+  #   url: /venue/
+  # - title: "Sponsors"
+  #   url: /sponsors/
+  # - title: "News"
+  #   url: /posts/
