@@ -11,7 +11,7 @@ body {
   font-family: Times New Roman;
 }
 .collapsible {
-  background-color:#6495ED;
+  background-color:#003865;
   color:  white;
   cursor: pointer;
   padding: 30px;

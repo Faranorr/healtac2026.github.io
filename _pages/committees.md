@@ -21,12 +21,12 @@ a:visited {
   text-decoration: none;
 }
 a:hover {
-  color: #6495ED;
+  color: #003865;
   background-color: #F0F8FF;
   text-decoration: underline;
 }
 a:active {
-  color: #6495ED;
+  color: #003865;
   background-color: #F8F8FF;
   text-decoration: underline;
 }
