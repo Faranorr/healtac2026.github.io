@@ -62,13 +62,13 @@ author:
 #  avatar : "/assets/images/bio-photo.jpg"
   # bio    : "8th Healthcare Text Analytics Conference"
   links:
-    - label: "<strong style='color:#6495ED;'>TUTORIAL</strong><br><span style='color: black;'>Resources<br>"
-      icon: "fas fa-laptop-code"
-      url: https://knowlab.github.io/healtac2025_tutorial/
-    - label: "<strong style='color:#6495ED;'>BOOK OF ABSTRACTS</strong><br><span style='color:black;'>Download<br>"
-      icon: "fas fa-file-pdf"
-      url: https://drive.usercontent.google.com/u/0/uc?id=1oBAgnUsqvdGFpUPL8GAdw5XmnF7M2gUC&export=download
-      download: "HealTAC2025_Book_of_Abstracts.pdf"
+    # - label: "<strong style='color:#6495ED;'>TUTORIAL</strong><br><span style='color: black;'>Resources<br>"
+    #   icon: "fas fa-laptop-code"
+    #   url: https://knowlab.github.io/healtac2025_tutorial/
+    # - label: "<strong style='color:#6495ED;'>BOOK OF ABSTRACTS</strong><br><span style='color:black;'>Download<br>"
+    #   icon: "fas fa-file-pdf"
+    #   url: https://drive.usercontent.google.com/u/0/uc?id=1oBAgnUsqvdGFpUPL8GAdw5XmnF7M2gUC&export=download
+    #   download: "HealTAC2025_Book_of_Abstracts.pdf"
     # - label: "<strong style='color:#6495ED;'>ACCOMMODATION</strong><br><span style='color:black;'>Book now.<br>"
     #   icon: "fas fa-home"
     #   url: https://healtac2025.github.io/accommodation/
@@ -78,12 +78,15 @@ author:
     - label: "<strong style='color:#6495ED;'>KEY DATES</strong><br>–<span style='color: black;'><strong>Conference:</strong><br>June 13-14, 2025</span><br>–<span style='color: black;'><strong>Tutorials:</strong><br>June 12, 2025</span><br>"
       icon: "far fa-calendar-alt"
       url: https://healtac2025.github.io/datesandcalls/
-    - label: "<strong style='color:#6495ED;'>KEYNOTES</strong><br>–<span style='color:black;'><strong>Prof Suzan Verberne</strong><br>(Leiden University)</span><br>–<span style='color: black;'><strong>Dr Alistair Johnson</strong><br>(Glowyr)<br>"
-      icon: "fas fa-user-friends"
-      url: https://healtac2025.github.io/keynotes/
-    - label: "<strong style='color:#6495ED;'>EVENT SERIES</strong>"
-      icon: "far fa-calendar-check"
-      url: /
+    # - label: "<strong style='color:#6495ED;'>KEYNOTES</strong><br>–<span style='color:black;'><strong>Prof Suzan Verberne</strong><br>(Leiden University)</span><br>–<span style='color: black;'><strong>Dr Alistair Johnson</strong><br>(Glowyr)<br>"
+    #   icon: "fas fa-user-friends"
+    #   url: https://healtac2025.github.io/keynotes/
+    # - label: "<strong style='color:#6495ED;'>EVENT SERIES</strong>"
+    #   icon: "far fa-calendar-check"
+    #   url: /
+    - label: "<span style='color: black;'>HealTAC-2024</span>"
+      # icon: "fas fa-fw fa-link"
+      url: http://healtex.org/healtac-2024/
     - label: "<span style='color: black;'>HealTAC-2023</span>"
       # icon: "fas fa-fw fa-link"
       url: http://healtex.org/healtac-2023/
