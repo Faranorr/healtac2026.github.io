@@ -1,4 +1,4 @@
----
+<!-- ---
 permalink: /accommodation/
 title: "Accommodation"
 ---
@@ -169,4 +169,4 @@ div.scroll-container img {
 <br>
 
 </body>
-</html>
+</html> -->
