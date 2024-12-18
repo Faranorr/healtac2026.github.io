@@ -14,7 +14,7 @@ body {
 </style>
 </head>
 <body>
-We are delighted to announce HealTAC 2025, the seventh annual UK healthcare text analytics conference. The main conference will be a three-day event on 16-18th June 2025 - please save the dates!
+We are delighted to announce HealTAC 2025, the eighth annual UK healthcare text analytics conference. The main conference will be a three-day event on 16-18th June 2025 - please save the dates!
 
 We expect that the conference will be hybrid in-person hosted at the University of Glasgow and online. 
 
