@@ -7,7 +7,7 @@ title: "Dates"
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 body {
-  font-family: Sans Serif;
+  font-family: sans-serif;
 }
 html {
   box-sizing: border-box;

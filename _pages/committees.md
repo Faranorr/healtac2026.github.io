@@ -8,7 +8,7 @@ title: "Committees"
 <head>
 <style>
 body {
-  font-family: Sans Serif;
+  font-family: sans-serif;
 }
 a:link {
   color:  black;
