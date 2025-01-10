@@ -9,7 +9,7 @@ tags:
 <head>
 <style>
 body {
-  font-family: Times New Roman;
+  font-family: Sans Serif;
 }
 </style>
 </head>

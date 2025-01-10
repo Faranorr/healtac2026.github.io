@@ -7,7 +7,7 @@ title: "Dates"
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 body {
-  font-family: Times New Roman;
+  font-family: Sans Serif;
 }
 html {
   box-sizing: border-box;
@@ -66,42 +66,42 @@ td {
   
   <tr>
     <td>First Call</td>
-    <td>February 2nd, 2025</td>
+    <td>January, 2025</td>
   </tr>
   
   <tr>
     <td>Submission template available</td>
-    <td>February 2nd, 2025</td>
+    <td>January, 2025</td>
   </tr> 
   
   <tr>
     <td>Latex template available</td>
-    <td>March 21st, 2025</td>
+    <td>January, 2025</td>
   </tr>
   
   <tr>
     <td>Submission site available</td>
-    <td>March 22nd, 2025</td>
+    <td>March, 2025</td>
   </tr>
   
   <tr>
     <td>Deadline for all contributions</td>
-    <td><del>March 28th, 2025</del> April 8th 2025</td>
+    <td>March 28th, 2025</td>
   </tr>
 
   <tr>
   	<td>Notification of acceptance</td>
-    <td><del>April 19th, 2025</del> April 24th, 2025</td>
+    <td>April 15th, 2025</td>
   </tr>
   
   <tr>
     <td>Tutorial</td>
-    <td>June 12th, 2025 </td>
+    <td>June 16th, 2025 </td>
   </tr>
   
   <tr>
     <td>Conference</td>
-    <td><del>June 12-14th 2025</del> June 13-14th 2025</td>
+    <td>June 16-18th 2025</td>
   </tr>
 </table>
       </div>

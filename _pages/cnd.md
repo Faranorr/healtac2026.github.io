@@ -8,7 +8,7 @@ title: "Calls and Dates"
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 body {
-  font-family: Times New Roman;
+  font-family: Sans Serif;
 }
 .collapsible {
   background-color:#003865;
@@ -19,7 +19,7 @@ body {
   border: none;
   text-align: left;
   outline: none;
-  font-family: Times New Roman;
+  font-family: Sans Serif;
   font-size: 30px;
 }
 .active, .collapsible:hover {
@@ -32,7 +32,7 @@ body {
   font-weight: bold;
   float: right;
   margin-left: 10px;
-  font-family: Times New Roman;
+  font-family: Sans Serif;
 }
 .active:after {
   content: "\2212";

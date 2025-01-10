@@ -9,7 +9,7 @@ title: "Accommodation"
 <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
 <style>
 body {
-  font-family: Times New Roman;
+  font-family: Sans Serif;
 }	
 .container {
   position: relative;
@@ -21,7 +21,7 @@ body {
   }
 .container img {vertical-align: middle;}
 .container .content {
-  font-family: Times New Roman;  
+  font-family: Sans Serif;  
   position: absolute;
   bottom: 0;
   background: rgb(0, 0, 0); /* Fallback color */
@@ -51,7 +51,7 @@ body {
   height: 500px;
 }
 .text {
-  font-family: Times New Roman;
+  font-family: Sans Serif;
   background-color: rgb(0.4, 0, 0); /* Fallback color */
   background-color: rgba(0, 0, 0, 0.3); /* Black w/opacity/see-through */
   color: #FEF7DB;
@@ -67,7 +67,7 @@ body {
   text-align: center;
 }
 .text-1 {
-  font-family: Times New Roman;
+  font-family: Sans Serif;
   background-color: rgb(0.4, 0, 0); /* Fallback color */
   background-color: rgba(0, 0, 0, 0.3); /* Black w/opacity/see-through */
   color: #FEF7DB;
@@ -83,7 +83,7 @@ body {
   text-align: center;
 }
 .text-2 {
-  font-family: Times New Roman;
+  font-family: Sans Serif;
   background-color: rgb(0.4, 0, 0); /* Fallback color */
   background-color: rgba(0, 0, 0, 0.3); /* Black w/opacity/see-through */
   color:  #FEF7DB;
@@ -145,7 +145,7 @@ div.scroll-container img {
 </head>
 
 <body>
-<h5 style="color:#003865; font-family: Times New Roman;">Kindly note that accommodation must be booked separately from registration.</h5>
+<h5 style="color:#003865; font-family: Sans Serif;">Kindly note that accommodation must be booked separately from registration.</h5>
 <div class="image-container">
   <div class="text"><h2>Promotion code: HealTAC2025</h2>
     <h1>Campus Accomodation</h1><a href="https://www.conferences.lancs.ac.uk/bedandbreakfast/" style="color:#FEF7DB">Book Now</a></div>
