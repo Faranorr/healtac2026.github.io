@@ -81,30 +81,30 @@ author:
     # - label: "<strong style='color:#003865;'>KEYNOTES</strong><br>–<span style='color:black;'><strong>Prof Suzan Verberne</strong><br>(Leiden University)</span><br>–<span style='color: black;'><strong>Dr Alistair Johnson</strong><br>(Glowyr)<br>"
     #   icon: "fas fa-user-friends"
     #   url: https://healtac2025.github.io/keynotes/
-    # - label: "<strong style='color:#003865;'>EVENT SERIES</strong>"
-    #   icon: "far fa-calendar-check"
-    #   url: /
-    - label: "<span style='color: black;'>HealTAC-2024</span>"
-      # icon: "fas fa-fw fa-link"
-      url: http://healtex.org/healtac-2024/
-    - label: "<span style='color: black;'>HealTAC-2023</span>"
-      # icon: "fas fa-fw fa-link"
-      url: http://healtex.org/healtac-2023/
-    - label: "<span style='color: black;'>HealTAC-2022</span>"
-      # icon: "fas fa-fw fa-link"
-      url: https://healtac2022.github.io/
-    - label: "<span style='color: black;'>HealTAC-2021</span>"
-      # icon: "fas fa-fw fa-link"
-      url: http://healtex.org/healtac-2021/
-    - label: "<span style='color: black;'>HealTAC-2020</span>"
-      # icon: "fas fa-fw fa-link"
-      url: http://healtex.org/healtac-2020/
-    - label: "<span style='color: black;'>HealTAC-2019</span>"
-      # icon: "fas fa-fw fa-link"
-      url: http://healtex.org/healtac-2019/
-    - label: "<span style='color: black;'>HealTAC-2018</span>"
-      # icon: "fas fa-fw fa-link"
-      url: http://healtex.org/healtac-2018/
+    - label: "<strong style='color:#003865;'>Previous HealTACs</strong>"
+      icon: "far fa-calendar-alt"
+      url: http://healtex.org/healtac-conference-series/
+    # - label: "<span style='color: black;'>HealTAC-2024</span>"
+    #   # icon: "fas fa-fw fa-link"
+    #   url: http://healtex.org/healtac-2024/
+    # - label: "<span style='color: black;'>HealTAC-2023</span>"
+    #   # icon: "fas fa-fw fa-link"
+    #   url: http://healtex.org/healtac-2023/
+    # - label: "<span style='color: black;'>HealTAC-2022</span>"
+    #   # icon: "fas fa-fw fa-link"
+    #   url: https://healtac2022.github.io/
+    # - label: "<span style='color: black;'>HealTAC-2021</span>"
+    #   # icon: "fas fa-fw fa-link"
+    #   url: http://healtex.org/healtac-2021/
+    # - label: "<span style='color: black;'>HealTAC-2020</span>"
+    #   # icon: "fas fa-fw fa-link"
+    #   url: http://healtex.org/healtac-2020/
+    # - label: "<span style='color: black;'>HealTAC-2019</span>"
+    #   # icon: "fas fa-fw fa-link"
+    #   url: http://healtex.org/healtac-2019/
+    # - label: "<span style='color: black;'>HealTAC-2018</span>"
+    #   # icon: "fas fa-fw fa-link"
+    #   url: http://healtex.org/healtac-2018/
 
 
 footer:
