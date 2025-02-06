@@ -53,27 +53,7 @@ Please use <a href="https://easychair.org/conferences/?conf=healtac2024">Easycha
     <th>Event</th>
     <th>Date</th>
   </tr>
-  
-  <tr>
-    <td>First Call</td>
-    <td>January, 2025</td>
-  </tr>
-  
-  <tr>
-    <td>Submission template available</td>
-    <td>January, 2025</td>
-  </tr> 
-  
-  <tr>
-    <td>Latex template available</td>
-    <td>January, 2025</td>
-  </tr>
-  
-  <tr>
-    <td>Submission site available</td>
-    <td>March, 2025</td>
-  </tr>
-  
+   
   <tr>
     <td>Deadline for all contributions</td>
     <td>March 28th, 2025</td>
@@ -85,7 +65,7 @@ Please use <a href="https://easychair.org/conferences/?conf=healtac2024">Easycha
   </tr>
   
   <tr>
-    <td>Tutorial</td>
+    <td>Workshop</td>
     <td>June 16th, 2025 </td>
   </tr>
   
@@ -94,86 +74,11 @@ Please use <a href="https://easychair.org/conferences/?conf=healtac2024">Easycha
     <td>June 16-18th 2025</td>
   </tr>
 </table>
-      </div>
-          <br>
-    </div>
-  </div>
-
+ 
 </body>
 </html>
 
-<!-- <html>
-<head>
-<style>
-h1, h2, h3, h4, h5, h6 {
-  font-family: 'Akaya Telivigala';
-}
-body {
-    font-family: 'Akaya Telivigala';
-}
 
-th, tr, td {
-  border: 2px solid black;
-  font-family: 'Akaya Telivigala';
-}
-
-tr:nth-child(even) {
-  background-color: rgba(150, 212, 212, 0.4);
-}
-</style>
-</head>
-
-<body>
-<p>All deadlines are 11:59PM UTC-12:00 (“anywhere on Earth”).</p>
-
-<table>
-  <tr>
-    <th>Event</th>
-    <th>Date</th>
-  </tr>
-  
-  <tr>
-    <td>First Call</td>
-    <td>February 2nd, 2025</td>
-  </tr>
-  
-  <tr>
-    <td>Submission template available</td>
-    <td>February 2nd, 2025</td>
-  </tr> 
-  
-  <tr>
-    <td>Latex template available</td>
-    <td>March 21st, 2025</td>
-  </tr>
-  
-  <tr>
-    <td>Submission site available</td>
-    <td>March 22nd, 2025</td>
-  </tr>
-  
-  <tr>
-    <td>Deadline for all contributions</td>
-    <td><del>March 28th, 2025</del> April 8th 2025</td>
-  </tr>
-
-  <tr>
-  	<td>Notification of acceptance</td>
-    <td><del>April 18th, 2025</del> April 24th, 2025</td>
-  </tr>
-  
-  <tr>
-    <td>Tutorial</td>
-    <td>June 12th, 2025 </td>
-  </tr>
-  
-  <tr>
-    <td>Conference</td>
-    <td><del>June 13-14th 2025</del> June 13-14th 2025</td>
-  </tr>
-</table>
-</body>
-</html>
 
 
 
