@@ -32,7 +32,8 @@ a:active {
 }
 </style>
 </head>
-    
+<h3>Please use <a href="https://easychair.org/conferences/?conf=healtac2025">Easychair</a> for all submissions.</h3>    
+
 <h2>Contribution types</h2>
 <h4 style="color:#009999;">Extended abstracts</h4>
 Extended abstracts will describe either methodological or application work that has not been previously presented in a conference. Contributions should consist of up to 2 pages, excluding references, and should be prepared based on the template provided below. Authors will specify their preferred way of presenting their contribution: as an oral presentation, flash/lightning talk, poster or demo. As in previous years, there will be a post-conference open call to submit a journal-length paper for further peer review and publication in Frontiers in Digital Health.  
@@ -46,8 +47,8 @@ Submissions by PhD students or early career researchers will be presented at the
 <h4 style="color:#009999;">Submission Template</h4>
 The submission template can be accessed here: <a href="https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fhealtac2024%2Fhealtac2024.github.io%2Fmain%2F_data%2Ftemplate-2024.docx&wdOrigin=BROWSELINK" download>Word</a>, <a href="https://github.com/healtac2024/healtac2024.github.io/raw/main/_data/Template-HealTAC2022.zip" download>Latex</a>, <a href="https://www.overleaf.com/latex/templates/healtac2024-template/sqgwgbcqsmdx " download>Overleaf</a>.
 <br>
-Please use <a href="https://easychair.org/conferences/?conf=healtac2025">Easychair</a> for all submissions.
 
+<br>
 <table>
   <tr>
     <th>Event</th>
@@ -61,7 +62,7 @@ Please use <a href="https://easychair.org/conferences/?conf=healtac2025">Easycha
 
   <tr>
   	<td>Notification of acceptance</td>
-    <td>April 15th, 2025</td>
+    <td>April 18th, 2025</td>
   </tr>
   
   <tr>
