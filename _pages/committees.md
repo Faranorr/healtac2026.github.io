@@ -71,7 +71,7 @@ a:active {
   <h4>Steering Commitee</h4> 
 <ul>
   <li>Liz Ford, University of Brighton</li>
-  <li>Ehud Reiter, University of Aberdeen
+  <li>Ehud Reiter, University of Aberdeen</li>
   <li>Angus Roberts, King's College London</li>
   <li>Paul Rayson, Lancaster University</li>
   <li>Rob Stewart, King's College London</li>
