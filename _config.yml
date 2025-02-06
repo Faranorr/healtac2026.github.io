@@ -80,7 +80,7 @@ author:
       url: https://healtac2025.github.io/datesandcalls/
      - label: "<strong style='color:#003865;'>KEYNOTE</strong><br>–<span style='color:black;'><strong>Jason Fries</strong><br>(Stanford University)</span><br>–<span style='color: black;'><strong>tbc</strong><br><br>"
        icon: "fas fa-user-friends"
-       url: https://web.stanford.edu/~jfries/ #https://healtac2025.github.io/keynotes/
+       url: https://web.stanford.edu/~jfries/ 
     - label: "<strong style='color:#003865;'>Previous HealTACs</strong>"
       icon: "fas fa-fw fa-link"
       url: http://healtex.org/healtac-conference-series/
