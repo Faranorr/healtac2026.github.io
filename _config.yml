@@ -75,7 +75,7 @@ author:
     # - label: "<strong style='color:#003865;'>REGISTRATION</strong><br><span style='color:black;'>Now open.<br>"
     #   icon: "far fa-comment"
       # url: https://healtac2025.github.io/registration/
-    - label: "<strong style='color:#003865;'>KEY DATES</strong><br>–<span style='color: black;'><strong>Conference:</strong><br>June 16-18, 2025</span><br><br>"
+    - label: "<strong style='color:#003865;'>KEY DATES</strong><br>–<span style='color: black;'><strong>Conference:</strong><br>June 16-18, 2025<br>–<span style='color: black;'><strong>Conference:</strong><br>June 16-18, 2025</span><br><br>"
       icon: "far fa-calendar-alt"
       url: https://healtac2025.github.io/datesandcalls/
     # - label: "<strong style='color:#003865;'>KEYNOTES</strong><br>–<span style='color:black;'><strong>Prof Suzan Verberne</strong><br>(Leiden University)</span><br>–<span style='color: black;'><strong>Dr Alistair Johnson</strong><br>(Glowyr)<br>"
