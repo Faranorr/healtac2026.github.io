@@ -163,13 +163,13 @@ Healthcare narrative (such as clinical notes, discharge letters, nurse handover 
 <div class="row">
   <div class="column">
     <div class="card">
-       <p style="color: #ffffff; text-shadow: 0.2px 0.2px">Reproducibility in the healthcare text analytics</p>
+       <p style="color: #ffffff; text-shadow: 0.2px 0.2px">Evaluation, assessment, and reproducibility in healthcare text analytics</p>
     </div>
   </div>
   
   <div class="column">
     <div class="card">
-       <p style="color: #ffffff; text-shadow: 0.2px 0.2px">Evaluation and assessment of text analytics methods</p>
+       <p style="color: #ffffff; text-shadow: 0.2px 0.2px">Patient-facing text analytics: presenting clinical insights for patients</p>
     </div>
   </div>
 

@@ -16,14 +16,14 @@ main:
     url: /cfp/
   # - title: "Second Call"
   #   url: /cfp2/
-  # - title: "Submissions"
-  #   url: /submissions/
+  - title: "Submissions"
+    url: /submissions/
   # - title: "Dates"
   #   url: /dates/
   # - title: "Calls and Dates"
   #   url: /datesandcalls/
-  # - title: "Venue"
-  #   url: /venue/
+  - title: "Venue"
+    url: /venue/
   # - title: "Sponsors"
   #   url: /sponsors/
   # - title: "News"
