@@ -75,7 +75,7 @@ author:
     # - label: "<strong style='color:#003865;'>REGISTRATION</strong><br><span style='color:black;'>Now open.<br>"
     #   icon: "far fa-comment"
       # url: https://healtac2025.github.io/registration/
-    - label: "<strong style='color:#003865;'>KEY DATES</strong><br>–<span style='color: black;'><strong>Conference:</strong><br>June 16-18, 2025<br>–<span style='color: black;'><strong>Deadline for all contributions:</strong><br>March 28, 2025<br>–<span style='color: black;'><strong>Notification of acceptance:</strong><br> April 18, 2025</span><br><br>"
+    - label: "<strong style='color:#003865;'>Key Dates</strong><br>–<span style='color: black;'><strong>Conference:</strong><br>June 16-18, 2025<br>–<span style='color: black;'><strong>Deadline for all contributions:</strong><br>March 28, 2025<br>–<span style='color: black;'><strong>Notification of acceptance:</strong><br> April 18, 2025</span><br><br>"
       icon: "far fa-calendar-alt"
       url: https://healtac2025.github.io/datesandcalls/
     #  - label: "<strong style='color:#003865;'>KEYNOTE</strong><br>–<span style='color:black;'><strong>Jason Fries</strong><br>(Stanford University)</span><br>–<span style='color: black;'><strong>tbc</strong><br><br>"
@@ -105,7 +105,15 @@ author:
     # - label: "<span style='color: black;'>HealTAC-2018</span>"
     #   # icon: "fas fa-fw fa-link"
     #   url: http://healtex.org/healtac-2018/
-
+    - label: |
+        <div style="display: flex; flex-direction: column;">
+          <img src="/assets/images/sponsors/HDR UK.jpg" alt="HDR UK" style="margin-bottom: 10px; max-width: 100px;">
+          <img src="/assets/images/sponsors/HealTex.jpeg" alt="HealTex" style="margin-bottom: 10px; max-width: 100px;">
+          <img src="/assets/images/sponsors/Frontiers.jpg" alt="Frontiers" style="margin-bottom: 10px; max-width: 100px;">
+          <img src="/assets/images/sponsors/University of Glasgow.png" alt="University of Glasgow" style="margin-bottom: 10px; max-width: 100px;">
+        </div>
+      icon: ""
+      url: ""
 
 footer:
   links:
