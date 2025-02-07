@@ -4,8 +4,6 @@ main:
     url: /
   # - title: "Programme"
   #   url: /programme/
-  - title: "Committees"
-    url: /committees/
   # - title: "Keynote Speakers"
     # url: /keynotes/
   # - title: "Registration"
@@ -18,6 +16,8 @@ main:
   #   url: /cfp2/
   - title: "Submissions"
     url: /submissions/
+  - title: "Committees"
+    url: /committees/
   # - title: "Dates"
   #   url: /dates/
   # - title: "Calls and Dates"
