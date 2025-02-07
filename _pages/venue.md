@@ -150,12 +150,12 @@ div.scroll-container img {
 <!-- <a href="https://use.mazemap.com/#v=1&campusid=341&zlevel=1&center=-2.785624,54.011398&zoom=18&sharepoitype=poi&sharepoi=874283" style="color:DodgerBlue; font-family:Akaya Telivigala"> <i class='fas fa-map' style='font-size:24px font-family:Akaya Telivigala'></i>e</a> -->
 </div> 
 <br>
-<p>Information about accommodation will be posted shortly. Information about travel to Glasgow is available <a href="https://www.gla.ac.uk/explore/maps/howtogethere/" style="color:DodgerBlue;">here</a>.
-</p> 
+
 <div id="contact" class="map">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2238.4336972614797!2d-4.287506823042735!3d55.87249118276583!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x488845cdf92cdf2d%3A0xd14847c3d4ae5e0a!2sGlasgow%20University%20Union!5e0!3m2!1sen!2s!4v1738922306508!5m2!1sen!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 <br>
-
+<p>Information about travel to Glasgow is available <a href="https://www.gla.ac.uk/explore/maps/howtogethere/" style="color:DodgerBlue;">here</a>. Information about accommodation will be posted shortly. 
+</p> 
 </body>
 </html>
