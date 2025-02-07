@@ -81,7 +81,7 @@ author:
     #  - label: "<strong style='color:#003865;'>KEYNOTE</strong><br>–<span style='color:black;'><strong>Jason Fries</strong><br>(Stanford University)</span><br>–<span style='color: black;'><strong>tbc</strong><br><br>"
     #    icon: "fas fa-user-friends"
     #    url: https://web.stanford.edu/~jfries/ 
-    - label: "<strong style='color:#003865;'>Previous HealTACs</strong>"
+    - label: "<strong style='color:#003865;'>Previous HealTACs</strong><br><br>"
       icon: "fas fa-fw fa-link"
       url: http://healtex.org/healtac-conference-series/
     # - label: "<span style='color: black;'>HealTAC-2024</span>"
@@ -106,13 +106,15 @@ author:
     #   # icon: "fas fa-fw fa-link"
     #   url: http://healtex.org/healtac-2018/
     - label: |
+        <strong style='color:#003865;'>Sponsors</strong>
         <div style="display: flex; flex-direction: column;">
           <img src="/assets/images/sponsors/HDR UK.jpg" alt="HDR UK" style="margin-bottom: 10px; max-width: 100px;">
           <img src="/assets/images/sponsors/HealTex.jpeg" alt="HealTex" style="margin-bottom: 10px; max-width: 100px;">
           <img src="/assets/images/sponsors/Frontiers.jpg" alt="Frontiers" style="margin-bottom: 10px; max-width: 100px;">
           <img src="/assets/images/sponsors/University of Glasgow.png" alt="University of Glasgow" style="margin-bottom: 10px; max-width: 100px;">
         </div>
-      icon: ""
+        <br><br>
+      icon: "fas fa-handshake"
       url: ""
 
 footer:
