@@ -108,10 +108,10 @@ author:
     - label: |
         <strong style='color:#003865;'>Sponsors</strong><br><br>
         <div style="display: flex; flex-direction: column;">
-          <img src="/assets/images/sponsors/HDR UK.jpg" alt="HDR UK" style="margin-bottom: 10px; max-width: 100px;"><br>
-          <img src="/assets/images/sponsors/HealTex.jpeg" alt="HealTex" style="margin-bottom: 10px; max-width: 100px;"><br>
-          <img src="/assets/images/sponsors/Frontiers.jpg" alt="Frontiers" style="margin-bottom: 10px; max-width: 100px;"><br>
-          <img src="/assets/images/sponsors/University of Glasgow.png" alt="University of Glasgow" style="margin-bottom: 10px; max-width: 100px;"><br>
+          <img src="/assets/images/sponsors/HDR UK.jpg" alt="HDR UK" style="margin-bottom: 10px; max-width: 100px;"><br><br>
+          <img src="/assets/images/sponsors/HealTex.jpeg" alt="HealTex" style="margin-bottom: 10px; max-width: 100px;"><br><br>
+          <img src="/assets/images/sponsors/Frontiers.jpg" alt="Frontiers" style="margin-bottom: 10px; max-width: 100px;"><br><br>
+          <img src="/assets/images/sponsors/University of Glasgow.png" alt="University of Glasgow" style="margin-bottom: 10px; max-width: 100px;"><br><br>
         </div>
         <br><br>
       icon: "fas fa-handshake"
