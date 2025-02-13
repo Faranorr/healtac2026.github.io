@@ -58,6 +58,8 @@ title: "Calls"
 <h2 style="color:#009999;">Call for contributions</h2>
 Healthcare narrative (such as clinical notes, discharge letters, nurse handover notes, imaging reports, patients posts on social media or feedback comments, etc.) has been used as a key communication stream that contains the majority of actionable and contextualised healthcare data, but which – despite being increasingly available in a digital form – is not routinely analysed and integrated with other healthcare data on a large-scale. There are many barriers and challenges in processing healthcare free text, including, for example, the variability and implicit nature of language expressions, and difficulties in sharing training and evaluation data. On the other hand, recent years have witnessed increasing opportunities to process free text, with a number of success stories that have demonstrated the feasibility of using advanced Natural Language Processing to unlock evidence contained in free text to support clinical care, patient self-management, epidemiological research and audit.
 
+The contribution types and the submission process are available <a href="https://healtac2025.github.io/submissions/">here</a>.
+
 <h2 style="color:#009999;">Topics</h2>
 <p> HealTAC 2025 invites contributions that address any aspect of healthcare text analytics. This year’s topics will focus on multimodal language models and human-AI interaction in clinical applications, but other topics are also welcome including: </p>
 <p> </p>
