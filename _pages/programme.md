@@ -8,7 +8,6 @@ title: "Programme"
 
 <p><a href="https://scholar.google.co.uk/citations?user=XRKjluIAAAAJ">Alison O'Neil</a> is a Principal Scientist in the AI Research Team at Canon Medical Research Europe. Her research focuses on machine learning techniques for healthcare applications for medical imaging, natural language processing, and electronic health record data. Her research has covered techniques for medical image registration, segmentation of anatomy and pathology, anatomical landmark detection, and more recently prediction of outcomes from clinical data and the extraction of semantic information from medical text.</p>
 
-
 <h4 style="color:#009999;">Workshop on NLP in mental health</h4>
 On Monday June 16th, there will be a workshop on <strong>"NLP in mental health care and research"</strong>, organised by Angus Roberts and Rob Stewart from <a href="https://datamind.org.uk/">DataMind - The Health Data Research Hub for Mental Health</a>.
 
@@ -22,4 +21,4 @@ Industry panel this year will focus on <strong>Challenges of deploying AI/NLP in
 Current PhD students  and early career researchers will present their on-going research and discuss it with a panel of experts, including the keynote speakers and patient representatives.
 
 <h4 style="color:#009999;">Presentations, demos and posters</h4>
-Throuhghout the conference, we will have presentations from the community across the UK and internationally, including talks, software demos and posters. 
+Throughout the conference, we will have presentations from the community across the UK and internationally, including talks, software demos and posters. 
