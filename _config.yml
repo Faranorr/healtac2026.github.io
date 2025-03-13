@@ -81,9 +81,9 @@ author:
     #  - label: "<strong style='color:#003865;'>KEYNOTE</strong><br>–<span style='color:black;'><strong>Jason Fries</strong><br>(Stanford University)</span><br>–<span style='color: black;'><strong>tbc</strong><br><br>"
     #    icon: "fas fa-user-friends"
     #    url: https://web.stanford.edu/~jfries/ 
-    - label: "<strong style='color:#003865;'>Previous HealTACs</strong><br>"
-      icon: "fas fa-fw fa-link"
-      url: http://healtex.org/healtac-conference-series/
+    # - label: "<strong style='color:#003865;'>Previous HealTACs</strong><br>"
+     #  icon: "fas fa-fw fa-link"
+     #  url: http://healtex.org/healtac-conference-series/
     # - label: "<span style='color: black;'>HealTAC-2024</span>"
     #   # icon: "fas fa-fw fa-link"
     #   url: http://healtex.org/healtac-2024/
