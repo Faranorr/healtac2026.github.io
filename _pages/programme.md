@@ -11,8 +11,8 @@ title: "Programme"
 <h4 style="color:#009999;">Workshop on NLP in mental health</h4>
 On Monday June 16th, there will be a workshop on <strong>"NLP in mental health care and research"</strong>, organised by Angus Roberts and Rob Stewart from <a href="https://datamind.org.uk/">DataMind - The Health Data Research Hub for Mental Health</a>.
 
-<h4 style="color:#009999;">Panel: Opportunities and challenges in large language models for health research: A multidisciplinary perspective on surfacing social inequalities, bias detection, and mitigation </h4>
-This panel (tbc) will bring together experts in bias mitigation, psychology, health services research, and behavioural science to critically assess how LLMs can be designed to create more equitable health interventions.
+<h4 style="color:#009999;">Panel: Opportunities and challenges in LLMs for health research: <br>A multidisciplinary perspective on surfacing social inequalities, bias detection, and mitigation </h4>
+This panel (tbc) will bring together experts in bias mitigation, psychology, health services research, and behavioural science to critically assess how LLMs can be designed to create more equitable health interventions.  It will be organised by <a href="https://profiles.ucl.ac.uk/99823-julia-ive"> Julia Ive and <a href="https://profiles.ucl.ac.uk/39768-paulina-bondaronek">Paulina Bondaronek</a> from UCL. 
 
 <h4 style="color:#009999;">Industry panel: Challenges in AI deployment</h4>
 Industry panel this year will focus on <strong>Challenges of deploying AI/NLP in the NHS/health systems</strong>. Panellists will be from industry, NHS, regulatory bodies and patient groups.
