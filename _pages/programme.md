@@ -4,7 +4,10 @@ title: "Programme"
 ---
 
 <h4 style="color:#009999;">Keynote speakers</h4>
-One of the keynote speakers this year is <a href="https://web.stanford.edu/~jfries/"> Jason Fries (Stanford University)</a>. His  research focuses on training and evaluating foundation models for healthcare and is positioned at the intersection of computer science, medical informatics, and hospital systems. Much of his work explores using electronic health record (EHR) data to contextualize human health, leveraging longitudinal patient information to inform model development and evaluation.
+<a href="https://web.stanford.edu/~jfries/"> Jason Fries</a> is a research scientist at Stanford University, working on training and evaluating multimodal foundation models for healthcare.  His  research focuses on training and evaluating foundation models for healthcare and is positioned at the intersection of computer science, medical informatics, and hospital systems. Much of his work explores using electronic health record (EHR) data to contextualize human health, leveraging longitudinal patient information to inform model development and evaluation.
+
+<a href="https://scholar.google.co.uk/citations?user=XRKjluIAAAAJ">Alison O'Neil is a Principal Scientist in the AI Research Team at Canon Medical Research Europe. Her research focuses on machine learning techniques for healthcare applications for medical imaging, natural language processing, and electronic health record data. Her research has covered techniques for medical image registration, segmentation of anatomy and pathology, anatomical landmark detection, and more recently prediction of outcomes from clinical data and the extraction of semantic information from medical text.
+
 
 <h4 style="color:#009999;">Workshop on NLP in mental health</h4>
 On Monday June 16th, there will be a workshop on <strong>"NLP in mental health care and research"</strong>, organised by Angus Roberts and Rob Stewart from <a href="https://datamind.org.uk/">DataMind - The Health Data Research Hub for Mental Health</a>.
