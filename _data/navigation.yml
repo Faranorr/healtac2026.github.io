@@ -4,6 +4,8 @@ main:
     url: /
   - title: "Programme"
     url: /programme/
+  - title: "Registration"
+    url: /registration/
   - title: "Workshop"
     url: /workshop/
   # - title: "Keynote Speakers"
