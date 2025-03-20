@@ -33,5 +33,9 @@ Late registration fees (<strong>after 16.00 GMT May 29th 2025</strong>):
 <!-- <p style="color: #6495ED; background-color: #F0F8FF; text-decoration: none;">The fee includes participation for three days (including the tutorial day).
 </p> -->
 
+<p style="color: #6495ED; background-color: #F0F8FF; text-decoration: none;">
+PhD students accepted to present at the PhD Forum will receive free registration. Therefore, applicants should wait for the review outcome before registering.
+</p>
+
 </body>
 </html>
