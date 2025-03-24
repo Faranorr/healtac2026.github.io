@@ -78,9 +78,9 @@ author:
     - label: "<strong style='color:#003865;'>Key Dates</strong><br>– <span style='color: black;'><strong>Conference:</strong><br>June 16-18, 2025<br>– <span style='color: black;'><strong>Deadline for all contributions:</strong><br>April 4, 2025<br>– <span style='color: black;'><strong>Notification of acceptance:</strong><br> April 18, 2025</span><br>"
       icon: "far fa-calendar-alt"
       url: https://healtac2025.github.io/datesandcalls/
-   - label: "<strong style='color:#003865;'>Registration</strong>Registration is now open<br><br>" 
-      icon: "far fa-comment"
-      url: "https://www.eventbrite.co.uk/e/healtac-2025-8th-healthcare-text-analytics-conference-registration-1255748340089"
+    #- label: "<strong style='color:#003865;'>Registration</strong>Registration is now open<br><br>" 
+    #  icon: "far fa-comment"
+    #  url: "https://www.eventbrite.co.uk/e/healtac-2025-8th-healthcare-text-analytics-conference-registration-1255748340089"
     # - label: "<strong style='color:#003865;'>Previous HealTACs</strong><br>"
     #   icon: "fas fa-fw fa-link"
     #   url: http://healtex.org/healtac-conference-series/
