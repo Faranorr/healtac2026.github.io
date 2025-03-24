@@ -49,7 +49,7 @@ Demo sessions will provide a forum for demonstration of solutions and projects t
 <h4 style="color:#009999;">PhD and fellowship projects</h4>
 Submissions by PhD students or early career researchers will be presented at the separate forum. These should present ongoing PhD research (in any stage) or a planned fellowship application. The forum will provide an opportunity to receive constructive feedback from the community, including a panel that will consist of the keynote speakers and experts in different areas.
 <br>
-Contributions should consist of <strong>up to 4 pages</strong> and will be treated separately from the other submissions.
+Contributions should consist of <strong>up to 4 pages (excluding references)</strong> and will be treated separately from the other submissions.
                                                                                                                                         
 <h4 style="color:#009999;">Submission Template</h4>
 The submission template can be accessed here: <a href="https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fhealtac2025%2Fhealtac2025.github.io%2Fmain%2F_data%2Ftemplate-2025.docx&wdOrigin=BROWSELINK" download>Word</a>, <a href="https://github.com/healtac2024/healtac2024.github.io/raw/main/_data/Template-HealTAC2022.zip" download>Latex</a>, <a href="https://www.overleaf.com/latex/templates/healtac2024-template/sqgwgbcqsmdx " download>Overleaf</a>.
