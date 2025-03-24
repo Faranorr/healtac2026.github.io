@@ -75,7 +75,7 @@ author:
     # - label: "<strong style='color:#003865;'>REGISTRATION</strong><br><span style='color:black;'>Now open.<br>"
     #   icon: "far fa-comment"
       # url: https://healtac2025.github.io/registration/
-    - label: "<strong style='color:#003865;'>Key Dates</strong><br>–<span style='color: black;'><strong>Conference:</strong><br>June 16-18, 2025<br>–<span style='color: black;'><strong>Deadline for all contributions:</strong><br>March 28, 2025<br>–<span style='color: black;'><strong>Notification of acceptance:</strong><br> April 18, 2025</span><br>"
+    - label: "<strong style='color:#003865;'>Key Dates</strong><br>–<span style='color: black;'><strong>Conference:</strong><br>June 16-18, 2025<br>–<span style='color: black;'><strong>Deadline for all contributions:</strong><br>April 4, 2025<br>–<span style='color: black;'><strong>Notification of acceptance:</strong><br> April 18, 2025</span><br>"
       icon: "far fa-calendar-alt"
       url: https://healtac2025.github.io/datesandcalls/
     - label: "<strong style='color:#003865;'>Registration</strong><br>"
