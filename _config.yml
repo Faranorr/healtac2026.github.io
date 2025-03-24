@@ -78,7 +78,7 @@ author:
     - label: "<strong style='color:#003865;'>Key Dates</strong><br>– <span style='color: black;'><strong>Conference:</strong><br>June 16-18, 2025<br>– <span style='color: black;'><strong>Deadline for all contributions:</strong><br>April 4, 2025<br>– <span style='color: black;'><strong>Notification of acceptance:</strong><br> April 18, 2025</span><br>"
       icon: "far fa-calendar-alt"
       url: https://healtac2025.github.io/submissions/
-     - label: "<strong style='color:#003865;'>Keynotes</strong><br>– <span style='color: black;'><strong>Jason Fries</strong><br>– <span style='color: black;'><strong>Alison O'Neil</strong>"
+    - label: "<strong style='color:#003865;'>Keynotes</strong><br>– <span style='color: black;'><strong>Jason Fries</strong><br>– <span style='color: black;'><strong>Alison O'Neil</strong>"
       icon: "far fa-calendar-alt"
       url: https://healtac2025.github.io/programme/
     #- label: "<strong style='color:#003865;'>Registration</strong>Registration is now open<br><br>" 
