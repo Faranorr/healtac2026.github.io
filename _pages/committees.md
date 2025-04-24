@@ -76,9 +76,7 @@ a:active {
   <li>Paul Rayson, Lancaster University</li>
   <li>Rob Stewart, King's College London</li>
 </ul>
-  
-  <!-- <h4>Local Organisers</h4> -->
-    <!-- <ul> </ul> -->
+    
  <h4>Programme Committee and Reviewers</h4>
     <ul>
     <li>Maryam	Abdollahyan, Queen Mary University of London
