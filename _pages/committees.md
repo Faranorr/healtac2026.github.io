@@ -78,7 +78,7 @@ a:active {
 </ul>
     
  <h4>Programme Committee and Reviewers</h4>
-    <ul>
+  <ul>
     <li>Maryam	Abdollahyan, Queen Mary University of London
     <li>Beatrice Alex, University of Edinburgh
     <li>Ghada	Alfattni, Umm Al-qura University
@@ -128,7 +128,7 @@ a:active {
     <li>Ariel	Teles, King's College London and IFMA
     <li>James	Teo	Kings College Hospital NHS Foundation Trust
     <li>Chris	Tomlinson, LifeArc
-    <li>Honghan	Wu, University of Glasgow</lI>
+    <li>Honghan	Wu, University of Glasgow
     </ul>
 </body>
 </html>
