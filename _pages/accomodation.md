@@ -34,10 +34,8 @@ a:active {
 </head>
 <body>
 <h5 style="color:#003865; font-family: sans-serif;">Kindly note that accommodation must be booked separately from registration.</h5>
-<div class="image-container">
-    <h1>Campus Accomodation</h1></div>
-</div>
-<br>
+
+<h1>Campus Accomodation</h1><br>
 <p>
   We provide the accommodation option at the University's student hall, priced at <strong>£43 per night</strong>. Bookings can be made for stays beginning from <strong>Monday, 16th June 2025</strong>, with departures no later than <strong>Thursday, 19th June 2025</strong>. You are welcome to book for any number of nights within this period.
 </p>
