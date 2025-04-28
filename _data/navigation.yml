@@ -12,8 +12,8 @@ main:
     # url: /keynotes/
   # - title: "Registration"
   #   url: /registration/
-  # - title: "Accommodation"
-  #   url: /accommodation/
+  - title: "Accommodation"
+    url: /accommodation/
   - title: "Calls"
     url: /cfp/
   # - title: "Second Call"
