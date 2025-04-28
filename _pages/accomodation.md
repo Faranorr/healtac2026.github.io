@@ -33,7 +33,6 @@ a:active {
 </style>
 </head>
 <body>
-<body>
 <h5 style="color:#003865; font-family: sans-serif;">Kindly note that accommodation must be booked separately from registration.</h5>
 <div class="image-container">
     <h1>Campus Accomodation</h1></div>
@@ -62,4 +61,3 @@ a:active {
 </ul>
  
 </body>
-</html>
