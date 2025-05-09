@@ -6,6 +6,9 @@ title: "Programme"
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <script src='https://kit.fontawesome.com/a076d05399.js' crossorigin='anonymous'></script>
 <style>
+body {
+  font-family: sans-serif;
+}
 html {
   box-sizing: border-box;
 }
@@ -61,7 +64,6 @@ table {
 th, td {
   text-align: left;
   padding: 40px;
-  font-family: Times New Roman;
 }
 td {
   border-bottom: 1px solid #ddd;
@@ -87,7 +89,6 @@ td {
   overflow: hidden;
   transition: max-height 0.2s ease-out;
   font-size: 14px;
-  font-family: Times New Roman;
 }
 </style>
 <h5 style="margin-bottom: 0.9375rem; font-weight: bold; line-height: 1.1; color: #6495ED; font-size: 0.9375rem; clear: both; text-transform: uppercase; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; text-align: start;">MONDAY, JUNE 16TH 2025</h5>
