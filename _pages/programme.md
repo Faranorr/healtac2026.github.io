@@ -33,13 +33,11 @@ html {
 }
 .container {
   padding: 0 0px;
-  font-family: Times New Roman;
 }
 .container::after, .row::after {
   content: "";
   clear: both;
   display: table;
-  font-family: Times New Roman;
 }
 .title {
   color: grey;
@@ -77,7 +75,6 @@ td {
   text-align: left;
   outline: none;
   font-size: 15px;
-  font-family: Times New Roman;
 }
 .active, .collapsible:hover {
   background-color: #6495ED;
