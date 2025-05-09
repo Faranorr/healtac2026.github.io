@@ -6,9 +6,6 @@ title: "Programme"
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <script src='https://kit.fontawesome.com/a076d05399.js' crossorigin='anonymous'></script>
 <style>
-body {
-  font-family: Times New Roman;
-}
 html {
   box-sizing: border-box;
 }
@@ -212,7 +209,7 @@ td {
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;">13:30-14:30</td>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Keynote: <strong style="font-weight: bold;">Dr Jason Fries</strong> (Stanford University) <br>
-<button class="collapsible">**AI for Healthcare: Text as a Medium for Multimodal datasets**</button>
+<button class="collapsible">Addressing the Missing Context Problem in Foundation Models for Healthcare</button>
 <div class="content">
   <p style=" color: black; background-color: white; text-decoration: none;"></p></div></td>
 </tr>
