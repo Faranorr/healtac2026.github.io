@@ -2,7 +2,97 @@
 permalink: /programme/
 title: "Programme"
 ---
-
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src='https://kit.fontawesome.com/a076d05399.js' crossorigin='anonymous'></script>
+<style>
+body {
+  font-family: Times New Roman;
+}
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+.column {
+  float: left;
+  width: auto;
+  margin-bottom: 16px;
+  padding: 0 0px;
+  font-family: Times New Roman;
+}
+@media screen and (max-width: 650px) {
+  .column {
+    width: auto;
+    display: block;
+  }
+}
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+.container {
+  padding: 0 0px;
+  font-family: Times New Roman;
+}
+.container::after, .row::after {
+  content: "";
+  clear: both;
+  display: table;
+  font-family: Times New Roman;
+}
+.title {
+  color: grey;
+}
+.button {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 8px;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+}
+.button:hover {
+  background-color: #009999;
+}
+table {
+  width: auto;
+}
+th, td {
+  text-align: left;
+  padding: 40px;
+  font-family: Times New Roman;
+}
+td {
+  border-bottom: 1px solid #ddd;
+}
+.collapsible {
+  background-color:  #F0F8FF;
+  color: #6495ED;
+  cursor: pointer;
+  padding: 8px;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+  font-family: Times New Roman;
+}
+.active, .collapsible:hover {
+  background-color: #6495ED;
+  color: black;
+}
+.content {
+  padding: 0 8px;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+  font-size: 14px;
+  font-family: Times New Roman;
+}
+</style>
 <h5 style="margin-bottom: 0.9375rem; font-weight: bold; line-height: 1.1; color: #6495ED; font-size: 0.9375rem; clear: both; text-transform: uppercase; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; text-align: start;">MONDAY, JUNE 16TH 2025</h5>
 <table class="programme-table" style="background-color: #ffffff; margin-bottom: 20px; width: 790.2px; border-color: #e9e9e9; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; text-align: start;" border="0">
 <tr>
@@ -140,6 +230,22 @@ title: "Programme"
 </tr>
 </table>
 
+
+<script>
+var coll = document.getElementsByClassName("collapsible");
+var i;
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.maxHeight){
+      content.style.maxHeight = null;
+    } else {
+      content.style.maxHeight = content.scrollHeight + "px";
+    } 
+  });
+}
+</script>
 <h4 style="color:#009999;">Keynote speakers</h4>
 <p><a href="https://web.stanford.edu/~jfries/"> Jason Fries</a> is a research scientist at Stanford University, working on training and evaluating multimodal foundation models for healthcare.  His  research focuses on training and evaluating foundation models for healthcare and is positioned at the intersection of computer science, medical informatics, and hospital systems. Much of his work explores using electronic health record (EHR) data to contextualize human health, leveraging longitudinal patient information to inform model development and evaluation.</p>
 
@@ -160,20 +266,3 @@ Current PhD students  and early career researchers will present their on-going r
 <h4 style="color:#009999;">Presentations, demos and posters</h4>
 Throughout the conference, we will have presentations from the community across the UK and internationally, including talks, software demos and posters. 
 <h5 style="color:#003865; font-family: sans-serif;">Please note that the poster size is A0 portrait, but A1 portrait is also acceptable.</h5>
-
-
-<script>
-var coll = document.getElementsByClassName("collapsible");
-var i;
-for (i = 0; i < coll.length; i++) {
-  coll[i].addEventListener("click", function() {
-    this.classList.toggle("active");
-    var content = this.nextElementSibling;
-    if (content.style.maxHeight){
-      content.style.maxHeight = null;
-    } else {
-      content.style.maxHeight = content.scrollHeight + "px";
-    } 
-  });
-}
-</script>
