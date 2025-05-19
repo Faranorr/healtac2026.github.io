@@ -38,7 +38,7 @@ a:active {
 <h1>Campus Accomodation</h1><br>
 --->
 <p>
-We provide the accommodation option at the University's student hall, priced at <strong>£43 per night</strong>. Bookings can be made for stays from <strong>Monday, 16th June 2025</strong>, with departures no later than <strong>Thursday, 19th June 2025</strong>. You are welcome to book for any number of nights within this period.  Note that the University accommodation will <strong>not be available</strong> before Monday, 16th June - people requiring accommodation on Sunday, 15th June, or earlier should consider alternative local hotels.
+We provide the accommodation option at the University's student hall, priced at <strong>£43 per night</strong>. Bookings can be made for stays from Monday, 16th June 2025, with departures no later than Thursday, 19th June 2025. You are welcome to book for any number of nights within this period.  Note that the University accommodation will <strong>not be available</strong> before Monday, 16th June - people requiring accommodation on Sunday, 15th June, or earlier should consider alternative local hotels.
 </p>
 
 <p>
