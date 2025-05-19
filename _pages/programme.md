@@ -307,7 +307,7 @@ Throughout the conference, we will have presentations from the community across 
 <li>Simon Ellershaw, Christopher Tomlinson, Zeljko Kraljevic, Angela Wood and Richard Dobson	Foresight: a national-scale foundation model of 51 million patients for generative medical event prediction</li>
 </ul>
 
-<h4 style="color:#009999;">PhD submissions</h4>
+<h4 style="color:#009999;">Posters</h4>
 <ul>
 <li>Tarso Franarin, Jack Richmond, Barrett Abernethy and Gloria Roque:	Methodology for Validating Named Entity Recognition for Low Prevalent Concepts</li>
 <li>Phoey Lee Teh, Peter Saul and Mobeen Tahir:	Enhancing User Experience with AI-Driven LLM-Based Dialogue and Mapping of NHS Services in Wales</li>
