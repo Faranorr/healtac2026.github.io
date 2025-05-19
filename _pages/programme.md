@@ -218,7 +218,8 @@ This panel will bring together experts in bias mitigation, psychology, health se
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Panel<br>
 <button class="collapsible">Challenges of deploying AI/NLP in the NHS/health systems</button>
 <div class="content">
-  <p style=" color: black; background-color: white; text-decoration: none;"></p></div>
+  <p style=" color: black; background-color: white; text-decoration: none;">Industry panel this year will focus on <strong>Challenges of deploying AI/NLP in the NHS/health systems</strong>. Panellists will be from industry, NHS, regulatory bodies and patient groups.
+</p></div>
 </td>
 </tr>
 <tr>
