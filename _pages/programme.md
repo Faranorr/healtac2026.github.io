@@ -263,16 +263,17 @@ Current PhD students  and early career researchers will present their on-going r
 Throughout the conference, we will have presentations from the community across the UK and internationally, including talks, software demos and posters. 
 <h5 style="color:#003865; font-family: sans-serif;">Please note that the poster size is A0 portrait, but A1 portrait is also acceptable.</h5>
 --->
+
 <h4 style="color:#009999;">Ligthning talks</h4>
 <ul>
-<li>Elizabeth Remfry, Jaya Chaturvedi, Sarah Markham, Elizabeth Ford and Mel Ramasawmy:	Co-design of an Animated Video to Explain Large Language Models and Their Use in Research
-<li>Vlad Dinu, Shubham Agarwal and Thomas Searle:	RelCAT: Advancing Extraction of Clinical Inter-Entity Relationships from Unstructured Electronic Health Records
-<li>Keiran Tait, Joseph Cronin and Robert Dürichen:	Optimising your training data using model-led iterative confidence-based sample selection.
-<li>Areej Alhassan, Viktor Schlegel, Rina Cabral, Riza Batista-Navarro, Caren Han, Josiah Poon and Goran Nenadic: Recognition and Linking of Discontinuous Named Entities in Healthcare: A Comparative Performance Analysis
-<li>Jenny Chim and Maria Liakata:	Evaluating Privacy Leakages in LLM-driven Ambient Clinical Documentation
-<li>Joseph Cronin, Lawrence Adams, Keiran Tait, Janie Baxter and Robert Durichen:	ArcMap – a new tool to accelerate real-world data standardisation at scale
-<li>Yusuf Abdulle, Jinge Wu, Sanjay Budhdeo, Yunsoo Kim, Jiashu Shen, Emily Sun, Waqar Ali, Chengliang Dai, Phil Scordis, Arijit Patra, Zhi Yao, Chris Tomlinson, Ahmad Al Khleifat, Ammar Al-Chalabi, Alfredo Iacoangeli, Paul Taylor, Sarah Wild, Zina Ibrahim, Richard Dobson and Honghan Wu: Can GPT-4 be a good red flagger for MND? A comparative study on 58M adults in England
-<li>Kawsar Noor, Richard J Dobson and James Booker: Assistive Tools for Faster Clinical Trial Recruitment: A Neurology Use Case
+<li>Elizabeth Remfry, Jaya Chaturvedi, Sarah Markham, Elizabeth Ford and Mel Ramasawmy:	Co-design of an Animated Video to Explain Large Language Models and Their Use in Research</li>
+<li>Vlad Dinu, Shubham Agarwal and Thomas Searle:	RelCAT: Advancing Extraction of Clinical Inter-Entity Relationships from Unstructured Electronic Health Records</li>
+<li>Keiran Tait, Joseph Cronin and Robert Dürichen:	Optimising your training data using model-led iterative confidence-based sample selection</li>
+<li>Areej Alhassan, Viktor Schlegel, Rina Cabral, Riza Batista-Navarro, Caren Han, Josiah Poon and Goran Nenadic: Recognition and Linking of Discontinuous Named Entities in Healthcare: A Comparative Performance Analysis</li>
+<li>Jenny Chim and Maria Liakata:	Evaluating Privacy Leakages in LLM-driven Ambient Clinical Documentation</li>
+<li>Joseph Cronin, Lawrence Adams, Keiran Tait, Janie Baxter and Robert Durichen:	ArcMap – a new tool to accelerate real-world data standardisation at scale</li>
+<li>Yusuf Abdulle, Jinge Wu, Sanjay Budhdeo, Yunsoo Kim, Jiashu Shen, Emily Sun, Waqar Ali, Chengliang Dai, Phil Scordis, Arijit Patra, Zhi Yao, Chris Tomlinson, Ahmad Al Khleifat, Ammar Al-Chalabi, Alfredo Iacoangeli, Paul Taylor, Sarah Wild, Zina Ibrahim, Richard Dobson and Honghan Wu: Can GPT-4 be a good red flagger for MND? A comparative study on 58M adults in England</li>
+<li>Kawsar Noor, Richard J Dobson and James Booker: Assistive Tools for Faster Clinical Trial Recruitment: A Neurology Use Case</li>
 <li>Beatrice Alex, Claire Grover, Richard Tobin, Arlene Casey, Emma Davidson, Matthew Iveson, Mome Mukherjee, Huayu Zhang, Laura Sherlock, Emily Ball, Grant Mair, Alice Hosking, Franz Gruber, Michael Poon, Alexander Doney, Susan Krueger, Heather Whalley, Fergus Doubal, Sotos Tsaftaris, Maria del C. Valdés Hernández, Douglas Steele, Emanuele Trucco, Joanna Wardlaw and William Whiteley:	Advancing Neuroimaging Research with NLP: Three Large-Scale Population-Based Studies in Scotland</li>
 </ul>
 
@@ -286,50 +287,50 @@ Throughout the conference, we will have presentations from the community across 
 
 <h4 style="color:#009999;">PhD submissions</h4>
 <ul>
-<li>Xinyue Zhang, Agathe Zecevic, Sebastian Zeki and Angus Roberts: Improving Barrett’s Oesophagus Surveillance Scheduling with Large Language Models: A Structured Extraction Approach
-<li>Simona E. Doneva and Benjamin Victor Ineichen:	Bridging Animal and Human Evidence in Neuroscience: A Large-Scale NLP Approach to Improve Drug Development
-<li>Xi Zhang, Zaiqiao Meng, Jake Lever and Edmond S. L. Ho:	Towards Temporal-Aware Multimodal Large Language Models for Improved Radiology Report Generation
-<li>Zhaohan Meng, Zaiqiao Meng, Ke Yuan and Iadh Ounis:	FusionDTI: Fine-grained Binding Discovery with Token-level Fusion for Drug-Target Interaction
-<li>Hana Elsherbeny:	Improved Medical Coding using Sparse Retrieval Techniques
-<li>Ian Paul Grant, Margareta A. Kulcsar and Massimo Poesio:	Supporting Autism Spectrum Diagnosis: Behaviour Classification as a Form of Event Extraction
-<li>Mengzhe Xu, Anna Moore, Goran Nenadic, Peter Fonagy, Rachel Sippy, Elizabeth Simes, M A Hussein Wahedally and Niels Peek:	Supporting Qualitative Assessment of Healthcare Services with Large Language Models
-<li>Ebrahim Alharbi and Mark Stevenson:	Assessing the Impact of Emerging Research on Systematic Reviews
-<li>Elisa Castagnari, Ole Eigenbrod, Honghan Wu and T. Ian Simpson:	Improving Digital Healthcare Solutions with Data Interoperability and Large Language Models
-<li>Samuel Thio and Richard Dobson:	Graph RAG with Vector Indexing for Patient-Level Queries from Neo4j-Stored EHR Data
-<li>Adarsa Sivaprasad and Ehud Reiter:	A conversational agent to address patient needs for out-of-distribution explanations.
-<li>Sun Bin Kim, Dominic Oliver and Daniel Stahl:	Predicting Psychosis Onset Using NLP-Based Symptom Extraction and Machine Learning
-<li>Anthony Hughes and Ning Ma:	Privacy Preservation in Primary Care: A Case Study in Adoption and Gender Reassignment
-<li>Xinhao Yi, Jake Lever, Kevin Bryson and Zaiqiao Meng:	Editing LLMs for Long-Tail Biomedical Knowledge
-<li>Michael Mooney and Edmond S. L Ho:	A New Frontier for Dyslexia Screening
-<li>Hang Wang, Hang Dong and Lu Liu	AutoMed-KG: A Self-Evolving LLM-Driven Approach for Medical Knowledge Graph Construction and Enrichment
-<li>Linglong Qian and Zina M. Ibrahim	COMBAT: COncept-Based Multimodal Artificial Intelli-gence for BreAsT Cancer
-<li>Simon Ellershaw, Christopher Tomlinson, Zeljko Kraljevic, Angela Wood and Richard Dobson	Foresight: a national-scale foundation model of 51 million patients for generative medical event prediction
+<li>Xinyue Zhang, Agathe Zecevic, Sebastian Zeki and Angus Roberts: Improving Barrett’s Oesophagus Surveillance Scheduling with Large Language Models: A Structured Extraction Approach</li>
+<li>Simona E. Doneva and Benjamin Victor Ineichen:	Bridging Animal and Human Evidence in Neuroscience: A Large-Scale NLP Approach to Improve Drug Development</li>
+<li>Xi Zhang, Zaiqiao Meng, Jake Lever and Edmond S. L. Ho:	Towards Temporal-Aware Multimodal Large Language Models for Improved Radiology Report Generation</li>
+<li>Zhaohan Meng, Zaiqiao Meng, Ke Yuan and Iadh Ounis:	FusionDTI: Fine-grained Binding Discovery with Token-level Fusion for Drug-Target Interaction</li>
+<li>Hana Elsherbeny:	Improved Medical Coding using Sparse Retrieval Techniques</li>
+<li>Ian Paul Grant, Margareta A. Kulcsar and Massimo Poesio:	Supporting Autism Spectrum Diagnosis: Behaviour Classification as a Form of Event Extraction</li>
+<li>Mengzhe Xu, Anna Moore, Goran Nenadic, Peter Fonagy, Rachel Sippy, Elizabeth Simes, M A Hussein Wahedally and Niels Peek:	Supporting Qualitative Assessment of Healthcare Services with Large Language Models</li>
+<li>Ebrahim Alharbi and Mark Stevenson:	Assessing the Impact of Emerging Research on Systematic Reviews</li>
+<li>Elisa Castagnari, Ole Eigenbrod, Honghan Wu and T. Ian Simpson:	Improving Digital Healthcare Solutions with Data Interoperability and Large Language Models</li>
+<li>Samuel Thio and Richard Dobson:	Graph RAG with Vector Indexing for Patient-Level Queries from Neo4j-Stored EHR Data</li>
+<li>Adarsa Sivaprasad and Ehud Reiter:	A conversational agent to address patient needs for out-of-distribution explanations</li>
+<li>Sun Bin Kim, Dominic Oliver and Daniel Stahl:	Predicting Psychosis Onset Using NLP-Based Symptom Extraction and Machine Learning</li>
+<li>Anthony Hughes and Ning Ma:	Privacy Preservation in Primary Care: A Case Study in Adoption and Gender Reassignment</li>
+<li>Xinhao Yi, Jake Lever, Kevin Bryson and Zaiqiao Meng:	Editing LLMs for Long-Tail Biomedical Knowledge</li>
+<li>Michael Mooney and Edmond S. L Ho:	A New Frontier for Dyslexia Screening</li>
+<li>Hang Wang, Hang Dong and Lu Liu	AutoMed-KG: A Self-Evolving LLM-Driven Approach for Medical Knowledge Graph Construction and Enrichment</li>
+<li>Linglong Qian and Zina M. Ibrahim	COMBAT: COncept-Based Multimodal Artificial Intelli-gence for BreAsT Cancer</li>
+<li>Simon Ellershaw, Christopher Tomlinson, Zeljko Kraljevic, Angela Wood and Richard Dobson	Foresight: a national-scale foundation model of 51 million patients for generative medical event prediction</li>
 </ul>
 
 <h4 style="color:#009999;">PhD submissions</h4>
 <ul>
-<li>Tarso Franarin, Jack Richmond, Barrett Abernethy and Gloria Roque:	Methodology for Validating Named Entity Recognition for Low Prevalent Concepts
-<li>Phoey Lee Teh, Peter Saul and Mobeen Tahir:	Enhancing User Experience with AI-Driven LLM-Based Dialogue and Mapping of NHS Services in Wales
-<li>Mengxuan Sun, Ehud Reiter, Anne Kiltie, George Ramsay, Peter Murchie, Lisa Duncan and Rosalind Adam:	Effectiveness of ChatGPT4 in explaining complex medical reports to patients
-<li>Adam Sutton, Vlad Dinu, Thomas Searle and Richard Dobson:	Clinical Insights from MIMIC-IV Using NLP and CogStack
-<li>Diana Shamsutdinova, Jaya Chaturvedi, Saniya Deshpande, Chenkai Ma, Robert Cobb, Angus Roberts, Daniel Stahl and Robert Stewart:	Determinants of Training Corpus Size for Clinical Text Classification
-<li>Georgina Cosma, Patrick Waterson, Thomas Jun and Jonathan Back:	What do Prevention of Future Death Reports tell us about maternity care in UK hospitals?
-<li>Mart Ratas, Thomas Searle and Richard Dobson:	Building MedCATv2 for a Flexible, Lightweight and Powerful Clinical Named Entity and Linking toolkit.
-<li>Yunsoo Kim, Michal Ong, Alex Shavick, Gabrille Klimovitsky, Manuel Rodriguez-Justo, Honghan Wu and Adam Levine:	Enhancing Histopathology Report Analysis with Large Language Models for Immunohistochemical-Tumour Profile Extraction
-<li>Paul Legrand, Kawsar Noor, Satyam Bhagwanani and Richard Dobson:	An Open-Source Text-to-SQL Pipeline for OMOP-Formatted Electronic Health Records
-<li>Daqian Shi, Xiaolei Diao, Yuanxi Sun and Paulina Bondaronek:	Human Feedback in Public Health Events: In-Depth Insights from Semi-structured Population Data
-<li>Frederik Labonté, Lucie Flek and Akbar Karimi:	Synthetic Data and Reasoning, Outlines towards better Biomedical Event Extraction
-<li>Daisy Lal, Paul Rayson, Lucia Pitarch and Sander Puts:	Sentiment Analysis of Cancer Metaphors: Comparing Human and Machine Interpretation
-<li>Hareeshan Elankeeran, Ehud Reiter and Yuxuan Zhang:	Sense-checking Clinical Radiology Reports Using Smaller LLMs
-<li>Ben Holgate, Joe Davies, Shichao Fang, Joel Winston and Mark Richardson:	Using LLMs to Extract Epilepsy Data from Electronic Health Records to Develop a Treatment Response Prediction Model
-<li>T. Michael Yates, Simona E. Doneva and T. Ian Simpson:	Defining the Landscape of Genetic Developmental Disorders by Classification of Peer-Reviewed Literature with LitDD_BERT
-<li>Matúš Falis, Matthew Iveson, Samuel McInerney, Franz Gruber, Emily Ball, Luke Daines, Heather Whalley and Arlene Casey:	Lessons Learned from Analysis of GP Free-text Data  (A Case Study on Depression)
-<li>Raúl Ortega and José Manuel Gómez-Pérez:	Streamlining Biomedical Claim Analysis with State-of-the-Art LLMs
-<li>Shubham Agarwal, Thomas Searle and Richard Dobson:	Hybrid RAG for Contextualized Clinical Note Retrieval in EHRs
-<li>Fahrurrozi Rahman, Imane Guellil, Abul Hasan, Huayu Zhang, Matus Falis, Arlene Casey, Honghan Wu, Bruce Guthrie and Beatrice Alex:	Natural Language Processing in Geriatric Syndromes Research: A Systematic Review of Methods, Applications, and Challenges
-<li>Jack Wu, Dhanushan Vijayakumar, Daksh Mehta, Thomas Searle, Richard Dobson, Ajay Shah and Kevin O'Gallagher:	Temporal Information Extraction for Acute Myocardial Infarction in Electronic Health Records using Large Language Models
-<li>Rosni Vasu, Hang Dong, Yusuf Abdulle, Judith Harrison and Honghan Wu:	A Large Language Model based Framework for Dementia Related Hypothesis Generation
-<li>Jack Wu, Dhruva Biswas, Samuel Brown, Brett Bernstein, Thomas Searle, Maleeha Rizvi, Dhanushan Vijayakumar, Daksh Mehta, Gerald Carr-White, Richard Dobson, Thomas Luscher, Ali Vazir, Theresa McDonagh, Ajay Shah and Kevin O'Gallagher:	Artificial Intelligence Methods to Detect Heart Failure with Preserved Ejection Fraction within Electronic Health Records
-<li>Mingyang Li, Viktor Schlegel, Tingting Mu and Goran Nenadic:	Less is More: Enhancing ICD Coding via Influential Rationales – A Comprehensive Analysis of Explainability of ICD Coding
-<li>Paul Legrand, Kawsar Noor, Satyam Bhagwanani and Richard Dobson:	An Open-Source Text-to-SQL Dataset over OMOP-Formatted MIMIC-IV
-</li></ul>
+<li>Tarso Franarin, Jack Richmond, Barrett Abernethy and Gloria Roque:	Methodology for Validating Named Entity Recognition for Low Prevalent Concepts</li>
+<li>Phoey Lee Teh, Peter Saul and Mobeen Tahir:	Enhancing User Experience with AI-Driven LLM-Based Dialogue and Mapping of NHS Services in Wales</li>
+<li>Mengxuan Sun, Ehud Reiter, Anne Kiltie, George Ramsay, Peter Murchie, Lisa Duncan and Rosalind Adam:	Effectiveness of ChatGPT4 in explaining complex medical reports to patients</li>
+<li>Adam Sutton, Vlad Dinu, Thomas Searle and Richard Dobson:	Clinical Insights from MIMIC-IV Using NLP and CogStack</li>
+<li>Diana Shamsutdinova, Jaya Chaturvedi, Saniya Deshpande, Chenkai Ma, Robert Cobb, Angus Roberts, Daniel Stahl and Robert Stewart:	Determinants of Training Corpus Size for Clinical Text Classification</li>
+<li>Georgina Cosma, Patrick Waterson, Thomas Jun and Jonathan Back:	What do Prevention of Future Death Reports tell us about maternity care in UK hospitals?</li>
+<li>Mart Ratas, Thomas Searle and Richard Dobson:	Building MedCATv2 for a Flexible, Lightweight and Powerful Clinical Named Entity and Linking toolkit</li>
+<li>Yunsoo Kim, Michal Ong, Alex Shavick, Gabrille Klimovitsky, Manuel Rodriguez-Justo, Honghan Wu and Adam Levine:	Enhancing Histopathology Report Analysis with Large Language Models for Immunohistochemical-Tumour Profile Extraction</li>
+<li>Paul Legrand, Kawsar Noor, Satyam Bhagwanani and Richard Dobson:	An Open-Source Text-to-SQL Pipeline for OMOP-Formatted Electronic Health Records</li>
+<li>Daqian Shi, Xiaolei Diao, Yuanxi Sun and Paulina Bondaronek:	Human Feedback in Public Health Events: In-Depth Insights from Semi-structured Population Data</li>
+<li>Frederik Labonté, Lucie Flek and Akbar Karimi:	Synthetic Data and Reasoning, Outlines towards better Biomedical Event Extraction</li>
+<li>Daisy Lal, Paul Rayson, Lucia Pitarch and Sander Puts:	Sentiment Analysis of Cancer Metaphors: Comparing Human and Machine Interpretation</li>
+<li>Hareeshan Elankeeran, Ehud Reiter and Yuxuan Zhang:	Sense-checking Clinical Radiology Reports Using Smaller LLMs</li>
+<li>Ben Holgate, Joe Davies, Shichao Fang, Joel Winston and Mark Richardson:	Using LLMs to Extract Epilepsy Data from Electronic Health Records to Develop a Treatment Response Prediction Model</li>
+<li>T. Michael Yates, Simona E. Doneva and T. Ian Simpson:	Defining the Landscape of Genetic Developmental Disorders by Classification of Peer-Reviewed Literature with LitDD_BERT</li>
+<li>Matúš Falis, Matthew Iveson, Samuel McInerney, Franz Gruber, Emily Ball, Luke Daines, Heather Whalley and Arlene Casey:	Lessons Learned from Analysis of GP Free-text Data  (A Case Study on Depression)</li>
+<li>Raúl Ortega and José Manuel Gómez-Pérez:	Streamlining Biomedical Claim Analysis with State-of-the-Art LLMs</li>
+<li>Shubham Agarwal, Thomas Searle and Richard Dobson:	Hybrid RAG for Contextualized Clinical Note Retrieval in EHRs</li>
+<li>Fahrurrozi Rahman, Imane Guellil, Abul Hasan, Huayu Zhang, Matus Falis, Arlene Casey, Honghan Wu, Bruce Guthrie and Beatrice Alex:	Natural Language Processing in Geriatric Syndromes Research: A Systematic Review of Methods, Applications, and Challenges</li>
+<li>Jack Wu, Dhanushan Vijayakumar, Daksh Mehta, Thomas Searle, Richard Dobson, Ajay Shah and Kevin O'Gallagher:	Temporal Information Extraction for Acute Myocardial Infarction in Electronic Health Records using Large Language Models</li>
+<li>Rosni Vasu, Hang Dong, Yusuf Abdulle, Judith Harrison and Honghan Wu:	A Large Language Model based Framework for Dementia Related Hypothesis Generation</li>
+<li>Jack Wu, Dhruva Biswas, Samuel Brown, Brett Bernstein, Thomas Searle, Maleeha Rizvi, Dhanushan Vijayakumar, Daksh Mehta, Gerald Carr-White, Richard Dobson, Thomas Luscher, Ali Vazir, Theresa McDonagh, Ajay Shah and Kevin O'Gallagher:	Artificial Intelligence Methods to Detect Heart Failure with Preserved Ejection Fraction within Electronic Health Records</li>
+<li>Mingyang Li, Viktor Schlegel, Tingting Mu and Goran Nenadic:	Less is More: Enhancing ICD Coding via Influential Rationales – A Comprehensive Analysis of Explainability of ICD Coding</li>
+<li>Paul Legrand, Kawsar Noor, Satyam Bhagwanani and Richard Dobson:	An Open-Source Text-to-SQL Dataset over OMOP-Formatted MIMIC-IV</li>
+</ul>
