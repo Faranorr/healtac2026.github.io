@@ -154,7 +154,7 @@ td {
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Panel<br>
 <button class="collapsible">Opportunities and challenges in LLMs for health research: A multidisciplinary perspective on surfacing social inequalities, bias detection, and mitigation</button>
 <div class="content">
-  <p style=" color: black; background-color: white; text-decoration: none;">
+  <p style=" color: black; background-color: white; text-decoration: none;"><p></p><p></p>
 This panel will bring together experts in bias mitigation, psychology, health services research, and behavioural science to critically assess how LLMs can be designed to create more equitable health interventions.  It will be organised by <a href="https://profiles.ucl.ac.uk/99823-julia-ive"> Julia Ive</a> and <a href="https://profiles.ucl.ac.uk/39768-paulina-bondaronek">Paulina Bondaronek</a> from UCL. 
 </p></div>
 </td>
