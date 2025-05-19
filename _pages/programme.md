@@ -169,7 +169,7 @@ This panel will bring together experts in bias mitigation, psychology, health se
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;">14:00-15:00</td>
-<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Short presentations for advertising your posters</td>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Lightning talks</td>
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;">15:00-16:00</td>
@@ -196,7 +196,7 @@ This panel will bring together experts in bias mitigation, psychology, health se
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="15%">10:15-11:15</td>
-<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">PhD Lighting talks</td>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">PhD Lightning talks</td>
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="15%">11:15-12:30</td>
@@ -249,6 +249,7 @@ for (i = 0; i < coll.length; i++) {
 
 <p><a href="https://scholar.google.co.uk/citations?user=XRKjluIAAAAJ">Alison O'Neil</a> is a Principal Scientist in the AI Research Team at Canon Medical Research Europe. Her research focuses on machine learning techniques for healthcare applications for medical imaging, natural language processing, and electronic health record data. Her research has covered techniques for medical image registration, segmentation of anatomy and pathology, anatomical landmark detection, and more recently prediction of outcomes from clinical data and the extraction of semantic information from medical text.</p>
 
+<!----
 <h4 style="color:#009999;">Workshop on NLP in mental health</h4>
   On Monday June 16th, there will be a workshop on <strong>"NLP in mental health care and research"</strong>, organised by <a href="https://datamind.org.uk/">DATAMIND - The Health Data Research Hub for Mental Health</a> (<a href="/workshop/">see more</a>).
 
@@ -261,3 +262,4 @@ Current PhD students  and early career researchers will present their on-going r
 <h4 style="color:#009999;">Presentations, demos and posters</h4>
 Throughout the conference, we will have presentations from the community across the UK and internationally, including talks, software demos and posters. 
 <h5 style="color:#003865; font-family: sans-serif;">Please note that the poster size is A0 portrait, but A1 portrait is also acceptable.</h5>
+--->
