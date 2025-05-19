@@ -272,14 +272,14 @@ Throughout the conference, we will have presentations from the community across 
 <li>Jenny Chim and Maria Liakata:	Evaluating Privacy Leakages in LLM-driven Ambient Clinical Documentation
 <li>Joseph Cronin, Lawrence Adams, Keiran Tait, Janie Baxter and Robert Durichen:	ArcMap – a new tool to accelerate real-world data standardisation at scale
 <li>Yusuf Abdulle, Jinge Wu, Sanjay Budhdeo, Yunsoo Kim, Jiashu Shen, Emily Sun, Waqar Ali, Chengliang Dai, Phil Scordis, Arijit Patra, Zhi Yao, Chris Tomlinson, Ahmad Al Khleifat, Ammar Al-Chalabi, Alfredo Iacoangeli, Paul Taylor, Sarah Wild, Zina Ibrahim, Richard Dobson and Honghan Wu: Can GPT-4 be a good red flagger for MND? A comparative study on 58M adults in England
-<lI>Kawsar Noor, Richard J Dobson and James Booker	Assistive Tools for Faster Clinical Trial Recruitment: A Neurology Use Case![image](https://github.com/user-attachments/assets/3781fdf1-1634-495d-92b8-9b75e3440654)
-<li>Beatrice Alex, Claire Grover, Richard Tobin, Arlene Casey, Emma Davidson, Matthew Iveson, Mome Mukherjee, Huayu Zhang, Laura Sherlock, Emily Ball, Grant Mair, Alice Hosking, Franz Gruber, Michael Poon, Alexander Doney, Susan Krueger, Heather Whalley, Fergus Doubal, Sotos Tsaftaris, Maria del C. Valdés Hernández, Douglas Steele, Emanuele Trucco, Joanna Wardlaw and William Whiteley:	Advancing Neuroimaging Research with NLP: Three Large-Scale Population-Based Studies in Scotland
+<li>Kawsar Noor, Richard J Dobson and James Booker: Assistive Tools for Faster Clinical Trial Recruitment: A Neurology Use Case
+<li>Beatrice Alex, Claire Grover, Richard Tobin, Arlene Casey, Emma Davidson, Matthew Iveson, Mome Mukherjee, Huayu Zhang, Laura Sherlock, Emily Ball, Grant Mair, Alice Hosking, Franz Gruber, Michael Poon, Alexander Doney, Susan Krueger, Heather Whalley, Fergus Doubal, Sotos Tsaftaris, Maria del C. Valdés Hernández, Douglas Steele, Emanuele Trucco, Joanna Wardlaw and William Whiteley:	Advancing Neuroimaging Research with NLP: Three Large-Scale Population-Based Studies in Scotland</li>
 </ul>
 
 <h4 style="color:#009999;">Demos</h4>
 <ul>
-<li>Julia Ive, Felix Jozsa, Nick Jackson, Paulina Bondaronek, Ciaran Scott Hill and Richard Dobson:	Clean & Clear: Feasibility of Safe LLM Clinical Guidance
-<li>Yunsoo Kim, Michal Ong, Daniel Rogalsky, Manuel Rodriguez-Justo, Honghan Wu and Adam Levine:	IHC-LLMiner: Automated extraction of tumour immunohistochemical profiles from PubMed abstracts using large language models
-<li>David M. Howcroft, Mohammed Lawal, Effie Marathia, Dewei Yi, Julia Allan, Ehud Reiter and Peter Murchie:	ASICA+: a new and improved app to help melanoma patients with total skin self examinations
-<li>Andrew Steele, Tracy Ibbotson and Fiona Strachan:	Co-production of AI-powered PPIE Panels for  Healthcare Research
+<li>Julia Ive, Felix Jozsa, Nick Jackson, Paulina Bondaronek, Ciaran Scott Hill and Richard Dobson:	Clean & Clear: Feasibility of Safe LLM Clinical Guidance</li>
+<li>Yunsoo Kim, Michal Ong, Daniel Rogalsky, Manuel Rodriguez-Justo, Honghan Wu and Adam Levine:	IHC-LLMiner: Automated extraction of tumour immunohistochemical profiles from PubMed abstracts using large language models</li>
+<li>David M. Howcroft, Mohammed Lawal, Effie Marathia, Dewei Yi, Julia Allan, Ehud Reiter and Peter Murchie:	ASICA+: a new and improved app to help melanoma patients with total skin self examinations</li>
+<li>Andrew Steele, Tracy Ibbotson and Fiona Strachan:	Co-production of AI-powered PPIE Panels for  Healthcare Research</li>
 </ul>
