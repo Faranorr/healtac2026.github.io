@@ -33,22 +33,19 @@ a:active {
 </style>
 </head>
 <body>
-<h5 style="color:#003865; font-family: sans-serif;">Kindly note that accommodation must be booked separately from registration.</h5>
+<!--- <h5 style="color:#003865; font-family: sans-serif;">Kindly note that accommodation must be booked separately from registration.</h5>
 
 <h1>Campus Accomodation</h1><br>
+--->
 <p>
-  We provide the accommodation option at the University's student hall, priced at <strong>£43 per night</strong>. Bookings can be made for stays beginning from <strong>Monday, 16th June 2025</strong>, with departures no later than <strong>Thursday, 19th June 2025</strong>. You are welcome to book for any number of nights within this period.
+We provide the accommodation option at the University's student hall, priced at <strong>£43 per night</strong>. Bookings can be made for stays from <strong>Monday, 16th June 2025</strong>, with departures no later than <strong>Thursday, 19th June 2025</strong>. You are welcome to book for any number of nights within this period.  Note that the University accommodation will <strong>not be available</strong> before Monday, 16th June - people requiring accommodation on Sunday, 15th June, or earlier should consider alternative local hotels.
 </p>
 
 <p>
   A link for the University of Glasgow accommodation and the promotion code for booking will be provided shortly after the registration.
 </p>
 
-<h5 style="color:#003865; font-family:sans-serif;">Please note:</h5>
-<p>
-  University accommodation will <strong>not be available</strong> before Monday, 16th June, due to preparations following the students' term-time departure.<br>
-  People requiring accommodation on Sunday, 15th June, or earlier should consider alternative local hotels such as:
-</p>
+<h5 style="color:#003865; font-family:sans-serif;">Aleternative local hotels:</h5>
 
 <ul>
   <li><a href="https://www.radissonhotels.com/en-us/hotels/radisson-blu-glasgow?msockid=0daa796588e869933e696d8e89d868bb">Radisson Blu Glasgow</a></li>
