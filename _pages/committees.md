@@ -126,9 +126,10 @@ a:active {
     <li>Keiran	Tait, Arcturis Data
     <li>Phoey Lee	Teh, Wrexham University
     <li>Ariel	Teles, King's College London and IFMA
-    <li>James	Teo	Kings College Hospital NHS Foundation Trust
-    <li>Chris	Tomlinson, LifeArc
-    <li>Honghan	Wu, University of Glasgow
+    <li>James	Teo	Kings College Hospital NHS Foundation Trust</li>
+    <li>Chris	Tomlinson, LifeArc</li>
+    <li>Honghan	Wu, University of Glasgow</li>
+    
     </ul>
 </body>
 </html>
