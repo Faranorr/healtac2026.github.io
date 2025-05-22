@@ -129,8 +129,7 @@ a:active {
     <li>James	Teo	Kings College Hospital NHS Foundation Trust</li>
     <li>Chris	Tomlinson, LifeArc</li>
     <li>Honghan	Wu, University of Glasgow</li>
-    
-    </ul>
+ </ul>
 </body>
 </html>
 
