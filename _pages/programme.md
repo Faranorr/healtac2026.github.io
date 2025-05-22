@@ -143,7 +143,7 @@ td {
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Keynote: <strong style="font-weight: bold;">Dr Alison O'Neil</strong> (Canon Medical Research Europe) <br>
 <button class="collapsible">AI for Healthcare: Text as a Medium for Multimodal datasets</button>
 <div class="content">
-  <p style=" color: black; background-color: white; text-decoration: none;">Large language models have enabled healthcare professionals to interact with digital data to perform an unprecedented range of tasks, with impressive human-level performance already for some medical tasks. In this talk we examine specifically how such models can provide a direct interface for healthcare professionals to types of data beyond text, for tasks such as automatic image reporting and clinical data audit. These tasks are challenging because access to patient data is challenging, therefore many existing general purpose models will have had little exposure to relevant data during training. Meantime, errors in medical data interpretation can have fatal consequences, leading to stringent accuracy requirements. We will discuss the state of the art in multimodal medical AI and future directions from an industry perspective.</p></div></td>
+  <p style=" color: black; background-color: white; text-decoration: none;">Large language models have enabled healthcare professionals to interact with digital data to perform an unprecedented range of tasks, with impressive human-level performance already for some medical tasks. In this talk we examine specifically how such models can provide a direct interface for healthcare professionals to types of data beyond text, for tasks such as automatic image reporting and clinical data audit. These tasks are challenging because access to patient data is challenging, therefore many existing general purpose models will have had little exposure to relevant data during training. Meantime, errors in medical data interpretation can have fatal consequences, leading to stringent accuracy requirements. We will discuss the state of the art in multimodal medical AI and future directions from an industry perspective.</p></div></td>f
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;">11:10-11:30</td>
@@ -154,9 +154,9 @@ td {
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Panel<br>
 <button class="collapsible">Opportunities and challenges in LLMs for health research: A multidisciplinary perspective on surfacing social inequalities, bias detection, and mitigation</button>
 <div class="content">
-  <p style=" color: black; background-color: white; text-decoration: none;"><p></p><p></p>
+  <p style=" color: black; background-color: white; text-decoration: none;">
 This panel will bring together experts in bias mitigation, psychology, health services research, and behavioural science to critically assess how LLMs can be designed to create more equitable health interventions.  It will be organised by <a href="https://profiles.ucl.ac.uk/99823-julia-ive"> Julia Ive</a> and <a href="https://profiles.ucl.ac.uk/39768-paulina-bondaronek">Paulina Bondaronek</a> from UCL.
-<p style="color: black; background-color: white; text-decoration: none;"><strong>Panellists:</strong> Julia Ive (UCL, chair),  Paulina Bondaronek (UCL, chair), Zeerak Talat (University of Edinburgh), Andy Steele (Public Contributor), Aliya Amirova (King's College London)</p>
+<strong>Panellists:</strong> Julia Ive (UCL, chair),  Paulina Bondaronek (UCL, chair), Zeerak Talat (University of Edinburgh), Andy Steele (Public Contributor), Aliya Amirova (King's College London)</p>
 </div>
 </td>
 </tr>
