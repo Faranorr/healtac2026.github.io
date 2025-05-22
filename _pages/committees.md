@@ -79,53 +79,53 @@ a:active {
     
  <h4>Programme Committee and Reviewers</h4>
   <ul>
-    <li>Maryam	Abdollahyan, Queen Mary University of London
-    <li>Beatrice Alex, University of Edinburgh
-    <li>Ghada	Alfattni, Umm Al-qura University
-    <li>Ebrahim	Alharbi, University of Sheffield
-    <li>Areej	Alhassan, KSU and University of Manchester
-    <li>Riza Batista-Navarro, University of Manchester
-    <li>Arlene	Casey, University of Edinburgh
-    <li>Jenny	Chim, Queen Mary University of London
-    <li>Georgina Cosma,	Loughborough University
-    <li>Azad	Dehghan, DeepCognito
-    <li>Simona	Doneva, University of Zurich
-    <li>Hang	Dong, University of Exeter
-    <li>Matúš	Falis, University of Edinburgh
-    <li>Eulalia	Farre-Maduell, Barcelona Supercomputing Center
-    <li>Aryo	Gema, University of Edinburgh
-    <li>Abul	Hasan, University College London
-    <li>Lamiece	Hassan, University of Manchester
-    <li>Ben	Holgate, King's College London
-    <li>Julia	Ive, Imperial College London
-    <li>Yunsoo	Kim, University College London
-    <li>Arron	Lacey, Swansea university
-    <li>Daisy Monika Lal, Lancaster University
-    <li>Jake	Lever, University of Glasgow
-    <li>Mingyang	Li, University of Manchester
-    <li>Ruizhe	Li, University of Aberdeen
-    <li>Goran	Nenadic, University of Manchester
-    <li>Peter	Noble, University of Liverpool
-    <li>Kawsar	Noor, University College London
-    <li>Fahrurrozi	Rahman, University of Edinburgh
-    <li>Paul	Rayson, Lancaster University
-    <li>Ehud	Reiter, University of Aberdeen
-    <li>Angus	Roberts, King's College London
-    <li>Juliana	Rodriguez Cubillos, University of Edinburgh
-    <li>Nicolay	Rusnachenko, Bournemouth University
-    <li>Dan	Schofield, NHS England
-    <li>Patrick	Schrempf, Canon Medical and University of St Andrews
-    <li>Ian	Simpson, University of Edinburgh
-    <li>Irena	Spasic,	Cardiff University
-    <li>Andrew	Steele,	NHS Scotland Volunteer
-    <li>Mark	Stevenson, University of Sheffield
-    <li>Robert	Stewart, King's College London
-    <li>Fiona	Strachan, University of Edinburgh
-    <li>Mengxuan	Sun, University of Aberdeen
-    <li>Adam	Sutton, King's College London
-    <li>Keiran	Tait, Arcturis Data
-    <li>Phoey Lee	Teh, Wrexham University
-    <li>Ariel	Teles, King's College London and IFMA
+    <li>Maryam	Abdollahyan, Queen Mary University of London</li>
+    <li>Beatrice Alex, University of Edinburgh</li>
+    <li>Ghada	Alfattni, Umm Al-qura University</li>
+    <li>Ebrahim	Alharbi, University of Sheffield</li>
+    <li>Areej	Alhassan, KSU and University of Manchester</li>
+    <li>Riza Batista-Navarro, University of Manchester</li>
+    <li>Arlene	Casey, University of Edinburgh</li>
+    <li>Jenny	Chim, Queen Mary University of London</li>
+    <li>Georgina Cosma,	Loughborough University</li>
+    <li>Azad	Dehghan, DeepCognito</li>
+    <li>Simona	Doneva, University of Zurich</li>
+    <li>Hang	Dong, University of Exeter</li>
+    <li>Matúš	Falis, University of Edinburgh</li>
+    <li>Eulalia	Farre-Maduell, Barcelona Supercomputing Center</li>
+    <li>Aryo	Gema, University of Edinburgh</li>
+    <li>Abul	Hasan, University College London</li>
+    <li>Lamiece	Hassan, University of Manchester</li>
+    <li>Ben	Holgate, King's College London</li>
+    <li>Julia	Ive, Imperial College London</li>
+    <li>Yunsoo	Kim, University College London</li>
+    <li>Arron	Lacey, Swansea university</li>
+    <li>Daisy Monika Lal, Lancaster University</li>
+    <li>Jake	Lever, University of Glasgow</li>
+    <li>Mingyang	Li, University of Manchester</li>
+    <li>Ruizhe	Li, University of Aberdeen</li>
+    <li>Goran	Nenadic, University of Manchester</li>
+    <li>Peter	Noble, University of Liverpool</li>
+    <li>Kawsar	Noor, University College London</li>
+    <li>Fahrurrozi	Rahman, University of Edinburgh</li>
+    <li>Paul	Rayson, Lancaster University</li>
+    <li>Ehud	Reiter, University of Aberdeen</li>
+    <li>Angus	Roberts, King's College London</li>
+    <li>Juliana	Rodriguez Cubillos, University of Edinburgh</li>
+    <li>Nicolay	Rusnachenko, Bournemouth University</li>
+    <li>Dan	Schofield, NHS England</li>
+    <li>Patrick	Schrempf, Canon Medical and University of St Andrews</li>
+    <li>Ian	Simpson, University of Edinburgh</li>
+    <li>Irena	Spasic,	Cardiff University</li>
+    <li>Andrew	Steele,	NHS Scotland Volunteer</li>
+    <li>Mark	Stevenson, University of Sheffield</li>
+    <li>Robert	Stewart, King's College London</li>
+    <li>Fiona	Strachan, University of Edinburgh</li>
+    <li>Mengxuan	Sun, University of Aberdeen</li>
+    <li>Adam	Sutton, King's College London</li>
+    <li>Keiran	Tait, Arcturis Data</li>
+    <li>Phoey Lee	Teh, Wrexham University</li>
+    <li>Ariel	Teles, King's College London and IFMA</li>
     <li>James	Teo	Kings College Hospital NHS Foundation Trust</li>
     <li>Chris	Tomlinson, LifeArc</li>
     <li>Honghan	Wu, University of Glasgow</li>
