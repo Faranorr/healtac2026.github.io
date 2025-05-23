@@ -96,7 +96,7 @@ td {
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="15%">11:00-12:00</td>
-<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Session 1</td>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Session 1<br>
 <button class="collapsible">technical papers followed by panel</button>
 <div class="content">
 <ul>
@@ -104,18 +104,18 @@ td {
 <li>Darren Cook (City St George's / VISION consortium)</li>
 <li>Jaya Chaturvedi (King's College London)</li>
 </ul>
-</div>
+</div></td>
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="15%">12:00-13:00</td>
-<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Session 2</td>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Session 2 <br>
 <button class="collapsible">technical papers followed by panel</button>
 <div class="content">
 <ul>
 <li>Matúš Falis (University of Edinburgh)</li>
 <li>Tao Wang (King's College London)</li>
 </ul>
-</div>
+</div></td>
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="15%">13:00-14:00</td>
@@ -123,7 +123,7 @@ td {
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="15%">14:00-15:15</td>
-<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Session 3</td>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Session 3<br>
 <button class="collapsible">applied papers, followed by panel</button>
 <div class="content">
 <ul>
@@ -132,7 +132,7 @@ td {
 <li>Rashmi Patel (University of Cambridge)</li>
 <li>Service user representative (DATAMIND Super Research Advisory Group)</li>
 </ul>
-</div>
+</div></td>
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="15%">15:15-15:45</td>
@@ -140,7 +140,7 @@ td {
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="15%">15:45-17:00</td>
-<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Session 4</td>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Session 4<br>
 <button class="collapsible">applied and industry papers, followed by panel</button>
 <div class="content">
 <ul>
@@ -149,7 +149,7 @@ td {
 <li>Arlene Casey (University of Edinburgh)</li>
 <li>Jorge Palacios (Bright Therapeutics)</li>
 </ul>
-</div>
+</div></td>
 </tr>
 </table>
 
