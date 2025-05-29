@@ -181,7 +181,7 @@ td {
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;">11:30-12:30</td>
-<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Panel<br>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Panel<br><strong>Chair:</strong> Julia Ive, UCL; Paulina Bondaronek, UCL<br>
 <button class="collapsible">Opportunities and challenges in LLMs for health research: A multidisciplinary perspective on surfacing social inequalities, bias detection, and mitigation</button>
 <div class="content">
   <p style=" color: black; background-color: white; text-decoration: none;">
@@ -249,8 +249,8 @@ This panel will bring together experts in bias mitigation, psychology, health se
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;">14:30-15:30</td>
-<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Panel<br>
-<button class="collapsible">Challenges of deploying AI/NLP in the NHS/health systems <br><strong>Chair:</strong> Sam McInerney, University of Edinburgh</button>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Industry Panel<br><strong>Chair:</strong> Sam McInerney, University of Edinburgh<br>
+<button class="collapsible">Challenges of deploying AI/NLP in the NHS/health systems</button>
 <div class="content">
   <p style=" color: black; background-color: white; text-decoration: none;">Industry panel this year will focus on <strong>Challenges of deploying AI/NLP in the NHS/health systems</strong>. Panellists will be from industry, NHS, regulatory bodies and patient groups.
 </p></div>
