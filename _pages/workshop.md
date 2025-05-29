@@ -34,7 +34,7 @@ html {
 .container {
   padding: 0 0px;
 }
-.container::after, .row::after {
+.container::after {
   content: "";
   clear: both;
   display: table;
@@ -55,16 +55,6 @@ html {
 }
 .button:hover {
   background-color: #009999;
-}
-table {
-  width: auto;
-}
-th, td {
-  text-align: left;
-  padding: 40px;
-}
-td {
-  border-bottom: 1px solid #ddd;
 }
 .collapsible {
   background-color:  #F0F8FF;
