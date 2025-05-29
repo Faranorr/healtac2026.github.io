@@ -161,18 +161,19 @@ td {
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="15%">10:00-10:05</td>
-<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Welcome - chairs of HealTAC 2025</td>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Welcome - chairs of HealTAC 2025<br><strong>Chair:</strong> Honghan Wu, University of Glasgow</td>
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="15%">10:05-10:25</td>
-<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Opening - <strong style="font-weight: bold;">Peter Harrison</strong> (HDR UK deputy CTO)</td>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Opening - <strong style="font-weight: bold;">Peter Harrison</strong> (HDR UK deputy CTO) <br><strong>Chair:</strong> Honghan Wu, University of Glasgow</td>
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;">10:25-11:10</td>
-<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Keynote: <strong style="font-weight: bold;">Dr Alison O'Neil</strong> (Canon Medical Research Europe) <br>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Keynote: <strong style="font-weight: bold;">Dr Alison O'Neil</strong> (Canon Medical Research Europe) <br><strong>Chair:</strong> Beatrice Alex, University of Edinburgh <br>
 <button class="collapsible">AI for Healthcare: Text as a Medium for Multimodal datasets</button>
 <div class="content">
-  <p style=" color: black; background-color: white; text-decoration: none;">Large language models have enabled healthcare professionals to interact with digital data to perform an unprecedented range of tasks, with impressive human-level performance already for some medical tasks. In this talk we examine specifically how such models can provide a direct interface for healthcare professionals to types of data beyond text, for tasks such as automatic image reporting and clinical data audit. These tasks are challenging because access to patient data is challenging, therefore many existing general purpose models will have had little exposure to relevant data during training. Meantime, errors in medical data interpretation can have fatal consequences, leading to stringent accuracy requirements. We will discuss the state of the art in multimodal medical AI and future directions from an industry perspective.</p></div></td>
+  <p style=" color: black; background-color: white; text-decoration: none;">Large language models have enabled healthcare professionals to interact with digital data to perform an unprecedented range of tasks, with impressive human-level performance already for some medical tasks. In this talk we examine specifically how such models can provide a direct interface for healthcare professionals to types of data beyond text, for tasks such as automatic image reporting and clinical data audit. These tasks are challenging because access to patient data is challenging, therefore many existing general purpose models will have had little exposure to relevant data during training. Meantime, errors in medical data interpretation can have fatal consequences, leading to stringent accuracy requirements. We will discuss the state of the art in multimodal medical AI and future directions from an industry perspective.</p></div>
+</td>
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;">11:10-11:30</td>
@@ -192,7 +193,7 @@ This panel will bring together experts in bias mitigation, psychology, health se
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;">12:30-12:45</td>
-<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Open community forum and discussions</td>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Open community forum and discussions <br><strong>Chair:</strong> Honghan Wu, University of Glasgow </td>
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;">12:45-14:00</td>
@@ -200,7 +201,7 @@ This panel will bring together experts in bias mitigation, psychology, health se
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;">14:00-15:00</td>
-<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Lightning talks</td>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Lightning talks <br><strong>Chair:</strong> Arlene Casey, University of Edinburgh </td>
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;">15:00-16:00</td>
@@ -223,11 +224,11 @@ This panel will bring together experts in bias mitigation, psychology, health se
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="15%">09:15-10:15</td>
-<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">PhD Forum</td>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">PhD Forum <br><strong>Chair:</strong> Ruizhe Li, University of Aberdeen</td>
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="15%">10:15-11:15</td>
-<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">PhD Lightning talks</td>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">PhD Lightning talks <br><strong>Chair:</strong> Matúš Falis, University of Edinburgh</td>
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="15%">11:15-12:30</td>
@@ -249,7 +250,7 @@ This panel will bring together experts in bias mitigation, psychology, health se
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;">14:30-15:30</td>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Panel<br>
-<button class="collapsible">Challenges of deploying AI/NLP in the NHS/health systems</button>
+<button class="collapsible">Challenges of deploying AI/NLP in the NHS/health systems <br><strong>Chair:</strong> Sam McInerney, University of Edinburgh</button>
 <div class="content">
   <p style=" color: black; background-color: white; text-decoration: none;">Industry panel this year will focus on <strong>Challenges of deploying AI/NLP in the NHS/health systems</strong>. Panellists will be from industry, NHS, regulatory bodies and patient groups.
 </p></div>
@@ -257,7 +258,7 @@ This panel will bring together experts in bias mitigation, psychology, health se
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;">15:30-16:00</td>
-<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Best Poster Awards, closing remarks and beyond</td>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Best Poster Awards, closing remarks and beyond <br><strong>Chair:</strong> Honghan Wu, University of Glasgow; Arlene Casey, University of Edinburgh</td>
 </tr>
 </table>
 
