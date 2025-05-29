@@ -97,14 +97,16 @@ td {
 <p>This one day workshop will bring together attendees from informatics, clinical, industry and service user backgrounds to discuss the shift in NLP and what it means for mental health. The morning will focus on technical challenges and innovations, with the afternoon given to papers and discussions of broader operational, clinical, and societal implications.</p>
 
 <h5 style="margin-bottom: 0.9375rem; font-weight: bold; line-height: 1.1; color: #6495ED; font-size: 0.9375rem; clear: both; text-transform: uppercase; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; text-align: start; padding-top: 20px;">Abstracts</h5>
-<div>
+<table class="programme-table" style="background-color: #ffffff; margin-bottom: 20px; width: 790.2px; border-color: #e9e9e9; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; text-align: start;" border="0">
+<tr>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">
 <button class="collapsible">Dr Marcos Del Pozo Banos, Senior Lecturer in Health Data Science, Swansea University <br>
 ‘The journey of AI and NLP in mental health research’
 </button>
 <div class="content">
-  <p style=" color: black; background-color: white; text-decoration: none;">Artificial intelligence (AI) and natural language processing (NLP) have evolved from early rule-based programs (e.g., the 1966 ELIZA chatbot) to data-driven statistical and neural models. Recent innovations in deep learning – including word embeddings, recurrent neural networks, and Transformer-based architectures – have unlocked new capabilities for mining and interpreting large text corpora, transforming the landscape of mental health research. Key applications include: extracting structured information from electronic health records; performing sentiment and semantic analysis of social media posts for early detection; and deploying therapeutic chatbots to deliver scalable psychological support. Looking forward, researchers are integrating large pre-trained language models with multimodal inputs to personalise diagnostics and interventions. However, there are still many technical and ethical challenges to address, including model interpretability, clinical integration, data privacy, algorithmic bias, and transparency.</p></div>
-</div>
-<div>
+  <p style=" color: black; background-color: white; text-decoration: none;">Artificial intelligence (AI) and natural language processing (NLP) have evolved from early rule-based programs (e.g., the 1966 ELIZA chatbot) to data-driven statistical and neural models. Recent innovations in deep learning – including word embeddings, recurrent neural networks, and Transformer-based architectures – have unlocked new capabilities for mining and interpreting large text corpora, transforming the landscape of mental health research. Key applications include: extracting structured information from electronic health records; performing sentiment and semantic analysis of social media posts for early detection; and deploying therapeutic chatbots to deliver scalable psychological support. Looking forward, researchers are integrating large pre-trained language models with multimodal inputs to personalise diagnostics and interventions. However, there are still many technical and ethical challenges to address, including model interpretability, clinical integration, data privacy, algorithmic bias, and transparency.</p></div></td></tr>
+<tr>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">
 <button class="collapsible">
 Arlene Casey, Vivensa Foundation Senior Research Fellow, University of Edinburgh<br>
 ‘Insight and Exposure: NLP for Mental Health and the Challenge of Protecting Privacy’
@@ -112,9 +114,9 @@ Arlene Casey, Vivensa Foundation Senior Research Fellow, University of Edinburgh
 <div class="content">
   <p style=" color: black; background-color: white; text-decoration: none;">
 Mental health narratives in clinical free-text contain crucial insights - such as references to suicide, depression, or trauma - that researchers need but which also pose privacy risks. We will talk about our ongoing work with NLP and large language models (LLMs) to detect these sensitive disclosures, not only to protect patient identity, but also how this is being used to support research and service improvement in the NHS.
-  </p></div>
-</div>
-<div>
+  </p></div></td></tr>
+<tr>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">
 <button class="collapsible">
 Dr Jaya Chaturvedi, Research Associate in Health-Related NLP, King’s College London
   <br>
@@ -123,9 +125,9 @@ Dr Jaya Chaturvedi, Research Associate in Health-Related NLP, King’s College L
 <div class="content">
   <p style=" color: black; background-color: white; text-decoration: none;">
 Clinical notes in mental health records contain rich textual data capturing information about the patient. This work analyzes the extent to which implicature is used to describe important clinical concepts, and whether the extraction of such implied concepts is possible with large language models.
-</p></div>
-</div>
-<div>
+</p></div></td></tr>
+<tr>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">
 <button class="collapsible">
 Darren Cook, Research Fellow in NLP, City St George's / VISION consortium
   <br>
@@ -133,9 +135,9 @@ TBC
 </button>
 <div class="content">
   <p style=" color: black; background-color: white; text-decoration: none;">
-</p></div>
-</div>
-<div>
+</p></div></td></tr>
+<tr>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">
 <button class="collapsible">
 Dr Maximilian Droog-Hayes, Principal AI Scientist, ieso Health
   <br>
@@ -144,9 +146,9 @@ Dr Maximilian Droog-Hayes, Principal AI Scientist, ieso Health
 <div class="content">
   <p style=" color: black; background-color: white; text-decoration: none;">
 Since it was established in the year 2000, ieso has treated over 145,000 patients and collected data from over 815,000 hours of therapy sessions to build the world's largest outcomes-indexed mental health dataset. This talk will summarize our research into increasing access to mental healthcare through responsible innovation and the safe use of cutting-edge AI models and techniques.
-</p></div>
-</div>
-<div>
+</p></div></td></tr>
+<tr>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">
 <button class="collapsible">
 Matthew Iveson, Senior Research Fellow, and Matúš Falis, Research Fellow & Associate NLP Analyst, University of Edinburgh	
   <br>
@@ -155,9 +157,9 @@ Matthew Iveson, Senior Research Fellow, and Matúš Falis, Research Fellow & Ass
 <div class="content">
   <p style=" color: black; background-color: white; text-decoration: none;">
 While people living with depression do not respond to antidepressants or take time to find a treatment that works for them, our understanding of who will respond and why has been limited by methodological challenges. In the AMBER project, we use both structured and unstructured electronic health record data to produce new measures of antidepressant response and non-response, enabling personalised medicine and risk prediction. In this talk we will present our work with primary care text data labelled by GPs with structured Read codes as part of routine practice. We will focus on filling in the gaps in the patients' depression timelines through identifying undercoded generic consultation encounters relevant to the depression phenotype with the aid of LLMs.
-</p></div>
-</div>
-<div>
+</p></div></td></tr>
+<tr>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">
 <button class="collapsible">
 Dr Jorge Palacios, Chief Science Officer, Bright Therapeutics
   <br>
@@ -165,9 +167,9 @@ TBC
 </button>
 <div class="content">
   <p style=" color: black; background-color: white; text-decoration: none;">
-</p></div>
-</div>
-<div>
+</p></div></td></tr>
+<tr>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">
 <button class="collapsible">
 Dr Rashmi Patel, Assistant Professor in Real-World Data Analytics, University of Cambridge
   <br>
@@ -176,9 +178,9 @@ Dr Rashmi Patel, Assistant Professor in Real-World Data Analytics, University of
 <div class="content">
   <p style=" color: black; background-color: white; text-decoration: none;">
 In this talk I will describe how natural language processing can be applied to real-world datasets comprising insurance claims and electronic health record (EHR) data to provide novel insights into the clinical outcomes of people with mental disorders.
-</p></div>
-</div>
-<div>
+</p></div></td></tr>
+<tr>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">
 <button class="collapsible">
 Gloria Roque, AI Product Owner, and Jack Richmond, AI Scientist, Akrivia Health
   <br>
@@ -187,9 +189,9 @@ Gloria Roque, AI Product Owner, and Jack Richmond, AI Scientist, Akrivia Health
 <div class="content">
   <p style=" color: black; background-color: white; text-decoration: none;">
 A significant portion of psychiatric electronic health records (EHRs) exists as unstructured free-text notes, posing challenges for large-scale data analysis and clinical decision-making. Natural Language Processing (NLP) offers a way to extract structured information from this text, but ensuring these models perform reliably, particularly in terms of recall, remains a major challenge. We present a validation methodology for Named Entity Recognition (NER) models that addresses both the annotation burden and the difficulty of accurately estimating recall by using stratified sampling with screening methods. This approach enables scalable, reliable evaluation of NLP models, aligning with the clinical demands of safe, accountable AI in healthcare.
-</p></div>
-</div>
-<div>
+</p></div></td></tr>
+<tr>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">
 <button class="collapsible">
 Dr Jane Taylor, Patient Advocate, DATAMIND Super-Research Advisory Group
   <br>
@@ -198,9 +200,9 @@ Dr Jane Taylor, Patient Advocate, DATAMIND Super-Research Advisory Group
 <div class="content">
   <p style=" color: black; background-color: white; text-decoration: none;">
 This talk will look at some of the issues in using NLP in electronic health records from the perspective of patients/ service users. It will focus on the filters used by both patient and health professionals before, during and after clinical encounters. It will consider what can be missed out or misinterpreted in these transcriptions – the importance of context and the significance of what cannot be said or heard. It will also look briefly at the bias which can arise in clinical encounters in terms of perceptions of status, gender, ethnicity and sexuality and how this can affect the terminology used to describe the patient’s feelings and symptoms.
-</p></div>
-</div>
-<div>
+</p></div></td></tr>
+<tr>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">
 <button class="collapsible">
 Jytoi Sanyal, NLP Lead – Operational, SLaM NHSFT
   <br>
@@ -209,9 +211,9 @@ Jytoi Sanyal, NLP Lead – Operational, SLaM NHSFT
 <div class="content">
   <p style=" color: black; background-color: white; text-decoration: none;">
 NLP has changed a lot over last couple of years. In my talk, I want to discuss how NLP methods have evolved over last 10 years in CRIS. What are the challenges we faced, not only in terms of methods but also operational challenges. How we manged to solve them and run these methods over large datasets.
-</p></div>
-</div>
-<div>
+</p></div></td></tr>
+<tr>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">
 <button class="collapsible">
 Prof Rob Stewart, Professor of Psychiatric Epidemiology and Clinical Informatics, King’s College London
   <br>
@@ -220,9 +222,9 @@ Prof Rob Stewart, Professor of Psychiatric Epidemiology and Clinical Informatics
 <div class="content">
   <p style=" color: black; background-color: white; text-decoration: none;">
 Mental healthcare text presents sizeable challenges for NLP, although also huge opportunities to transform research capability. Given the time and resources required for code and algorithm developments, it is important that these are strategically focused and then effectively applied and utilised. This requires the assembly of a collaborative ecosystem between NLP developers and a range of stakeholders – another challenge, but also a rewarding opportunity.
-</p></div>
-</div>
-<div>
+</p></div></td></tr>
+<tr>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">
 <button class="collapsible">
 Dr Jingyuan Sun, Lecturer in NLP and Text Mining, University of Manchester
   <br>
@@ -231,9 +233,9 @@ Dr Jingyuan Sun, Lecturer in NLP and Text Mining, University of Manchester
 <div class="content">
   <p style=" color: black; background-color: white; text-decoration: none;">
 This talk will first highlight the current dynamic interactions between Generative AI and neuroscience, GenAI and mental health applications, and the established synergy between neuroscience and mental health research. We will then explore the profound potential when these three domains fully unite. This powerful convergence promises to transform our understanding of mental illness, paving the way for more personalised diagnostics, novel therapeutic interventions, and a deeper comprehension of mental well-being.
-</p></div>
-</div>
-<div>
+</p></div></td></tr>
+<tr>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">
 <button class="collapsible">
 Dr Tao Wang, Research Fellow in Heath Text Analytics and Data Science, King’s College London
   <br>
@@ -242,5 +244,5 @@ Dr Tao Wang, Research Fellow in Heath Text Analytics and Data Science, King’s 
 <div class="content">
   <p style=" color: black; background-color: white; text-decoration: none;">
 Understanding clinical timelines from clinical narratives is critical for accurate diagnosis and effective treatment. Traditional methods for temporal reasoning often depend on rule-based approaches or simple models that struggle to capture the complexity and nuance of clinical language. While large language models (LLMs) hold promise, their capabilities in temporal reasoning remain underexplored. In this work, we construct a new benchmark dataset based on the i2b2 corpus to evaluate LLM performance in clinical temporal information extraction and reasoning. Preliminary results highlight both the potential and current limitations of LLMs in this domain.
-</p></div>
-</div>
+</p></div></td></tr>
+</table>
