@@ -97,23 +97,24 @@ td {
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="15%">11:00-12:00</td>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Session 1<br>
-<button class="collapsible">technical papers followed by panel</button>
+<button class="collapsible">Technical Papers</button>
 <div class="content">
 <ul>
-<li>Marcos Del Pozo Banos (Swansea University)</li>
-<li>Darren Cook (City St George's / VISION consortium)</li>
-<li>Jaya Chaturvedi (King's College London)</li>
+<li>Dr Marcos Del Pozo Banos, Senior Lecturer in Health Data Science, Swansea University <br> The journey of AI and NLP in mental health research</li>
+<li>Dr Jaya Chaturvedi, Research Associate in Health-Related NLP, King’s College London <br> Implicature in Mental Health Medical Records</li>
+<li>Dr Tao Wang, Research Fellow in Heath Text Analytics and Data Science, King’s College London <br> Building Medical Timeline for Clinical Text Using Large Language Models</li>
 </ul>
 </div></td>
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="15%">12:00-13:00</td>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Session 2 <br>
-<button class="collapsible">technical papers followed by panel</button>
+<button class="collapsible">Technical Papers</button>
 <div class="content">
 <ul>
-<li>Matúš Falis (University of Edinburgh)</li>
-<li>Tao Wang (King's College London)</li>
+<li>Matthew Iveson, Senior Research Fellow, and Matúš Falis, Research Fellow & Associate NLP Analyst, University of Edinburgh <br> Measuring Antidepressant Response: Reclassification of Undercoded Primary Care Encounters According to Relevance to Depression with Large Language Models</li>
+<li>Gloria Roque, AI Product Owner, and Jack Richmond, AI Scientist, Akrivia Health <br> Efficient and Reliable Validation of Clinical NLP models: Tackling Annotation Burden and Unbiased Recall Estimation</li>
+<li>Darren Cook, Research Fellow in NLP, City St George's / VISION consortium <br> TBC </li>
 </ul>
 </div></td>
 </tr>
@@ -124,13 +125,13 @@ td {
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="15%">14:00-15:15</td>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Session 3<br>
-<button class="collapsible">applied papers, followed by panel</button>
+<button class="collapsible">Applied and Industry Papers</button>
 <div class="content">
 <ul>
-<li>Jytoi Sanyal (SLaM NHSFT)</li>
-<li>Rob Stewart (King's College London)</li>
-<li>Rashmi Patel (University of Cambridge)</li>
-<li>Service user representative (DATAMIND Super Research Advisory Group)</li>
+<li>Dr Jane Taylor, Patient Advocate, DATAMIND Super-Research Advisory Group <br> Six degrees of separation</li>
+<li>Arlene Casey, Vivensa Foundation Senior Research Fellow, University of Edinburgh <br> Insight and Exposure: NLP for Mental Health and the Challenge of Protecting Privacy</li>
+<li>Dr Maximilian Droog-Hayes, Principal AI Scientist, ieso Health <br> Responsible Innovation in Mental Healthcare: Developing Digital Interventions Safely with Generative AI</li>
+<li>Dr Jorge Palacios, Chief Science Officer, Bright Therapeutics <br> TBC</li>
 </ul>
 </div></td>
 </tr>
@@ -141,13 +142,13 @@ td {
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="15%">15:45-17:00</td>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Session 4<br>
-<button class="collapsible">applied and industry papers, followed by panel</button>
+<button class="collapsible">Applied Papers</button>
 <div class="content">
 <ul>
-<li>Gloria Roque (Akrivia Health)</li>
-<li>Max Droog-Hayes (ieso Health)</li>
-<li>Arlene Casey (University of Edinburgh)</li>
-<li>Jorge Palacios (Bright Therapeutics)</li>
+<li>Jytoi Sanyal, NLP Lead – Operational, SLaM NHSFT <br> The evolution of NLP in the CRIS dataset</li>
+<li>Dr Jingyuan Sun, Lecturer in NLP and Text Mining, University of Manchester <br> The Convergent Frontier: How GenAI, Neuroscience, and Mental Health Research are Uniting</li>
+<li>Dr Rashmi Patel, Assistant Professor in Real-World Data Analytics, University of Cambridge <br> Beyond diagnostic classification: Characterising clinical phenotype and outcomes using NLP</li>
+<li>Prof Rob Stewart, Professor of Psychiatric Epidemiology and Clinical Informatics, King’s College London <br> Beyond coding – NLP strategy and application</li>
 </ul>
 </div></td>
 </tr>
