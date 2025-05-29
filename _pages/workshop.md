@@ -100,15 +100,16 @@ td {
 <table class="programme-table" style="background-color: #ffffff; margin-bottom: 20px; width: 790.2px; border-color: #e9e9e9; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; text-align: start;" border="0">
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">
-<button class="collapsible">Dr Marcos Del Pozo Banos, Senior Lecturer in Health Data Science, Swansea University <br>
+Dr Marcos Del Pozo Banos, Senior Lecturer in Health Data Science, Swansea University <br>
+<button class="collapsible">
 ‘The journey of AI and NLP in mental health research’
 </button>
 <div class="content">
   <p style=" color: black; background-color: white; text-decoration: none;">Artificial intelligence (AI) and natural language processing (NLP) have evolved from early rule-based programs (e.g., the 1966 ELIZA chatbot) to data-driven statistical and neural models. Recent innovations in deep learning – including word embeddings, recurrent neural networks, and Transformer-based architectures – have unlocked new capabilities for mining and interpreting large text corpora, transforming the landscape of mental health research. Key applications include: extracting structured information from electronic health records; performing sentiment and semantic analysis of social media posts for early detection; and deploying therapeutic chatbots to deliver scalable psychological support. Looking forward, researchers are integrating large pre-trained language models with multimodal inputs to personalise diagnostics and interventions. However, there are still many technical and ethical challenges to address, including model interpretability, clinical integration, data privacy, algorithmic bias, and transparency.</p></div></td></tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">
-<button class="collapsible">
 Arlene Casey, Vivensa Foundation Senior Research Fellow, University of Edinburgh<br>
+<button class="collapsible">
 ‘Insight and Exposure: NLP for Mental Health and the Challenge of Protecting Privacy’
 </button>
 <div class="content">
@@ -117,9 +118,8 @@ Mental health narratives in clinical free-text contain crucial insights - such a
   </p></div></td></tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">
+Dr Jaya Chaturvedi, Research Associate in Health-Related NLP, King’s College London<br>
 <button class="collapsible">
-Dr Jaya Chaturvedi, Research Associate in Health-Related NLP, King’s College London
-  <br>
 ‘Implicature in Mental Health Medical Records’
 </button>
 <div class="content">
@@ -128,9 +128,8 @@ Clinical notes in mental health records contain rich textual data capturing info
 </p></div></td></tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">
+Darren Cook, Research Fellow in NLP, City St George's / VISION consortium<br>
 <button class="collapsible">
-Darren Cook, Research Fellow in NLP, City St George's / VISION consortium
-  <br>
 TBC
 </button>
 <div class="content">
@@ -138,9 +137,8 @@ TBC
 </p></div></td></tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">
+Dr Maximilian Droog-Hayes, Principal AI Scientist, ieso Health<br>
 <button class="collapsible">
-Dr Maximilian Droog-Hayes, Principal AI Scientist, ieso Health
-  <br>
 ‘Responsible Innovation in Mental Healthcare: Developing Digital Interventions Safely with Generative AI’
 </button>
 <div class="content">
@@ -149,9 +147,8 @@ Since it was established in the year 2000, ieso has treated over 145,000 patient
 </p></div></td></tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">
+Matthew Iveson, Senior Research Fellow, University of Edinburgh <br> Matúš Falis, Research Fellow & Associate NLP Analyst, University of Edinburgh	<br>
 <button class="collapsible">
-Matthew Iveson, Senior Research Fellow, and Matúš Falis, Research Fellow & Associate NLP Analyst, University of Edinburgh	
-  <br>
 ‘Measuring Antidepressant Response: Reclassification of Undercoded Primary Care Encounters According to Relevance to Depression with Large Language Models’	
 </button>
 <div class="content">
@@ -160,9 +157,8 @@ While people living with depression do not respond to antidepressants or take ti
 </p></div></td></tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">
+Dr Jorge Palacios, Chief Science Officer, Bright Therapeutics<br>
 <button class="collapsible">
-Dr Jorge Palacios, Chief Science Officer, Bright Therapeutics
-  <br>
 TBC
 </button>
 <div class="content">
@@ -170,9 +166,8 @@ TBC
 </p></div></td></tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">
+Dr Rashmi Patel, Assistant Professor in Real-World Data Analytics, University of Cambridge<br>
 <button class="collapsible">
-Dr Rashmi Patel, Assistant Professor in Real-World Data Analytics, University of Cambridge
-  <br>
 ‘Beyond diagnostic classification: Characterising clinical phenotype and outcomes using NLP’
 </button>
 <div class="content">
@@ -181,9 +176,8 @@ In this talk I will describe how natural language processing can be applied to r
 </p></div></td></tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">
+Gloria Roque, AI Product Owner, and Jack Richmond, AI Scientist, Akrivia Health<br>
 <button class="collapsible">
-Gloria Roque, AI Product Owner, and Jack Richmond, AI Scientist, Akrivia Health
-  <br>
   ‘Efficient and Reliable Validation of Clinical NLP models: Tackling Annotation Burden and Unbiased Recall Estimation’
 </button>
 <div class="content">
@@ -192,9 +186,8 @@ A significant portion of psychiatric electronic health records (EHRs) exists as 
 </p></div></td></tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">
+Dr Jane Taylor, Patient Advocate, DATAMIND Super-Research Advisory Group<br>
 <button class="collapsible">
-Dr Jane Taylor, Patient Advocate, DATAMIND Super-Research Advisory Group
-  <br>
   ‘Six degrees of separation’
 </button>
 <div class="content">
@@ -203,9 +196,8 @@ This talk will look at some of the issues in using NLP in electronic health reco
 </p></div></td></tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">
+Jytoi Sanyal, NLP Lead – Operational, SLaM NHSFT<br>
 <button class="collapsible">
-Jytoi Sanyal, NLP Lead – Operational, SLaM NHSFT
-  <br>
 ‘The evolution of NLP in the CRIS dataset’
 </button>
 <div class="content">
@@ -214,9 +206,8 @@ NLP has changed a lot over last couple of years. In my talk, I want to discuss h
 </p></div></td></tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">
+Prof Rob Stewart, Professor of Psychiatric Epidemiology and Clinical Informatics, King’s College London<br>
 <button class="collapsible">
-Prof Rob Stewart, Professor of Psychiatric Epidemiology and Clinical Informatics, King’s College London
-  <br>
 ‘Beyond coding – NLP strategy and application’
 </button>
 <div class="content">
@@ -225,9 +216,8 @@ Mental healthcare text presents sizeable challenges for NLP, although also huge 
 </p></div></td></tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">
+Dr Jingyuan Sun, Lecturer in NLP and Text Mining, University of Manchester<br>
 <button class="collapsible">
-Dr Jingyuan Sun, Lecturer in NLP and Text Mining, University of Manchester
-  <br>
 ‘The Convergent Frontier: How GenAI, Neuroscience, and Mental Health Research are Uniting’
 </button>
 <div class="content">
@@ -236,9 +226,8 @@ This talk will first highlight the current dynamic interactions between Generati
 </p></div></td></tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">
+Dr Tao Wang, Research Fellow in Heath Text Analytics and Data Science, King’s College London<br>
 <button class="collapsible">
-Dr Tao Wang, Research Fellow in Heath Text Analytics and Data Science, King’s College London
-  <br>
 ‘Building Medical Timeline for Clinical Text Using Large Language Models’
 </button>
 <div class="content">
