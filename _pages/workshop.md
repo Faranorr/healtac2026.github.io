@@ -78,6 +78,22 @@ html {
   font-size: 14px;
 }
 </style>
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  var coll = document.getElementsByClassName("collapsible");
+  for (var i = 0; i < coll.length; i++) {
+    coll[i].addEventListener("click", function() {
+      this.classList.toggle("active");
+      var content = this.nextElementSibling;
+      if (content.style.maxHeight){
+        content.style.maxHeight = null;
+      } else {
+        content.style.maxHeight = content.scrollHeight + "px";
+      }
+    });
+  }
+});
+</script>
 <p>Workshop is open to all. If you are interested in presenting at the workshop, please email <span>angus.roberts at kcl.ac.uk</span> with a short abstract for consideration.</p>
 
 <p>This one day workshop is organised by <a href="https://datamind.org.uk/">DATAMIND - The Health Data Research Hub for Mental Health</a>, the hub for mental health informatics research development. Whilst <a href="https://datamind.org.uk/">DATAMIND</a> has a specific focus on mental health, it is expected that the workshop will be of interest and relevance to people from across the entire health text analytics community. The workshop will consider application of the "New NLP" to all aspects of mental health: research, clinical care and therapy.</p>
