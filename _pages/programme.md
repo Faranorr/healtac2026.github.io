@@ -183,7 +183,7 @@ td {
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;">11:30-12:30</td>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Panel<br><strong>Chair:</strong> Julia Ive, UCL; Paulina Bondaronek, UCL<br>
-<button class="collapsible">Opportunities and challenges in LLMs for health research: A multidisciplinary perspective on surfacing social inequalities, bias detection, and mitigation</button>
+<button class="collapsible">Opportunities and challenges in LLMs for health research</button>
 <div class="content">
   <p style=" color: black; background-color: white; text-decoration: none;">
 This panel will bring together experts in bias mitigation, psychology, health services research, and behavioural science to critically assess how LLMs can be designed to create more equitable health interventions.  It will be organised by <a href="https://profiles.ucl.ac.uk/99823-julia-ive"> Julia Ive</a> and <a href="https://profiles.ucl.ac.uk/39768-paulina-bondaronek">Paulina Bondaronek</a> from UCL.
@@ -254,6 +254,15 @@ This panel will bring together experts in bias mitigation, psychology, health se
 <button class="collapsible">Challenges of deploying AI/NLP in the NHS/health systems</button>
 <div class="content">
   <p style=" color: black; background-color: white; text-decoration: none;">Industry panel this year will focus on <strong>Challenges of deploying AI/NLP in the NHS/health systems</strong>. Panellists will be from industry, NHS, regulatory bodies and patient groups.
+  <br>
+<strong>Panellists:</strong> <br>
+
+<ul>
+<li>Professor David J Lowe, Clinical Director Innovation, University of Glasgow <br> Emergency Consultant at Queen Elizabeth University Hospital <br> Glasgow and Clinical Director for Health Innovation for CSO Scottish Government</li>
+<li>James Blackwood, Healthcare AI Expert, Strategist, NHS Lothian <br> On a quest to accelerate the pace of AI adoption in health and care, in areas such as radiology, computational pathology and dermatology</li>
+<li>Elizabeth Fairley, COO/CDO, Founder of Talking Medicines <br> Talking Medicines is a global data tech Company, that is passionate about using AI to drive better outcomes for patients taking medicines</li>
+<li>Tom Searle, CEO, Founder of CogStack <br> CogStack is a healthcare application framework that allows you to handle, analyse and draw insights from unstructured free-form clinical data sources</li>
+</ul>
 </p></div>
 </td>
 </tr>
@@ -287,6 +296,9 @@ for (i = 0; i < coll.length; i++) {
 <!----
 <h4 style="color:#009999;">Workshop on NLP in mental health</h4>
   On Monday June 16th, there will be a workshop on <strong>"NLP in mental health care and research"</strong>, organised by <a href="https://datamind.org.uk/">DATAMIND - The Health Data Research Hub for Mental Health</a> (<a href="/workshop/">see more</a>).
+
+<h4 style="color:#009999;">Panel: Opportunities and challenges in LLMs for health research: A multidisciplinary perspective on surfacing social inequalities, bias detection, and mitigation</h4>
+This panel will bring together experts in bias mitigation, psychology, health services research, and behavioural science to critically assess how LLMs can be designed to create more equitable health interventions.
 
 <h4 style="color:#009999;">Industry panel: Challenges in AI deployment</h4>
 Industry panel this year will focus on <strong>Challenges of deploying AI/NLP in the NHS/health systems</strong>. Panellists will be from industry, NHS, regulatory bodies and patient groups.
