@@ -131,7 +131,7 @@ td {
 <li>Dr Jane Taylor, Patient Advocate, DATAMIND Super-Research Advisory Group <br> Six degrees of separation</li>
 <li>Arlene Casey, Vivensa Foundation Senior Research Fellow, University of Edinburgh <br> Insight and Exposure: NLP for Mental Health and the Challenge of Protecting Privacy</li>
 <li>Dr Maximilian Droog-Hayes, Principal AI Scientist, ieso Health <br> Responsible Innovation in Mental Healthcare: Developing Digital Interventions Safely with Generative AI</li>
-<li>Dr Jorge Palacios, Chief Science Officer, Bright Therapeutics <br> TBC</li>
+<li>Dr Jorge Palacios, Chief Science Officer, Bright Therapeutics <br> Using NLP to enhance engagement with digital health interventions</li>
 </ul>
 </div></td>
 </tr>
