@@ -159,10 +159,11 @@ While people living with depression do not respond to antidepressants or take ti
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">
 Dr Jorge Palacios, Chief Science Officer, Bright Therapeutics<br>
 <button class="collapsible">
-TBC
+‘Using NLP to enhance engagement with digital health interventions’
 </button>
 <div class="content">
   <p style=" color: black; background-color: white; text-decoration: none;">
+Analysis with NLP and correct interpretation of anonymised patient and clinician messages sent via an online platform can be hugely beneficial. Results can improve future iterations as well as train clinicians on better use of the platform. Ultimately, this can lead to increased usage and meaningful engagement, as well as leading to improved outcomes for patients.
 </p></div></td></tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">
