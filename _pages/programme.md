@@ -241,7 +241,7 @@ This panel will bring together experts in bias mitigation, psychology, health se
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;">13:30-14:30</td>
-<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Keynote: <strong style="font-weight: bold;">Dr Jason Fries</strong> (Stanford University) <br>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Keynote: <strong style="font-weight: bold;">Dr Jason Fries</strong> (Stanford University) <br><strong>Chair:</strong> Goran Nenadic, University of Manchester <br>
 <button class="collapsible">Addressing the Missing Context Problem in Foundation Models for Healthcare</button>
 <div class="content">
   <p style=" color: black; background-color: white; text-decoration: none;"> Healthcare foundation models will increasingly power applications in diagnosis, prognosis, and decision support—but today's models are trained on narrow temporal slices of patient data and often focus on a single modality. In reality, clinical care unfolds over months or years, with informative signals embedded across longitudinal, multimodal data such as notes, imaging reports, and labs. This talk explores the “missing context problem”: how current models overlook the broader clinical timeline, and why solving this requires new approaches to modeling time, multimodality, and patient trajectories. I’ll outline emerging strategies and research directions that aim to bridge this gap, enabling models that are more contextual, grounded, and clinically useful.
