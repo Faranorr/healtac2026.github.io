@@ -114,7 +114,7 @@ td {
 <ul>
 <li>Matthew Iveson, Senior Research Fellow, and Matúš Falis, Research Fellow & Associate NLP Analyst, University of Edinburgh <br> Measuring Antidepressant Response: Reclassification of Undercoded Primary Care Encounters According to Relevance to Depression with Large Language Models</li>
 <li>Gloria Roque, AI Product Owner, and Jack Richmond, AI Scientist, Akrivia Health <br> Efficient and Reliable Validation of Clinical NLP models: Tackling Annotation Burden and Unbiased Recall Estimation</li>
-<li>Darren Cook, Research Fellow in NLP, City St George's / VISION consortium <br> TBC </li>
+<li>Darren Cook, Research Fellow in NLP, City St George's / VISION consortium <br> Using NLP to Extract Victim–Offender Relationships from Police Records </li>
 </ul>
 </div></td>
 </tr>
