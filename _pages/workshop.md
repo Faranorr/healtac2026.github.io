@@ -130,10 +130,11 @@ Clinical notes in mental health records contain rich textual data capturing info
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">
 Darren Cook, Research Fellow in NLP, City St George's / VISION consortium<br>
 <button class="collapsible">
-TBC
+‘Using NLP to Extract Victim–Offender Relationships from Police Records’
 </button>
 <div class="content">
   <p style=" color: black; background-color: white; text-decoration: none;">
+In this talk, I present recent work from VISION, a research consortium investigating the impact of violence on health and society. As a case study, I explore how natural language processing can be used to impute missing values in police-recorded domestic violence data, focusing on the extraction of victim–offender relationships from free-text summaries. I share results from a comparison of rule-based, machine learning, and deep learning approaches, and reflect on the practical challenges of working with noisy, real-world text. Finally, I outline how this work fits into a broader programme of NLP research across health-related administrative and social data.
 </p></div></td></tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">
