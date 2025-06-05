@@ -329,7 +329,7 @@ Throughout the conference, we will have presentations from the community across 
 <li>Julia Ive, Felix Jozsa, Nick Jackson, Paulina Bondaronek, Ciaran Scott Hill and Richard Dobson:	Clean & Clear: Feasibility of Safe LLM Clinical Guidance</li>
 <li>Yunsoo Kim, Michal Ong, Daniel Rogalsky, Manuel Rodriguez-Justo, Honghan Wu and Adam Levine:	IHC-LLMiner: Automated extraction of tumour immunohistochemical profiles from PubMed abstracts using large language models</li>
 <li>David M. Howcroft, Mohammed Lawal, Effie Marathia, Dewei Yi, Julia Allan, Ehud Reiter and Peter Murchie:	ASICA+: a new and improved app to help melanoma patients with total skin self examinations</li>
-<li>Andrew Steele, Tracy Ibbotson and Fiona Strachan:	Co-production of AI-powered PPIE Panels for  Healthcare Research</li>
+<li>Andrew Steele, Tracy Ibbotson, Christine Milligan and Fiona Strachan:	Co-production of AI-powered PPIE Panels for  Healthcare Research</li>
 </ul>
 
 <h4 style="color:#009999;">PhD submissions</h4>
