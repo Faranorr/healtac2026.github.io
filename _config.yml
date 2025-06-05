@@ -168,9 +168,9 @@ author:
       icon: "<i class='fas fa-square' style='visibility: hidden;'></i>"
       url: "https://www.researchdata.scot/"
     - label: |
-      <div style="display: flex; flex-direction: column;">
-        <img src="/assets/images/sponsors/NCRM.jpg" alt="NCRM" style="margin-bottom: 2.5px; max-width: 100px;">
-      </div>
+        <div style="display: flex; flex-direction: column;">
+          <img src="/assets/images/sponsors/NCRM.jpg" alt="NCRM" style="margin-bottom: 2.5px; max-width: 100px;">
+        </div>
       icon: "<i class='fas fa-square' style='visibility: hidden;'></i>"
       url: "https://www.ncrm.ac.uk/"
     - label: "<br><br><strong style='color:#003865;'>Previous HealTACs</strong><br>"
