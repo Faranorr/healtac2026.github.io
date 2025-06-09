@@ -96,19 +96,19 @@ td {
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="15%">11:00-12:00</td>
-<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Session 1<br>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Session 1<br><strong>Chair:</strong>Honghan Wu, University of Glasgow
 <button class="collapsible">Technical Papers</button>
 <div class="content">
 <ul>
-<li>Dr Marcos Del Pozo Banos, Senior Lecturer in Health Data Science, Swansea University <br> The journey of AI and NLP in mental health research</li>
-<li>Dr Jaya Chaturvedi, Research Associate in Health-Related NLP, King’s College London <br> Implicature in Mental Health Medical Records</li>
-<li>Dr Tao Wang, Research Fellow in Heath Text Analytics and Data Science, King’s College London <br> Building Medical Timeline for Clinical Text Using Large Language Models</li>
+<li>Marcos Del Pozo Banos, Senior Lecturer in Health Data Science, Swansea University <br> The journey of AI and NLP in mental health research</li>
+<li>Jaya Chaturvedi, Research Associate in Health-Related NLP, King’s College London <br> Implicature in Mental Health Medical Records</li>
+<li>Tao Wang, Research Fellow in Heath Text Analytics and Data Science, King’s College London <br> Building Medical Timeline for Clinical Text Using Large Language Models</li>
 </ul>
 </div></td>
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="15%">12:00-13:00</td>
-<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Session 2 <br>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Session 2 <br><strong>Chair:</strong>Ben Holgate, King’s College London
 <button class="collapsible">Technical Papers</button>
 <div class="content">
 <ul>
@@ -124,14 +124,14 @@ td {
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="15%">14:00-15:15</td>
-<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Session 3<br>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Session 3<br><strong>Chair:</strong>Rashmi Patel, University of Cambridge
 <button class="collapsible">Applied and Industry Papers</button>
 <div class="content">
 <ul>
-<li>Dr Jane Taylor, Patient Advocate, DATAMIND Super-Research Advisory Group <br> Six degrees of separation</li>
+<li>Jane Taylor, Patient Advocate, DATAMIND Super-Research Advisory Group <br> Six degrees of separation</li>
 <li>Arlene Casey, Vivensa Foundation Senior Research Fellow, University of Edinburgh <br> Insight and Exposure: NLP for Mental Health and the Challenge of Protecting Privacy</li>
-<li>Dr Maximilian Droog-Hayes, Principal AI Scientist, ieso Health <br> Responsible Innovation in Mental Healthcare: Developing Digital Interventions Safely with Generative AI</li>
-<li>Dr Jorge Palacios, Chief Science Officer, Bright Therapeutics <br> Using NLP to enhance engagement with digital health interventions</li>
+<li>Maximilian Droog-Hayes, Principal AI Scientist, ieso Health <br> Responsible Innovation in Mental Healthcare: Developing Digital Interventions Safely with Generative AI</li>
+<li>Jorge Palacios, Chief Science Officer, Bright Therapeutics <br> Using NLP to enhance engagement with digital health interventions</li>
 </ul>
 </div></td>
 </tr>
@@ -141,14 +141,14 @@ td {
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="15%">15:45-17:00</td>
-<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Session 4<br>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Session 4<br><strong>Chair:</strong>Beatrice Alex, University of Edinburgh
 <button class="collapsible">Applied Papers</button>
 <div class="content">
 <ul>
 <li>Jytoi Sanyal, NLP Lead – Operational, SLaM NHSFT <br> The evolution of NLP in the CRIS dataset</li>
-<li>Dr Jingyuan Sun, Lecturer in NLP and Text Mining, University of Manchester <br> The Convergent Frontier: How GenAI, Neuroscience, and Mental Health Research are Uniting</li>
-<li>Dr Rashmi Patel, Assistant Professor in Real-World Data Analytics, University of Cambridge <br> Beyond diagnostic classification: Characterising clinical phenotype and outcomes using NLP</li>
-<li>Prof Rob Stewart, Professor of Psychiatric Epidemiology and Clinical Informatics, King’s College London <br> Beyond coding – NLP strategy and application</li>
+<li>Jingyuan Sun, Lecturer in NLP and Text Mining, University of Manchester <br> The Convergent Frontier: How GenAI, Neuroscience, and Mental Health Research are Uniting</li>
+<li>Rashmi Patel, Assistant Professor in Real-World Data Analytics, University of Cambridge <br> Beyond diagnostic classification: Characterising clinical phenotype and outcomes using NLP</li>
+<li>Rob Stewart, Professor of Psychiatric Epidemiology and Clinical Informatics, King’s College London <br> Beyond coding – NLP strategy and application</li>
 </ul>
 </div></td>
 </tr>
