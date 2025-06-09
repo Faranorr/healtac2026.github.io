@@ -141,10 +141,8 @@ div.scroll-container img {
 </div> -->
 <br>
 <div class="container">
+	<h4 style="color:#009999;">Please Note: All the events happen in the Glasgow University Union building</h4>
     <h3>Conference Venue - June 16-18, 2025</h3>
-<!--     <p>Elizabeth Livingston Lecture Theatre</p>
-	<p>A022, Lecture Theatre</p>
-	<p>Bowland North, Floor A</p> -->
     <p><a href="https://www.guu.co.uk/conferences">Glasgow University Union</a>, 32 University Ave, Glasgow, G12 8LX</p>
 
 <!-- <a href="https://use.mazemap.com/#v=1&campusid=341&zlevel=1&center=-2.785624,54.011398&zoom=18&sharepoitype=poi&sharepoi=874283" style="color:DodgerBlue; font-family:Akaya Telivigala"> <i class='fas fa-map' style='font-size:24px font-family:Akaya Telivigala'></i>e</a> -->
