@@ -142,7 +142,7 @@ div.scroll-container img {
 <br>
 <div class="container">
 	<h4 style="color:#009999;">Please Note: All the events happen in the Glasgow University Union building</h4>
-    <h3>Conference Venue - June 16-18, 2025</h3>
+    <h3>Conference Venue</h3>
     <p><a href="https://www.guu.co.uk/conferences">Glasgow University Union</a>, 32 University Ave, Glasgow, G12 8LX</p>
 
 <!-- <a href="https://use.mazemap.com/#v=1&campusid=341&zlevel=1&center=-2.785624,54.011398&zoom=18&sharepoitype=poi&sharepoi=874283" style="color:DodgerBlue; font-family:Akaya Telivigala"> <i class='fas fa-map' style='font-size:24px font-family:Akaya Telivigala'></i>e</a> -->
@@ -152,8 +152,10 @@ div.scroll-container img {
 <div id="contact" class="map">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2238.4336972614797!2d-4.287506823042735!3d55.87249118276583!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x488845cdf92cdf2d%3A0xd14847c3d4ae5e0a!2sGlasgow%20University%20Union!5e0!3m2!1sen!2s!4v1738922306508!5m2!1sen!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
+<h4 style="color:#009999;">How to get to the Glasgow University Union</h4>
 <img src="https://static.wixstatic.com/media/140841_c3a4ce2ccaf0495fbd5f014e0f23c838~mv2.png/v1/fill/w_1431,h_1011,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/Concert%20Terms%20and%20Conditions.png" width="300" height="300">
-
+<p>Bus - First Group buses Simplicity services 4 and 4A , bus routes 15 and 370 and Stagecoach bus services X25, X25A, X76 and X77 all stop on University Avenue by the Main Gate opposite the library.</p>
+<p>Subway - Kelvinbridge and Hillhead subway stations are both within a short walking distance of the venue.</p>
 
 <br>
 <!-- <p>Information about travel to Glasgow is available <a href="https://www.gla.ac.uk/explore/maps/howtogethere/" style="color:DodgerBlue;">here</a>. Information about accommodation will be posted shortly. 
