@@ -188,7 +188,7 @@ td {
   <p style=" color: black; background-color: white; text-decoration: none;">
 This panel will bring together experts in bias mitigation, psychology, health services research, and behavioural science to critically assess how LLMs can be designed to create more equitable health interventions. A multidisciplinary perspective on surfacing social inequalities, bias detection, and mitigation will be the focus of this panel. It will be organised by <a href="https://profiles.ucl.ac.uk/99823-julia-ive"> Julia Ive</a> and <a href="https://profiles.ucl.ac.uk/39768-paulina-bondaronek">Paulina Bondaronek</a> from UCL.
 <br>
-<strong>Panellists:</strong> Julia Ive (UCL, chair),  Paulina Bondaronek (UCL, chair), Zeerak Talat (University of Edinburgh), Andy Steele (Public Contributor), Aliya Amirova (King's College London)</p>
+<strong>Panellists:</strong> Julia Ive (UCL, chair),  Paulina Bondaronek (UCL, chair), Zeerak Talat (University of Edinburgh), Fiona Strachan (University of Edinburgh), Aliya Amirova (King's College London)</p>
 </div>
 </td>
 </tr>
