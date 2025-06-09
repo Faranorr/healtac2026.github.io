@@ -95,11 +95,14 @@ td {
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="15%">10:00-11:00</td>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Registration</td>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: left;  font-size:14px" width="30%"> <a href="https://maps.app.goo.gl/GXZatEfVxVYSgvtY9" style="color:#6495ED; font-size:14px;"><i class='fas fa-map'></i>Foyer outside Debates Chamber, the Glasgow University Union</a></td>
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="15%">11:00-12:00</td>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Session 1<br><strong>Chair:</strong>Honghan Wu, University of Glasgow
 <button class="collapsible">Technical Papers</button>
+
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: left;  font-size:14px" width="30%"> <a href="https://maps.app.goo.gl/GXZatEfVxVYSgvtY9" style="color:#6495ED; font-size:14px;"><i class='fas fa-map'></i>Debates Chamber, the Glasgow University Union</a></td>
 <div class="content">
 <ul>
 <li>Marcos Del Pozo Banos, Senior Lecturer in Health Data Science, Swansea University <br> The journey of AI and NLP in mental health research</li>
@@ -119,10 +122,12 @@ td {
 <li>Darren Cook, Research Fellow in NLP, City St George's / VISION consortium <br> Using NLP to Extract Victim–Offender Relationships from Police Records </li>
 </ul>
 </div></td>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: left;  font-size:14px" width="30%"> <a href="https://maps.app.goo.gl/GXZatEfVxVYSgvtY9" style="color:#6495ED; font-size:14px;"><i class='fas fa-map'></i>Debates Chamber, the Glasgow University Union</a></td>
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="15%">13:00-14:00</td>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Lunch</td>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: left;  font-size:14px" width="30%"> <a href="https://maps.app.goo.gl/GXZatEfVxVYSgvtY9" style="color:#6495ED; font-size:14px;"><i class='fas fa-map'></i>Debates Chamber, the Glasgow University Union</a></td>
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="15%">14:00-15:15</td>
@@ -136,10 +141,12 @@ td {
 <li>Jorge Palacios, Chief Science Officer, Bright Therapeutics <br> Using NLP to enhance engagement with digital health interventions</li>
 </ul>
 </div></td>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: left;  font-size:14px" width="30%"> <a href="https://maps.app.goo.gl/GXZatEfVxVYSgvtY9" style="color:#6495ED; font-size:14px;"><i class='fas fa-map'></i>Debates Chamber, the Glasgow University Union</a></td>
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="15%">15:15-15:45</td>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Coffee Break</td>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: left;  font-size:14px" width="30%"> <a href="https://maps.app.goo.gl/GXZatEfVxVYSgvtY9" style="color:#6495ED; font-size:14px;"><i class='fas fa-map'></i>Debates Chamber, the Glasgow University Union</a></td>
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="15%">15:45-17:00</td>
@@ -153,6 +160,7 @@ td {
 <li>Rob Stewart, Professor of Psychiatric Epidemiology and Clinical Informatics, King’s College London <br> Beyond coding – NLP strategy and application</li>
 </ul>
 </div></td>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: left;  font-size:14px" width="30%"> <a href="https://maps.app.goo.gl/GXZatEfVxVYSgvtY9" style="color:#6495ED; font-size:14px;"><i class='fas fa-map'></i>Debates Chamber, the Glasgow University Union</a></td>
 </tr>
 </table>
 
@@ -161,14 +169,17 @@ td {
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="15%">09:30-10:00</td>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Registration/Breakfast</td>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: left;  font-size:14px" width="30%"> <a href="https://maps.app.goo.gl/GXZatEfVxVYSgvtY9" style="color:#6495ED; font-size:14px;"><i class='fas fa-map'></i>Foyer outside Debates Chamber, the Glasgow University Union</a></td>
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="15%">10:00-10:05</td>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Welcome - chairs of HealTAC 2025<br><strong>Chair:</strong> Honghan Wu, University of Glasgow</td>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: left;  font-size:14px" width="30%"> <a href="https://maps.app.goo.gl/GXZatEfVxVYSgvtY9" style="color:#6495ED; font-size:14px;"><i class='fas fa-map'></i>Debates Chamber, the Glasgow University Union</a></td>
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="15%">10:05-10:25</td>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Opening - <strong style="font-weight: bold;">Peter Harrison</strong> (HDR UK deputy CTO) <br><strong>Chair:</strong> Honghan Wu, University of Glasgow</td>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: left;  font-size:14px" width="30%"> <a href="https://maps.app.goo.gl/GXZatEfVxVYSgvtY9" style="color:#6495ED; font-size:14px;"><i class='fas fa-map'></i>Debates Chamber, the Glasgow University Union</a></td>
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;">10:25-11:10</td>
@@ -177,10 +188,12 @@ td {
 <div class="content">
   <p style=" color: black; background-color: white; text-decoration: none;">Large language models have enabled healthcare professionals to interact with digital data to perform an unprecedented range of tasks, with impressive human-level performance already for some medical tasks. In this talk we examine specifically how such models can provide a direct interface for healthcare professionals to types of data beyond text, for tasks such as automatic image reporting and clinical data audit. These tasks are challenging because access to patient data is challenging, therefore many existing general purpose models will have had little exposure to relevant data during training. Meantime, errors in medical data interpretation can have fatal consequences, leading to stringent accuracy requirements. We will discuss the state of the art in multimodal medical AI and future directions from an industry perspective.</p></div>
 </td>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: left;  font-size:14px" width="30%"> <a href="https://maps.app.goo.gl/GXZatEfVxVYSgvtY9" style="color:#6495ED; font-size:14px;"><i class='fas fa-map'></i>Debates Chamber, the Glasgow University Union</a></td>
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;">11:10-11:30</td>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Break</td>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: left;  font-size:14px" width="30%"> <a href="https://maps.app.goo.gl/GXZatEfVxVYSgvtY9" style="color:#6495ED; font-size:14px;"><i class='fas fa-map'></i>Debates Chamber, the Glasgow University Union</a></td>
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;">11:30-12:30</td>
@@ -193,30 +206,37 @@ This panel will bring together experts in bias mitigation, psychology, health se
 <strong>Panellists:</strong> Julia Ive (UCL, chair),  Paulina Bondaronek (UCL, chair), Zeerak Talat (University of Edinburgh), Fiona Strachan (University of Edinburgh), Aliya Amirova (King's College London)</p>
 </div>
 </td>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: left;  font-size:14px" width="30%"> <a href="https://maps.app.goo.gl/GXZatEfVxVYSgvtY9" style="color:#6495ED; font-size:14px;"><i class='fas fa-map'></i>Debates Chamber, the Glasgow University Union</a></td>
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;">12:30-12:45</td>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Open community forum and discussions <br><strong>Chair:</strong> Honghan Wu, University of Glasgow </td>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: left;  font-size:14px" width="30%"> <a href="https://maps.app.goo.gl/GXZatEfVxVYSgvtY9" style="color:#6495ED; font-size:14px;"><i class='fas fa-map'></i>Debates Chamber, the Glasgow University Union</a></td>
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;">12:45-14:00</td>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Lunch</td>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: left;  font-size:14px" width="30%"> <a href="https://maps.app.goo.gl/GXZatEfVxVYSgvtY9" style="color:#6495ED; font-size:14px;"><i class='fas fa-map'></i>Debates Chamber, the Glasgow University Union</a></td>
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;">14:00-15:00</td>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Lightning talks <br><strong>Chair:</strong> Arlene Casey, University of Edinburgh </td>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: left;  font-size:14px" width="30%"> <a href="https://maps.app.goo.gl/GXZatEfVxVYSgvtY9" style="color:#6495ED; font-size:14px;"><i class='fas fa-map'></i>Debates Chamber, the Glasgow University Union</a></td>
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;">15:00-16:00</td>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Posters and demos session 1 (including refreshments)</td>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: left;  font-size:14px" width="30%"> <a href="https://maps.app.goo.gl/GXZatEfVxVYSgvtY9" style="color:#6495ED; font-size:14px;"><i class='fas fa-map'></i>[Poster] Debates Chamber, the Glasgow University Union [Demos] Foyer outside Debates Chamber, the Glasgow University Union</a></td>
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;">16:00-17:00</td>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Posters and demos session 2</td>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: left;  font-size:14px" width="30%"> <a href="https://maps.app.goo.gl/GXZatEfVxVYSgvtY9" style="color:#6495ED; font-size:14px;"><i class='fas fa-map'></i>[Poster] Debates Chamber, the Glasgow University Union [Demos] Foyer outside Debates Chamber, the Glasgow University Union</a></td>
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;">19:00-</td>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Conference Dinner</td>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: left;  font-size:14px" width="30%"> <a href="https://maps.app.goo.gl/GXZatEfVxVYSgvtY9" style="color:#6495ED; font-size:14px;"><i class='fas fa-map'></i>Dining Room, the Glasgow University Union</a></td>
 </tr>
 </table>
 <h5 style="margin-bottom: 0.9375rem; font-weight: bold; line-height: 1.1; color: #6495ED; font-size: 0.9375rem; clear: both; text-transform: uppercase; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; text-align: start; padding-top: 20px;">WEDNESDAY, JUNE 18TH 2025<br> HealTAC day 2</h5>
@@ -224,22 +244,27 @@ This panel will bring together experts in bias mitigation, psychology, health se
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;">09:00-09:15</td>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Welcome Day 2</td>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: left;  font-size:14px" width="30%"> <a href="https://maps.app.goo.gl/GXZatEfVxVYSgvtY9" style="color:#6495ED; font-size:14px;"><i class='fas fa-map'></i>Debates Chamber, the Glasgow University Union</a></td>
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="15%">09:15-10:15</td>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">PhD Forum <br><strong>Chair:</strong> Ruizhe Li, University of Aberdeen</td>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: left;  font-size:14px" width="30%"> <a href="https://maps.app.goo.gl/GXZatEfVxVYSgvtY9" style="color:#6495ED; font-size:14px;"><i class='fas fa-map'></i>Debates Chamber, the Glasgow University Union</a></td>
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="15%">10:15-11:15</td>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">PhD Lightning talks <br><strong>Chair:</strong> Matúš Falis, University of Edinburgh</td>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: left;  font-size:14px" width="30%"> <a href="https://maps.app.goo.gl/GXZatEfVxVYSgvtY9" style="color:#6495ED; font-size:14px;"><i class='fas fa-map'></i>Debates Chamber, the Glasgow University Union</a></td>
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="15%">11:15-12:30</td>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">PhD posters (including refreshments)</td>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: left;  font-size:14px" width="30%"> <a href="https://maps.app.goo.gl/GXZatEfVxVYSgvtY9" style="color:#6495ED; font-size:14px;"><i class='fas fa-map'></i>Debates Chamber, the Glasgow University Union</a></td>
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;">12:30-13:30</td>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Lunch</td>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: left;  font-size:14px" width="30%"> <a href="https://maps.app.goo.gl/GXZatEfVxVYSgvtY9" style="color:#6495ED; font-size:14px;"><i class='fas fa-map'></i>Debates Chamber, the Glasgow University Union</a></td>
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;">13:30-14:30</td>
@@ -249,6 +274,7 @@ This panel will bring together experts in bias mitigation, psychology, health se
   <p style=" color: black; background-color: white; text-decoration: none;"> Healthcare foundation models will increasingly power applications in diagnosis, prognosis, and decision support—but today's models are trained on narrow temporal slices of patient data and often focus on a single modality. In reality, clinical care unfolds over months or years, with informative signals embedded across longitudinal, multimodal data such as notes, imaging reports, and labs. This talk explores the “missing context problem”: how current models overlook the broader clinical timeline, and why solving this requires new approaches to modeling time, multimodality, and patient trajectories. I’ll outline emerging strategies and research directions that aim to bridge this gap, enabling models that are more contextual, grounded, and clinically useful.
 
 </p></div></td>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: left;  font-size:14px" width="30%"> <a href="https://maps.app.goo.gl/GXZatEfVxVYSgvtY9" style="color:#6495ED; font-size:14px;"><i class='fas fa-map'></i>Debates Chamber, the Glasgow University Union</a></td>
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;">14:30-15:30</td>
@@ -267,10 +293,12 @@ This panel will bring together experts in bias mitigation, psychology, health se
 </ul>
 </p></div>
 </td>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: left;  font-size:14px" width="30%"> <a href="https://maps.app.goo.gl/GXZatEfVxVYSgvtY9" style="color:#6495ED; font-size:14px;"><i class='fas fa-map'></i>Debates Chamber, the Glasgow University Union</a></td>
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;">15:30-16:00</td>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Best Poster Awards, closing remarks and beyond <br><strong>Chair:</strong> Honghan Wu, University of Glasgow; Arlene Casey, University of Edinburgh</td>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: left;  font-size:14px" width="30%"> <a href="https://maps.app.goo.gl/GXZatEfVxVYSgvtY9" style="color:#6495ED; font-size:14px;"><i class='fas fa-map'></i>Debates Chamber, the Glasgow University Union</a></td>
 </tr>
 </table>
 
