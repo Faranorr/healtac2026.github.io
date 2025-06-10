@@ -198,7 +198,7 @@ This talk will look at some of the issues in using NLP in electronic health reco
 </p></div></td></tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">
-Jytoi Sanyal, NLP Lead – Operational, SLaM NHSFT<br>
+Jyoti Sanyal, NLP Lead – Operational, SLaM NHSFT<br>
 <button class="collapsible">
 ‘The evolution of NLP in the CRIS dataset’
 </button>
