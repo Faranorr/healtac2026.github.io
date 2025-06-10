@@ -154,7 +154,7 @@ td {
 <button class="collapsible">Applied Papers</button>
 <div class="content">
 <ul>
-<li>Jytoi Sanyal, NLP Lead – Operational, SLaM NHSFT <br> The evolution of NLP in the CRIS dataset</li>
+<li>Jyoti Sanyal, NLP Lead – Operational, SLaM NHSFT <br> The evolution of NLP in the CRIS dataset</li>
 <li>Jingyuan Sun, Lecturer in NLP and Text Mining, University of Manchester <br> The Convergent Frontier: How GenAI, Neuroscience, and Mental Health Research are Uniting</li>
 <li>Rashmi Patel, Assistant Professor in Real-World Data Analytics, University of Cambridge <br> Beyond diagnostic classification: Characterising clinical phenotype and outcomes using NLP</li>
 <li>Rob Stewart, Professor of Psychiatric Epidemiology and Clinical Informatics, King’s College London <br> Beyond coding – NLP strategy and application</li>
