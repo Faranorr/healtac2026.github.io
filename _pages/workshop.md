@@ -156,7 +156,7 @@ Matthew Iveson, Senior Research Fellow, University of Edinburgh <br> Matúš Fal
   <p style=" color: black; background-color: white; text-decoration: none;">
 While people living with depression do not respond to antidepressants or take time to find a treatment that works for them, our understanding of who will respond and why has been limited by methodological challenges. In the AMBER project, we use both structured and unstructured electronic health record data to produce new measures of antidepressant response and non-response, enabling personalised medicine and risk prediction. In this talk we will present our work with primary care text data labelled by GPs with structured Read codes as part of routine practice. We will focus on filling in the gaps in the patients' depression timelines through identifying undercoded generic consultation encounters relevant to the depression phenotype with the aid of LLMs.
 </p></div></td></tr>
-<tr>
+<!-- <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">
 Dr Jorge Palacios, Chief Science Officer, Bright Therapeutics<br>
 <button class="collapsible">
@@ -165,7 +165,7 @@ Dr Jorge Palacios, Chief Science Officer, Bright Therapeutics<br>
 <div class="content">
   <p style=" color: black; background-color: white; text-decoration: none;">
 Analysis with NLP and correct interpretation of anonymised patient and clinician messages sent via an online platform can be hugely beneficial. Results can improve future iterations as well as train clinicians on better use of the platform. Ultimately, this can lead to increased usage and meaningful engagement, as well as leading to improved outcomes for patients.
-</p></div></td></tr>
+</p></div></td></tr> -->
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">
 Dr Rashmi Patel, Assistant Professor in Real-World Data Analytics, University of Cambridge<br>
