@@ -225,12 +225,12 @@ This panel will bring together experts in bias mitigation, psychology, health se
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;">15:00-16:00</td>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Posters and demos session 1 (including refreshments)</td>
-<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: left;  font-size:14px" width="30%"> <a href="https://maps.app.goo.gl/GXZatEfVxVYSgvtY9" style="color:#6495ED; font-size:14px;"><i class='fas fa-map'></i>[Poster] Debates Chamber, the Glasgow University Union [Demos] Foyer outside Debates Chamber, the Glasgow University Union</a></td>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: left;  font-size:14px" width="30%"> <a href="https://maps.app.goo.gl/GXZatEfVxVYSgvtY9" style="color:#6495ED; font-size:14px;"><i class='fas fa-map'></i>[Poster] Debates Chamber, the Glasgow University Union <br> [Demos] Foyer outside Debates Chamber, the Glasgow University Union</a></td>
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;">16:00-17:00</td>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Posters and demos session 2</td>
-<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: left;  font-size:14px" width="30%"> <a href="https://maps.app.goo.gl/GXZatEfVxVYSgvtY9" style="color:#6495ED; font-size:14px;"><i class='fas fa-map'></i>[Poster] Debates Chamber, the Glasgow University Union [Demos] Foyer outside Debates Chamber, the Glasgow University Union</a></td>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: left;  font-size:14px" width="30%"> <a href="https://maps.app.goo.gl/GXZatEfVxVYSgvtY9" style="color:#6495ED; font-size:14px;"><i class='fas fa-map'></i>[Poster] Debates Chamber, the Glasgow University Union <br> [Demos] Foyer outside Debates Chamber, the Glasgow University Union</a></td>
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;">19:00-</td>
