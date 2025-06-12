@@ -137,7 +137,6 @@ td {
 <li>Jane Taylor, Patient Advocate, DATAMIND Super-Research Advisory Group <br> Six degrees of separation</li>
 <li>Arlene Casey, Vivensa Foundation Senior Research Fellow, University of Edinburgh <br> Insight and Exposure: NLP for Mental Health and the Challenge of Protecting Privacy</li>
 <li>Maximilian Droog-Hayes, Principal AI Scientist, ieso Health <br> Responsible Innovation in Mental Healthcare: Developing Digital Interventions Safely with Generative AI</li>
-<li>Jorge Palacios, Chief Science Officer, Bright Therapeutics <br> Using NLP to enhance engagement with digital health interventions</li>
 </ul>
 </div></td>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: left;  font-size:14px" width="30%"> <a href="https://maps.app.goo.gl/GXZatEfVxVYSgvtY9" style="color:#6495ED; font-size:14px;"><i class='fas fa-map'></i>Debates Chamber, the Glasgow University Union</a></td>
