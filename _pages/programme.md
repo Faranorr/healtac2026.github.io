@@ -101,8 +101,6 @@ td {
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="15%">11:00-12:00</td>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Session 1<br><strong>Chair:</strong>Honghan Wu, University of Glasgow
 <button class="collapsible">Technical Papers</button>
-
-<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: left;  font-size:14px" width="30%"> <a href="https://maps.app.goo.gl/GXZatEfVxVYSgvtY9" style="color:#6495ED; font-size:14px;"><i class='fas fa-map'></i>Debates Chamber, the Glasgow University Union</a></td>
 <div class="content">
 <ul>
 <li>Marcos Del Pozo Banos, Senior Lecturer in Health Data Science, Swansea University <br> The journey of AI and NLP in mental health research</li>
@@ -110,6 +108,7 @@ td {
 <li>Tao Wang, Research Fellow in Heath Text Analytics and Data Science, King’s College London <br> Building Medical Timeline for Clinical Text Using Large Language Models</li>
 </ul>
 </div></td>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: left;  font-size:14px" width="30%"> <a href="https://maps.app.goo.gl/GXZatEfVxVYSgvtY9" style="color:#6495ED; font-size:14px;"><i class='fas fa-map'></i>Debates Chamber, the Glasgow University Union</a></td>
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="15%">12:00-13:00</td>
