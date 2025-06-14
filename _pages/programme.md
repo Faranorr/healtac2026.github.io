@@ -360,28 +360,6 @@ Throughout the conference, we will have presentations from the community across 
 <li>Andrew Steele, Tracy Ibbotson, Christine Milligan and Fiona Strachan:	Co-production of AI-powered PPIE Panels for  Healthcare Research</li>
 </ul>
 
-<h4 style="color:#009999;">PhD submissions</h4>
-<ul>
-<li>Xinyue Zhang, Agathe Zecevic, Sebastian Zeki and Angus Roberts: Improving Barrett’s Oesophagus Surveillance Scheduling with Large Language Models: A Structured Extraction Approach</li>
-<li>Simona E. Doneva and Benjamin Victor Ineichen:	Bridging Animal and Human Evidence in Neuroscience: A Large-Scale NLP Approach to Improve Drug Development</li>
-<li>Xi Zhang, Zaiqiao Meng, Jake Lever and Edmond S. L. Ho:	Towards Temporal-Aware Multimodal Large Language Models for Improved Radiology Report Generation</li>
-<li>Zhaohan Meng, Zaiqiao Meng, Ke Yuan and Iadh Ounis:	FusionDTI: Fine-grained Binding Discovery with Token-level Fusion for Drug-Target Interaction</li>
-<li>Hana Elsherbeny:	Improved Medical Coding using Sparse Retrieval Techniques</li>
-<li>Ian Paul Grant, Margareta A. Kulcsar and Massimo Poesio:	Supporting Autism Spectrum Diagnosis: Behaviour Classification as a Form of Event Extraction</li>
-<li>Mengzhe Xu, Anna Moore, Goran Nenadic, Peter Fonagy, Rachel Sippy, Elizabeth Simes, M A Hussein Wahedally and Niels Peek:	Supporting Qualitative Assessment of Healthcare Services with Large Language Models</li>
-<li>Ebrahim Alharbi and Mark Stevenson:	Assessing the Impact of Emerging Research on Systematic Reviews</li>
-<li>Elisa Castagnari, Ole Eigenbrod, Honghan Wu and T. Ian Simpson:	Improving Digital Healthcare Solutions with Data Interoperability and Large Language Models</li>
-<li>Samuel Thio and Richard Dobson:	Graph RAG with Vector Indexing for Patient-Level Queries from Neo4j-Stored EHR Data</li>
-<li>Adarsa Sivaprasad and Ehud Reiter:	A conversational agent to address patient needs for out-of-distribution explanations</li>
-<li>Sun Bin Kim, Dominic Oliver and Daniel Stahl:	Predicting Psychosis Onset Using NLP-Based Symptom Extraction and Machine Learning</li>
-<li>Anthony Hughes and Ning Ma:	Privacy Preservation in Primary Care: A Case Study in Adoption and Gender Reassignment</li>
-<li>Xinhao Yi, Jake Lever, Kevin Bryson and Zaiqiao Meng:	Editing LLMs for Long-Tail Biomedical Knowledge</li>
-<li>Michael Mooney and Edmond S. L Ho:	A New Frontier for Dyslexia Screening</li>
-<li>Hang Wang, Hang Dong and Lu Liu	AutoMed-KG: A Self-Evolving LLM-Driven Approach for Medical Knowledge Graph Construction and Enrichment</li>
-<li>Linglong Qian and Zina M. Ibrahim	COMBAT: COncept-Based Multimodal Artificial Intelli-gence for BreAsT Cancer</li>
-<li>Simon Ellershaw, Christopher Tomlinson, Zeljko Kraljevic, Angela Wood and Richard Dobson	Foresight: a national-scale foundation model of 51 million patients for generative medical event prediction</li>
-</ul>
-
 <h4 style="color:#009999;">Posters</h4>
 <ul>
 <li>Tarso Franarin, Jack Richmond, Barrett Abernethy and Gloria Roque:	Efficient Strategies for Overcoming Resource Constraints in Named Entity Recognition (NER) Validation</li>
@@ -408,4 +386,31 @@ Throughout the conference, we will have presentations from the community across 
 <li>Jack Wu, Dhruva Biswas, Samuel Brown, Brett Bernstein, Thomas Searle, Maleeha Rizvi, Dhanushan Vijayakumar, Daksh Mehta, Gerald Carr-White, Richard Dobson, Thomas Luscher, Ali Vazir, Theresa McDonagh, Ajay Shah and Kevin O'Gallagher:	Artificial Intelligence Methods to Detect Heart Failure with Preserved Ejection Fraction within Electronic Health Records</li>
 <li>Mingyang Li, Viktor Schlegel, Tingting Mu and Goran Nenadic:	Less is More: Enhancing ICD Coding via Influential Rationales – A Comprehensive Analysis of Explainability of ICD Coding</li>
 <li>Paul Legrand, Kawsar Noor, Satyam Bhagwanani and Richard Dobson:	An Open-Source Text-to-SQL Dataset over OMOP-Formatted MIMIC-IV</li>
+</ul>
+
+
+<h4 style="color:#009999;">PhD submissions Oral</h4>
+<ul>
+<li>Linglong Qian and Zina M. Ibrahim	COMBAT: COncept-Based Multimodal Artificial Intelli-gence for BreAsT Cancer</li>
+<li>Xinhao Yi, Jake Lever, Kevin Bryson and Zaiqiao Meng:	Editing LLMs for Long-Tail Biomedical Knowledge</li>
+<li>Simon Ellershaw, Christopher Tomlinson, Zeljko Kraljevic, Angela Wood and Richard Dobson	Foresight: a national-scale foundation model of 51 million patients for generative medical event prediction</li>
+</ul>
+
+<h4 style="color:#009999;">PhD submissions Posters (In the order for the PhD lightning talks)</h4>
+<ul>
+<li>Xinyue Zhang, Agathe Zecevic, Sebastian Zeki and Angus Roberts: Improving Barrett’s Oesophagus Surveillance Scheduling with Large Language Models: A Structured Extraction Approach</li>
+<li>Xi Zhang, Zaiqiao Meng, Jake Lever and Edmond S. L. Ho:	Towards Temporal-Aware Multimodal Large Language Models for Improved Radiology Report Generation</li>
+<li>Hana Elsherbeny:	Improved Medical Coding using Sparse Retrieval Techniques</li>
+<li>Mengzhe Xu, Anna Moore, Goran Nenadic, Peter Fonagy, Rachel Sippy, Elizabeth Simes, M A Hussein Wahedally and Niels Peek:	Supporting Qualitative Assessment of Healthcare Services with Large Language Models</li>
+<li>Sun Bin Kim, Dominic Oliver and Daniel Stahl:	Predicting Psychosis Onset Using NLP-Based Symptom Extraction and Machine Learning</li>
+<li>Simona E. Doneva and Benjamin Victor Ineichen:	Bridging Animal and Human Evidence in Neuroscience: A Large-Scale NLP Approach to Improve Drug Development</li>
+<li>Zhaohan Meng, Zaiqiao Meng, Ke Yuan and Iadh Ounis:	FusionDTI: Fine-grained Binding Discovery with Token-level Fusion for Drug-Target Interaction</li>
+<li>Elisa Castagnari, Ole Eigenbrod, Honghan Wu and T. Ian Simpson:	Improving Digital Healthcare Solutions with Data Interoperability and Large Language Models</li>
+<li>Hang Wang, Hang Dong and Lu Liu	AutoMed-KG: A Self-Evolving LLM-Driven Approach for Medical Knowledge Graph Construction and Enrichment</li>
+<li>Michael Mooney and Edmond S. L Ho:	A New Frontier for Dyslexia Screening</li>
+<li>Ebrahim Alharbi and Mark Stevenson:	Assessing the Impact of Emerging Research on Systematic Reviews</li>
+<li>Samuel Thio and Richard Dobson:	Graph RAG with Vector Indexing for Patient-Level Queries from Neo4j-Stored EHR Data</li>
+<li>Anthony Hughes and Ning Ma:	Privacy Preservation in Primary Care: A Case Study in Adoption and Gender Reassignment</li>
+<li>Ian Paul Grant, Margareta A. Kulcsar and Massimo Poesio:	Supporting Autism Spectrum Diagnosis: Behaviour Classification as a Form of Event Extraction</li>
+<li>Adarsa Sivaprasad and Ehud Reiter:	A conversational agent to address patient needs for out-of-distribution explanations</li>
 </ul>
