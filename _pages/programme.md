@@ -384,7 +384,7 @@ Throughout the conference, we will have presentations from the community across 
 
 <h4 style="color:#009999;">Posters</h4>
 <ul>
-<li>Tarso Franarin, Jack Richmond, Barrett Abernethy and Gloria Roque:	Methodology for Validating Named Entity Recognition for Low Prevalent Concepts</li>
+<li>Tarso Franarin, Jack Richmond, Barrett Abernethy and Gloria Roque:	Efficient Strategies for Overcoming Resource Constraints in Named Entity Recognition (NER) Validation</li>
 <li>Phoey Lee Teh, Peter Saul and Mobeen Tahir:	Enhancing User Experience with AI-Driven LLM-Based Dialogue and Mapping of NHS Services in Wales</li>
 <li>Mengxuan Sun, Ehud Reiter, Anne Kiltie, George Ramsay, Peter Murchie, Lisa Duncan and Rosalind Adam:	Effectiveness of ChatGPT4 in explaining complex medical reports to patients</li>
 <li>Adam Sutton, Vlad Dinu, Thomas Searle and Richard Dobson:	Clinical Insights from MIMIC-IV Using NLP and CogStack</li>
