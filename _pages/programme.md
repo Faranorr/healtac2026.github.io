@@ -240,6 +240,11 @@ This panel will bring together experts in bias mitigation, psychology, health se
 <h5 style="margin-bottom: 0.9375rem; font-weight: bold; line-height: 1.1; color: #6495ED; font-size: 0.9375rem; clear: both; text-transform: uppercase; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; text-align: start; padding-top: 20px;">WEDNESDAY, JUNE 18TH 2025<br> HealTAC day 2</h5>
 <table class="programme-table" style="background-color: #ffffff; margin-bottom: 20px; width: 790.2px; border-color: #e9e9e9=; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; text-align: start;" border="0">
 <tr>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;">08:30-09:00</td>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Breakfast</td>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: left;  font-size:14px" width="30%"> <a href="https://maps.app.goo.gl/GXZatEfVxVYSgvtY9" style="color:#6495ED; font-size:14px;"><i class='fas fa-map'></i>Debates Chamber, the Glasgow University Union</a></td>
+</tr>
+<tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;">09:00-09:15</td>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Welcome Day 2</td>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: left;  font-size:14px" width="30%"> <a href="https://maps.app.goo.gl/GXZatEfVxVYSgvtY9" style="color:#6495ED; font-size:14px;"><i class='fas fa-map'></i>Debates Chamber, the Glasgow University Union</a></td>
