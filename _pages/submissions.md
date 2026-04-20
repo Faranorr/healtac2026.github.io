@@ -33,7 +33,7 @@ a:active {
 </style>
 </head>
 <body>
-<h3>Please use <a href="https://easychair.org/conferences/?conf=healtac2026" style="color:#4da6ff;">Easychair</a> for all submissions.</h3> 
+<h3>Please use <a href="https://easychair.org/conferences/?conf=healtac2026" style="color:#2f7d95;">Easychair</a> for all submissions.</h3> 
 <!--<h3>Please use <a href="https://easychair.org/conferences/?conf=healtac2025">Easychair</a> for all submissions.</h3> -->
 
 <h2>Contribution types</h2>
