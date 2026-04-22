@@ -103,3 +103,4 @@ By developing scalable, language-model-enabled tools and transparent risk assess
 - **Franz Gruber**, University of Edinburgh
 - **Goran Nenadic**, University of Manchester
 - **Yamiko Msosa**, King’s College London
+- **Jaya Chaturvedi**, King's College London
