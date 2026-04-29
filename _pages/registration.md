@@ -32,7 +32,9 @@ Late registration fees (<strong>after 4th May, 2026</strong>):
 </ul>
 
 
- <p>The fee includes participation for three days (including the pre-conference workshop day). All fees include a conference dinner on 9 June 2026.
+ <p>The fee includes participation for three days (including the pre-conference workshop day). All fees include a conference dinner on 9 June 2026. </p>
+
+<p> It is possible to register for workshop only (8 June) for free. 
 </p> 
 
 <p>
