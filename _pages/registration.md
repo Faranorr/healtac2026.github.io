@@ -18,14 +18,14 @@ body {
 Register <a href="https://estore.kcl.ac.uk/conferences-and-events/academic-faculties/institute-of-psychiatry-psychology-neuroscience/department-of-biostatistics-health-informatics/healtac-2026-9th-healthcare-text-analytics-conference">here</a>. 
 <!-- Please book via the <a href="https://healtac2026.github.io" style="color: #6495ED; background-color: #F0F8FF; text-decoration: none;" target="_blank">TBA page</a>.-->
 <p></p>
-Early registration fees (<strong>by 4th May, 2026</strong>):
+Early registration fees (<strong>by <s>4th May</s> extended to 8 May 2026</strong>):
 <ul>
   <li>Full registration: £240</li>
   <li>Student registration: £140</li>
   <li>Presenting student registration: £40</li>
 </ul>
 
-Late registration fees (<strong>after 4th May, 2026</strong>):
+Late registration fees (<strong>now after <s>4th May</s> 8 May 2026</strong>):
 <ul>
   <li>Full registration: £340</li>
   <li>Student registration: £190</li>
