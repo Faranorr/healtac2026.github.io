@@ -33,6 +33,8 @@ main:
   #   url: /datesandcalls/
   - title: "Venue"
     url: /venue/
+  - title: "Instruction for Presenters"
+    url: /presenters/
   - title: "Publication"
     url: /publication/
   - title: "News"
