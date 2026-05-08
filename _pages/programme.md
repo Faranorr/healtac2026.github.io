@@ -525,7 +525,7 @@ Throughout the conference, we will have presentations from the community across 
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="15%">15:00–15:45</td>
-<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Panel – Free-text healthcare data and Trusted Research Environments workshop</td>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Panel – Free-text healthcare data and Trusted Research Environments</td>
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="15%">15:45–16:00</td>

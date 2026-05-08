@@ -41,7 +41,7 @@ a:active {
 <p>Please complete this <a href="https://forms.cloud.microsoft/pages/responsepage.aspx?id=FM9wg_MWFky4PHJAcWVDVsbd6Y26XndIhZAf3BOno2JUNldLMU1NTE5YUkcwOTY0N1k5TFFNWENQOC4u&route=shorturl" style="color:#2f7d95;">short form</a> (less than 1 minute) if you have not already done so, so that we can include your abstract in the final programme and consider a full version of your paper for inclusion in a <a href="https://www.frontiersin.org/journals/digital-health" style="color:#2f7d95;">Frontiers in Digital Health</a> special issue.</p>
 
 <h2>Lightning talks and PhD / fellowship talks</h2>
-<p>All lightning talks and all PhD / fellowship talks are accepted for a poster session in addition to an oral session, and are requested to prepare both a lightning talk and a poster, as notified in your acceptance email.</p>
+<p>All lightning talks and all PhD / fellowship talks are accepted for a poster session in addition to an oral session, and are requested to prepare both a talk and a poster, as notified in your acceptance email.</p>
 
 <h2>Presentation lengths</h2>
 <table>
