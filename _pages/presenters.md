@@ -1,6 +1,6 @@
 ---
 permalink: /presenters/
-title: "Instruction for Presenters"
+title: "Information for presenters of talks, posters and demos"
 ---
 
 <html>
@@ -33,8 +33,6 @@ a:active {
 </style>
 </head>
 <body>
-
-<p>Information for presenters of talks, posters and demos.</p>
 
 <h2>Updating your abstracts</h2>
 <p>All authors are requested to update their abstract in line with the reviewers' recommendations, and resubmit to the conference <a href="https://easychair.org/conferences/?conf=healtac2026" style="color:#2f7d95;">Easychair</a> site.</p>
