@@ -107,6 +107,7 @@ a:active {
   <li>The venue (Holiday Inn Brighton Seafront) is responsible for Wi-Fi and Internet connection, not the conference organisers.</li>
   <li>HealTAC 2026 cannot guarantee any particular level of Wi-Fi / Internet service.</li>
   <li>If an internet connection is important for your demo, we suggest you provide your own mobile-based connection.</li>
+  <li>The venue, Holiday Inn, say that WiFi has never been an issue for previous conferences that they have hosted.</li>
 </ul>
 
 </body>
