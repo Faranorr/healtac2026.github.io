@@ -128,7 +128,7 @@ author:
           </tbody>
         </table>
       icon: "far fa-calendar-alt"
-      url: ""
+      url: "javascript:void(0)"
     - label: "<strong style='color:#003865;'>Keynotes</strong><br>– <span style='color: black;'><strong>Dr Martin Krallinger</strong><br><span style='color: black; font-size: 0.9em;'>(Barcelona Supercomputing Center)</span><br>– <span style='color: black;'><strong>Prof. Aline Villavicencio</strong><br><span style='color: black; font-size: 0.9em;'>(University of Exeter &amp; Sheffield)</span>"
       icon: "fas fa-microphone"
       url: /keynotes/
@@ -172,7 +172,7 @@ author:
     - label: |
         <strong style='color:#003865;'>Sponsors</strong>
       icon: "fas fa-handshake"
-      url: ""
+      url: "javascript:void(0)"
     - label: |
         <div style="display: flex; flex-direction: column;">
           <img src="/assets/images/sponsors/dareuk.png" alt="DareUK" style="margin-bottom: 2.5px; max-width: 200px;">
