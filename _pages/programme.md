@@ -446,7 +446,7 @@ Throughout the conference, we will have presentations from the community across 
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="15%">10:15–11:15</td>
-<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Keynote – <strong>Dr Martin Krallinger</strong> (Barcelona Supercomputing Center) &nbsp;<a href="/keynotes/" style="color:#339982">Speaker profile</a></td>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Keynote – <strong>Dr Martin Krallinger</strong> (Barcelona Supercomputing Center) &nbsp;<a href="/keynotes/" style="color:#339982">Speaker profile and abstract</a></td>
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="15%">11:15–11:30</td>
@@ -618,7 +618,7 @@ Throughout the conference, we will have presentations from the community across 
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="15%">12:00–13:00</td>
-<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Keynote – <strong>Prof. Aline Villavicencio</strong> (University of Exeter &amp; University of Sheffield) &nbsp;<a href="/keynotes/" style="color:#339982">Speaker profile</a></td>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Keynote – <strong>Prof. Aline Villavicencio</strong> (University of Exeter &amp; University of Sheffield) &nbsp;<a href="/keynotes/" style="color:#339982">Speaker profile and abstract</a></td>
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="15%">13:00–13:05</td>
