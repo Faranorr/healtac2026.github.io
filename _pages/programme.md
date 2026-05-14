@@ -458,7 +458,7 @@ Throughout the conference, we will have presentations from the community across 
 <button class="collapsible">Papers</button>
 <div class="content">
 <ul>
-<li><strong>Tao Wang, Zhuoyuan Tang, Kai Yang, Li Yuan and Angus Roberts.</strong> Depression Severity Estimation via Speaker Diarization and Multi-Task Learning with Multimodal Cross-Attention</li>
+<li><strong>Paul Howarth and Elouise Ross.</strong> Learning from Tragedy: Structuring Complex Narrative Evidence in Health Systems with Ontology-Guided Hybrid NLP</li>
 <li><strong>Matúš Falis, Alice Eaton, Michael Holder, Kieran Sweeney, Matthew Iveson, Samuel McInerney, Franz Gruber, Emily Ball, Heather Whalley and Arlene Casey.</strong> Extraction of Antidepressant Response from Primary-Care FreeText Data with Large Language Models <em>(lightning talk)</em></li>
 <li><strong>Sharon Sondh, Christoph Mueller, Lifang Li, Angus Roberts, Harsharon Sondh and Robert Stewart.</strong> Application of a BERT NLP model for recorded violence to investigate its associations with emergency department attendance and mental health service use in older adults <em>(lightning talk)</em></li>
 <li><strong>David Chandran, Alice Broadbent, Jyoti Sanyal and Robert Stewart.</strong> Utilization of a fine-tuned BERT model to identify instances of the subject of clinical records experiencing job-loss <em>(lightning talk)</em></li>
@@ -512,7 +512,7 @@ Throughout the conference, we will have presentations from the community across 
 <button class="collapsible">Papers</button>
 <div class="content">
 <ul>
-<li><strong>Paul Howarth and Elouise Ross.</strong> Learning from Tragedy: Structuring Complex Narrative Evidence in Health Systems with Ontology-Guided Hybrid NLP</li>
+<li><strong>Tao Wang, Zhuoyuan Tang, Kai Yang, Li Yuan and Angus Roberts.</strong> Depression Severity Estimation via Speaker Diarization and Multi-Task Learning with Multimodal Cross-Attention</li>
 <li><strong>Oscar Windrath-Carr and Maite Arribas.</strong> A Scalable Approach to Address the Lack of Labelled Clinical Free Text Data: Case Study for Venous Thromboembolism <em>(lightning talk)</em></li>
 <li><strong>Fahrurrozi Rahman, Aryo Pradipta Gema, Arlene Casey, Honghan Wu, Bruce Guthrie and Beatrice Alex.</strong> Adverse Events and Geriatric Syndromes in MIMIC-IV: A Multilabel Document Classification Study <em>(lightning talk)</em></li>
 <li><strong>Daisy Monika Lal, Paul Rayson and Andrew Moore.</strong> Do We Need Complex Models? Using Collocations for Metaphor Detection in Cancer Narratives <em>(lightning talk)</em></li>
@@ -536,6 +536,23 @@ Throughout the conference, we will have presentations from the community across 
 <ul>
 <li><strong>Neil Smalheiser.</strong> Tools for User-focused Mining of the Biomedical Literature</li>
 <li><strong>Georgina Cosma, G. Thomas Jun, Mikel Williams-Lekuona and Saul Albert.</strong> Multimorbidity Patterns in Adults with Intellectual Disability and Digital Tools for Exploring Care Experiences</li>
+</ul>
+</div>
+<button class="collapsible">Posters (from oral sessions)</button>
+<div class="content">
+<ul>
+<li><strong>Matúš Falis, Alice Eaton, Michael Holder, Kieran Sweeney, Matthew Iveson, Samuel McInerney, Franz Gruber, Emily Ball, Heather Whalley and Arlene Casey.</strong> Extraction of Antidepressant Response from Primary-Care FreeText Data with Large Language Models</li>
+<li><strong>Sharon Sondh, Christoph Mueller, Lifang Li, Angus Roberts, Harsharon Sondh and Robert Stewart.</strong> Application of a BERT NLP model for recorded violence to investigate its associations with emergency department attendance and mental health service use in older adults</li>
+<li><strong>David Chandran, Alice Broadbent, Jyoti Sanyal and Robert Stewart.</strong> Utilization of a fine-tuned BERT model to identify instances of the subject of clinical records experiencing job-loss</li>
+<li><strong>Liam Barrett, Nikhil Joshi and Nishchay Mehta.</strong> LLM reliability in clinical information extraction from ENT electronic health records</li>
+<li><strong>Arooj Hussain, Warren Del-Pinto, Meghna Jani, William G Dixon and Goran Nenadic.</strong> Assessing Certainty of Diagnoses in Clinical Text</li>
+<li><strong>Mingyang Li, Viktor Schlegel, Tingting Mu, Wuraola Oyewusi and Goran Nenadic.</strong> Evaluation and LLM-Guided Learning of ICD Coding Rationales</li>
+<li><strong>Adam Sutton, Niko Möller-Grell, Thomas Searle and Richard Dobson.</strong> Fast, Accurate, and Local Conversion of MIMIC-IV to OMOP with DBT</li>
+<li><strong>Beatrice Alex, Claire Grover, Arlene Casey, Richard Tobin, Heather Whaley and William Whiteley.</strong> GS-BrainText: A Multi-Site Brain Imaging Report Dataset for Clinical NLP Development and Validation</li>
+<li><strong>Chao Xu, Xiaolei Diao, Alec Diallo, Luo Mai, Yunsoo Kim and Honghan Wu.</strong> PAIR-EHR: Transforming Clinical Case Reports into Structured EHR Representations</li>
+<li><strong>Oscar Windrath-Carr and Maite Arribas.</strong> A Scalable Approach to Address the Lack of Labelled Clinical Free Text Data: Case Study for Venous Thromboembolism</li>
+<li><strong>Fahrurrozi Rahman, Aryo Pradipta Gema, Arlene Casey, Honghan Wu, Bruce Guthrie and Beatrice Alex.</strong> Adverse Events and Geriatric Syndromes in MIMIC-IV: A Multilabel Document Classification Study</li>
+<li><strong>Daisy Monika Lal, Paul Rayson and Andrew Moore.</strong> Do We Need Complex Models? Using Collocations for Metaphor Detection in Cancer Narratives</li>
 </ul>
 </div>
 <button class="collapsible">Posters</button>
@@ -618,6 +635,19 @@ Throughout the conference, we will have presentations from the community across 
 <div class="content">
 <ul>
 <li><strong>Samuel Thio, David Tang, James Teo, Thomas Searle and Richard Dobson.</strong> Cogstack Coder: Agentic Medical Coding Assistant for EHR Systems</li>
+</ul>
+</div>
+<button class="collapsible">Posters (from PhD and fellowship sessions)</button>
+<div class="content">
+<ul>
+<li><strong>Faezeh Safari, Hang Dong, Zeyu Fu and Aline Villavicencio.</strong> A Neuro-Symbolic Approach to Graph-Verified and Interpretable Chest X-Ray Report Generation</li>
+<li><strong>Linglong Qian and Zina Ibrahim.</strong> TIMELY-Agent: An Agentic Framework for Multimodal Clinical Reasoning Benchmark Construction</li>
+<li><strong>Mel Ramasawmy.</strong> Addressing inequalities in patient-facing AI symptoms checkers: Planned fellowship application</li>
+<li><strong>Agathe Zecevic, Angus Roberts and Sebastian Zeki.</strong> Exploring limitations of guideline-grounded Clinical Decision Support Systems by comparison with clinical practice</li>
+<li><strong>Adam Williams, Pj Noble and Kirsten McMillan.</strong> Comparison of Transformer Encoder-Based Text Classifiers in Identifying Canine Involvement in Road Traffic Accidents</li>
+<li><strong>Chloe Hutton, Chris Fox, Carol Brayne, Hang Dong and David Llewellyn.</strong> AI-enhanced dementia prevention: precision risk reduction using large language models</li>
+<li><strong>Aditya Borakati, Jack Wu, Christopher Callaghan, Miriam Cortes Cerisuelo, James Teo and David Wallace.</strong> Developing a Natural Language Processing Enhanced Liver Transplant Registry</li>
+<li><strong>Shubham Agarwal, Jaya Chaturvedi, Julia Ive, Robert Stewart, Thomas Searle and Richard Dobson.</strong> Investigating Bias in Mental Health Clinical Notes</li>
 </ul>
 </div>
 <button class="collapsible">Posters</button>
