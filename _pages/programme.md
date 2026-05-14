@@ -421,6 +421,7 @@ Throughout the conference, we will have presentations from the community across 
 <li>Adarsa Sivaprasad and Ehud Reiter:	A conversational agent to address patient needs for out-of-distribution explanations</li>
 </ul>
 -->
+
 <h5 style="margin-bottom: 0.9375rem; font-weight: bold; line-height: 1.1; color: #6495ED; font-size: 0.9375rem; clear: both; text-transform: uppercase; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; text-align: start;">MONDAY, 8 JUNE 2026<br>Day 1 – Workshops</h5>
 <table class="programme-table" style="background-color: #ffffff; margin-bottom: 20px; width: 790.2px; border-color: #e9e9e9; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; text-align: start;" border="0">
 <tr>
@@ -445,15 +446,39 @@ Throughout the conference, we will have presentations from the community across 
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="15%">10:15–11:15</td>
-<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Keynote – Dr Martin Krallinger</td>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Keynote – <strong>Dr Martin Krallinger</strong> (Barcelona Supercomputing Center) &nbsp;<a href="/keynotes/" style="color:#339982">Speaker profile</a></td>
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="15%">11:15–11:30</td>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Break</td>
 </tr>
 <tr>
-<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="15%">11:30–12:30</td>
-<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Oral paper groups 1 and 2</td>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="15%">11:30–12:00</td>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Oral session 1, group 1 – Mental Health &amp; Social Determinants of Health<br>
+<button class="collapsible">Papers</button>
+<div class="content">
+<ul>
+<li><strong>Tao Wang, Zhuoyuan Tang, Kai Yang, Li Yuan and Angus Roberts.</strong> Depression Severity Estimation via Speaker Diarization and Multi-Task Learning with Multimodal Cross-Attention</li>
+<li><strong>Matúš Falis, Alice Eaton, Michael Holder, Kieran Sweeney, Matthew Iveson, Samuel McInerney, Franz Gruber, Emily Ball, Heather Whalley and Arlene Casey.</strong> Extraction of Antidepressant Response from Primary-Care FreeText Data with Large Language Models <em>(lightning talk)</em></li>
+<li><strong>Sharon Sondh, Christoph Mueller, Lifang Li, Angus Roberts, Harsharon Sondh and Robert Stewart.</strong> Application of a BERT NLP model for recorded violence to investigate its associations with emergency department attendance and mental health service use in older adults <em>(lightning talk)</em></li>
+<li><strong>David Chandran, Alice Broadbent, Jyoti Sanyal and Robert Stewart.</strong> Utilization of a fine-tuned BERT model to identify instances of the subject of clinical records experiencing job-loss <em>(lightning talk)</em></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="15%">12:00–12:30</td>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Oral session 1, group 2 – Evaluation &amp; Reliability<br>
+<button class="collapsible">Papers</button>
+<div class="content">
+<ul>
+<li><strong>Zicheng Li, Honghan Wu and Liana Romaniuk.</strong> A Human-Centred Evaluation Framework for Patient-Facing Mental-Health LLMs Using Clinically Grounded Synthetic Dialogues</li>
+<li><strong>Liam Barrett, Nikhil Joshi and Nishchay Mehta.</strong> LLM reliability in clinical information extraction from ENT electronic health records <em>(lightning talk)</em></li>
+<li><strong>Arooj Hussain, Warren Del-Pinto, Meghna Jani, William G Dixon and Goran Nenadic.</strong> Assessing Certainty of Diagnoses in Clinical Text <em>(lightning talk)</em></li>
+<li><strong>Mingyang Li, Viktor Schlegel, Tingting Mu, Wuraola Oyewusi and Goran Nenadic.</strong> Evaluation and LLM-Guided Learning of ICD Coding Rationales <em>(lightning talk)</em></li>
+</ul>
+</div>
+</td>
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="15%">12:30–12:45</td>
@@ -468,8 +493,32 @@ Throughout the conference, we will have presentations from the community across 
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Industry panel</td>
 </tr>
 <tr>
-<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="15%">14:45–15:45</td>
-<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Oral paper groups 3 and 4</td>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="15%">14:45–15:15</td>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Oral session 2, group 3 – Engineering, Resources &amp; Governance<br>
+<button class="collapsible">Papers</button>
+<div class="content">
+<ul>
+<li><strong>Wilson Lukmanjaya, Sarah Cox, Tony Butler, Oscar Perez-Concha, Leah Bromfield and George Karystianis.</strong> The Secret is in the Relationships: De-identifying Child Intake Reports</li>
+<li><strong>Adam Sutton, Niko Möller-Grell, Thomas Searle and Richard Dobson.</strong> Fast, Accurate, and Local Conversion of MIMIC-IV to OMOP with DBT <em>(lightning talk)</em></li>
+<li><strong>Beatrice Alex, Claire Grover, Arlene Casey, Richard Tobin, Heather Whaley and William Whiteley.</strong> GS-BrainText: A Multi-Site Brain Imaging Report Dataset for Clinical NLP Development and Validation <em>(lightning talk)</em></li>
+<li><strong>Chao Xu, Xiaolei Diao, Alec Diallo, Luo Mai, Yunsoo Kim and Honghan Wu.</strong> PAIR-EHR: Transforming Clinical Case Reports into Structured EHR Representations <em>(lightning talk)</em></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="15%">15:15–15:45</td>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Oral session 2, group 4 – Narrative Analysis &amp; Information Extraction<br>
+<button class="collapsible">Papers</button>
+<div class="content">
+<ul>
+<li><strong>Paul Howarth and Elouise Ross.</strong> Learning from Tragedy: Structuring Complex Narrative Evidence in Health Systems with Ontology-Guided Hybrid NLP</li>
+<li><strong>Oscar Windrath-Carr and Maite Arribas.</strong> A Scalable Approach to Address the Lack of Labelled Clinical Free Text Data: Case Study for Venous Thromboembolism <em>(lightning talk)</em></li>
+<li><strong>Fahrurrozi Rahman, Aryo Pradipta Gema, Arlene Casey, Honghan Wu, Bruce Guthrie and Beatrice Alex.</strong> Adverse Events and Geriatric Syndromes in MIMIC-IV: A Multilabel Document Classification Study <em>(lightning talk)</em></li>
+<li><strong>Daisy Monika Lal, Paul Rayson and Andrew Moore.</strong> Do We Need Complex Models? Using Collocations for Metaphor Detection in Cancer Narratives <em>(lightning talk)</em></li>
+</ul>
+</div>
+</td>
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="15%">15:45–15:50</td>
@@ -481,7 +530,30 @@ Throughout the conference, we will have presentations from the community across 
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="15%">16:00–17:00</td>
-<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Posters and demos session 1</td>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Posters and demos session 1<br>
+<button class="collapsible">Demos</button>
+<div class="content">
+<ul>
+<li><strong>Neil Smalheiser.</strong> Tools for User-focused Mining of the Biomedical Literature</li>
+<li><strong>Georgina Cosma, G. Thomas Jun, Mikel Williams-Lekuona and Saul Albert.</strong> Multimorbidity Patterns in Adults with Intellectual Disability and Digital Tools for Exploring Care Experiences</li>
+</ul>
+</div>
+<button class="collapsible">Posters</button>
+<div class="content">
+<ul>
+<li><strong>Omotayo Faluyi.</strong> To what extent can existing toxicity- and sentiment-oriented language models reliably distinguish between psychologically harmful and constructive negative comments?</li>
+<li><strong>Daisy Monika Lal, Paul Rayson and Andrew Moore.</strong> Tracing Annotation Bias in Patient Narratives through LLM-Based Role-Conditioned Emotion Detection</li>
+<li><strong>Ebrahim Alharbi and Mark Stevenson.</strong> Predicting Systematic Review Conclusion Change</li>
+<li><strong>Keiran Tait, Joseph Cronin and Robert Durichen.</strong> Clinical data enrichment using LLM ensemble approaches</li>
+<li><strong>Joseph Cronin, Keiran Tait and Robert Durichen.</strong> Agentic system for research specific real world data quality checks</li>
+<li><strong>Yunsoo Kim, Xiaolei Diao, Chao Xu, Sandosh Padmanabhan and Honghan Wu.</strong> PAIR-SUM: Summarisation of MIMIC hypertension discharge notes</li>
+<li><strong>Frida Hæstrup, Jakob Grøhn Damgaard, Sara Kolding, Erik Perfalk, Andreas Aalkjær Danielsen and Søren Dinesen Østergaard.</strong> Metric-Dependent Optimisation of Clinical Prediction Models in Psychiatry</li>
+<li><strong>Jakob Grøhn Damgaard, Kenneth Enevoldsen, Sara Kolding, Frida Hæstrup, Erik Perfalk, Andreas A. Danielsen and Søren D. Østergaard.</strong> Predicting Clinical Outcomes for Patients with Mental Illness using NLP on Electronic Health Records</li>
+<li><strong>Sara Kolding, Jakob Grøhn Damgaard, Frida Hæstrup, Erik Perfalk, Rebekah Baglini, Andreas Aalkjær Danielsen and Søren Dinesen Østergaard.</strong> Detection of Bias in Prediction Models for Clinical Psychiatry based on Data from Electronic Health Records</li>
+<li><strong>Erik Perfalk, Jakob Grøhn Damgaard, Kenneth Enevoldsen, Andreas Aalkjaer Danielsen and Søren Dinesen Østergaard.</strong> Estimating severity of psychiatric symptoms via natural language processing of electronic health record data</li>
+</ul>
+</div>
+</td>
 </tr>
 </table>
 
@@ -493,11 +565,31 @@ Throughout the conference, we will have presentations from the community across 
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="15%">09:15–10:15</td>
-<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">PhD and fellowship forum</td>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">PhD and fellowship forum<br>
+<button class="collapsible">Papers</button>
+<div class="content">
+<ul>
+<li><strong>Faezeh Safari, Hang Dong, Zeyu Fu and Aline Villavicencio.</strong> A Neuro-Symbolic Approach to Graph-Verified and Interpretable Chest X-Ray Report Generation</li>
+<li><strong>Linglong Qian and Zina Ibrahim.</strong> TIMELY-Agent: An Agentic Framework for Multimodal Clinical Reasoning Benchmark Construction</li>
+<li><strong>Mel Ramasawmy.</strong> Addressing inequalities in patient-facing AI symptoms checkers: Planned fellowship application</li>
+</ul>
+</div>
+</td>
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="15%">10:15–10:45</td>
-<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">PhD lightning talks</td>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">PhD and fellowship lightning talks<br>
+<button class="collapsible">Papers</button>
+<div class="content">
+<ul>
+<li><strong>Agathe Zecevic, Angus Roberts and Sebastian Zeki.</strong> Exploring limitations of guideline-grounded Clinical Decision Support Systems by comparison with clinical practice</li>
+<li><strong>Adam Williams, Pj Noble and Kirsten McMillan.</strong> Comparison of Transformer Encoder-Based Text Classifiers in Identifying Canine Involvement in Road Traffic Accidents</li>
+<li><strong>Chloe Hutton, Chris Fox, Carol Brayne, Hang Dong and David Llewellyn.</strong> AI-enhanced dementia prevention: precision risk reduction using large language models</li>
+<li><strong>Aditya Borakati, Jack Wu, Christopher Callaghan, Miriam Cortes Cerisuelo, James Teo and David Wallace.</strong> Developing a Natural Language Processing Enhanced Liver Transplant Registry</li>
+<li><strong>Shubham Agarwal, Jaya Chaturvedi, Julia Ive, Robert Stewart, Thomas Searle and Richard Dobson.</strong> Investigating Bias in Mental Health Clinical Notes</li>
+</ul>
+</div>
+</td>
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="15%">10:45–11:00</td>
@@ -509,7 +601,7 @@ Throughout the conference, we will have presentations from the community across 
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="15%">12:00–13:00</td>
-<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Keynote – Prof. Aline Villavicencio</td>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Keynote – <strong>Prof. Aline Villavicencio</strong> (University of Exeter &amp; University of Sheffield) &nbsp;<a href="/keynotes/" style="color:#339982">Speaker profile</a></td>
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="15%">13:00–13:05</td>
@@ -521,7 +613,31 @@ Throughout the conference, we will have presentations from the community across 
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="15%">14:00–15:00</td>
-<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Posters and demos session 2</td>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Posters and demos session 2<br>
+<button class="collapsible">Demo</button>
+<div class="content">
+<ul>
+<li><strong>Samuel Thio, David Tang, James Teo, Thomas Searle and Richard Dobson.</strong> Cogstack Coder: Agentic Medical Coding Assistant for EHR Systems</li>
+</ul>
+</div>
+<button class="collapsible">Posters</button>
+<div class="content">
+<ul>
+<li><strong>Yusuf Yildiz, Goran Nenadic, Meghna Jani and David A. Jenkins.</strong> Infusing Medical Hierarchies into Transformers: A Study of Ontology Infusion Methods in Clinical Transformers</li>
+<li><strong>Haoyu Wang, Zitong Li, Linglong Qian and Zina Ibrahim.</strong> TIMELY-Bench: Quantifying Temporal Leakage in Multimodal ICU Prediction</li>
+<li><strong>Elizabeth Ford, Rob Dickinson and Edmund Broadhead.</strong> Challenges in Generating Realistic Synthetic Clinical Records Using Large Language Models for Evaluating AI Summarizing Tools</li>
+<li><strong>Franz Gruber, Stuart Dunbar, Matúš Falis, Samuel McInerney, Stephen Powell and Arlene Casey.</strong> De-identifying patient records using a combination of regular expressions and large language models</li>
+<li><strong>Shrankhla Pandey, Sarah Morgan, Ben Laws, Stefan Rennick-Egglestone, Mike Slade and Graham Murray.</strong> Annotation data collection study for recovery narratives</li>
+<li><strong>Joe Davies, Beata Fonferko-Shadrach, Ben Holgate, Arron Lacey, Huw Strafford, Owen Pickrell and Mark P Richardson.</strong> Creating A Gold-Standard Annotated Epilepsy EHR Dataset</li>
+<li><strong>Thomas Rowlands, Yamiko Msosa, Claire Newman, Phil Quinlan, Angus Roberts, Robert Stewart, Simon Thompson, Grazziela Figueredo and Tim Beck.</strong> TRExt: Demonstrating text analytics capabilities for Trusted Research Environments</li>
+<li><strong>Matúš Falis, Matthew Iveson, Samuel McInerney, Franz Gruber, Emily Ball, Heather Whalley and Arlene Casey.</strong> Systematic Review of Natural Language Processing for Extracting Psychiatric Medication Response from Clinical Free Text (Antidepressants, Antipsychotics, and Mood Stabilisers)</li>
+<li><strong>Leo Zhang, Agathe Zecevic, Sebastian Zeki and Angus Roberts.</strong> A Comparison Study of Three Pipelines for Barrett's Oesophagus Surveillance Prediction</li>
+<li><strong>Rebecca Goulding, Gail Davidge, Sarah Markham, Warren Del-Pinto, Brian McMillan and Goran Nenadic.</strong> Synthetic free-text healthcare data: informing research design through public involvement</li>
+<li><strong>Yamiko Joseph Msosa, Angus Roberts and Richard J. Dobson.</strong> Supporting Extraction of Biopsychosocial Factors from Routine Electronic Health Records with Natural Language Processing</li>
+<li><strong>Zitong Li, Haoyu Wang and Linglong Qian.</strong> Large Language Models for Sparse Clinical Time Series: A MIMIC-IV Benchmark of Imputation, Calibration, and Explanation Reliability</li>
+</ul>
+</div>
+</td>
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="15%">15:00–15:45</td>
@@ -533,27 +649,18 @@ Throughout the conference, we will have presentations from the community across 
 </tr>
 </table>
 
-<br>
-
-<strong>Keynote speakers</strong>
-
-
-
-[Prof. Aline Villavicencio](https://experts.exeter.ac.uk/41810-aline-villavicencio)
-
-Aline Villavicencio is a Professor of Natural Language Processing in the Department of Computer Science, University of Exeter, and is also affiliated to the University of Sheffield (UK). She is a member of ELLIS, has a Fellowship at the Alan Turing Institute, and is also a Visiting Scholar at the Federal University of Rio Grande do Norte (Brazil). Until 2025 she was the Director of the Institute of Data Science and Artificial Intelligence, University of Exeter. Before these, she held academic positions in the Institute of Informatics, Federal University of Rio Grande do Sul, Brazil (between 2005 and 2021) and in the School of Computer Science and Electronic Engineering, University of Essex, UK. 
-
-She received her PhD from the University of Cambridge (UK) in 2001, and held postdoc positions at the University of Cambridge and University of Essex (UK). She was a Visiting Scholar at the Massachusetts Institute of Technology (USA, 2011-2012 and 2014-2015), at the École Normale Supé­rieure (France, 2014), an Erasmus-Mundus Visting Scholar at Saarland University (Germany in 2012/2013) and at the University of Bath (UK, 2006-2009).  She held a Research Fellowship from the  Brazilian National Council for Scientific and Technological Development (Brazil, 2009-2017).  
-
-She is the General Chair of EACL 2026 and was the PC Co-Chair of ACL 2022, CoNLL 2019, Senior Area Chair for EMNLP 2025, ACL 2020 and ACL 2019 among others and General co-chair for the 2018 International Conference on Computational Processing of Portuguese. She is a member of the editorial board of Computational Linguistics, TACL and of JNLE.  She was also a member of the NAACL board, SIGLEX board and of the program committees of various *ACL and AI conferences, and has co-chaired  several *ACL workshops on Cognitive Aspects of Computational Language Acquisition and on Multiword Expressions. Her research interests include multilinguality, multiword expressions and terminology, and cognitively motivated NLP, and she has co-edited special issues and books dedicated to these topics.
-
-
-
-
-
-
-[Dr. Martin Krallinger](https://www.bsc.es/krallinger-martin), Barcelona Supercomputing Center
-
-Martin Krallinger is head of the NLP for Biomedical Information Analysis (NLP4BIA) team at the Barcelona Supercomputing Center (BSC) and an expert in biomedical and clinical language technology systems. His work focuses on developing language technologies for health-related applications such as rare diseases, drug safety, biomaterials, cardiovascular diseases, toxicology, or occupational health, with particular interest in the generation and evaluation of multilingual solutions. 
-
-He is especially known for advancing benchmarking and evaluation of biomedical NLP and LLM-based tools, organizing international community challenges like BioCreative, BioASQ, BIONLP-ST, IberEval, IberLEF, biomedical WMT, and eHealth CLEF. His team has made major contributions to high-quality annotated datasets, medical corpora, and annotation protocols, which support building state-of-the-art transformer-based NLP systems using BSC’s computational resources.
+<script>
+var coll = document.getElementsByClassName("collapsible");
+var i;
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.maxHeight){
+      content.style.maxHeight = null;
+    } else {
+      content.style.maxHeight = content.scrollHeight + "px";
+    } 
+  });
+}
+</script>

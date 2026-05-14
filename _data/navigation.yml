@@ -13,8 +13,8 @@ main:
         url: /workshop-healthcare-text-tres/
       - title: "From patient narratives to text analytics insights"
         url: /workshop-patient-narratives-text-analytics/
-  # - title: "Keynote Speakers"
-    # url: /keynotes/
+  - title: "Keynote Speakers"
+    url: /keynotes/
   # - title: "Registration"
   #   url: /registration/
   - title: "Accommodation and Travel"
