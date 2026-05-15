@@ -490,7 +490,13 @@ Throughout the conference, we will have presentations from the community across 
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="15%">13:45–14:45</td>
-<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Industry panel</td>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Industry panel<br>
+<button class="collapsible">Details</button>
+<div class="content">
+<p><strong>Moderator:</strong> <strong>Patrick Schrempf</strong> (Canon Medical Research Europe Ltd &amp; University of St Andrews)</p>
+<p><strong>Panellists:</strong> <strong>Natalia Viani</strong> (ML Engineer, Flatiron Health), <strong>Jack Richmond</strong> (Senior AI Scientist, Akrivia Health), <strong>Paul Howarth</strong> (Director of Research &amp; Development / Founder, Akumen Ltd), <strong>Robert Dürichen</strong> (Head of ML Analytics, Arcturis Data), <strong>Ed Broadhead</strong> (CEO, Health Narrator)</p>
+</div>
+</td>
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="15%">14:45–15:15</td>
@@ -614,7 +620,12 @@ Throughout the conference, we will have presentations from the community across 
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="15%">11:00–12:00</td>
-<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Panel – Human-Centered AI &amp; NLP: Bridging Research and Real-World Practice</td>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Panel – Human-Centered AI &amp; NLP: Bridging Research and Real-World Practice<br>
+<button class="collapsible">Details</button>
+<div class="content">
+<p><strong>Panellists:</strong> <strong>Matthew Broadbent</strong> (Clinical Informatics Lead, South London and Maudsley NHSFT), <strong>Rudolf Cardinal</strong> (Consultant Psychiatrist, Cambridgeshire and Peterborough NHSFT and Professor of Psychiatry and Informatics, University of Cambridge), <strong>Ian Roberts</strong> (Research Software Engineer, University of Sheffield), <strong>Agathe Zecevic</strong> (Senior Data Scientist and Clinical Scientific Computing NLP lead at Guy's and St Thomas' NHSFT)</p>
+</div>
+</td>
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="15%">12:00–13:00</td>

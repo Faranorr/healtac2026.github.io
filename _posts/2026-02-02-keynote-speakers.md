@@ -9,4 +9,4 @@ We are pleased to announce the keynote speakers for HealTAC 2026:
 - **Prof. Aline Villavicencio** — Professor of Natural Language Processing, University of Exeter (also affiliated with the University of Sheffield)
 - **Dr. Martin Krallinger** — Barcelona Supercomputing Center (BSC)
 
-Read more on the **Programme** page: [Keynote speakers](/programme).
+Read more on the [Keynote Speakers](/keynotes) page.

@@ -58,9 +58,8 @@ a:active {
 
   <h4>Website</h4>
     <ul>
-      <li>Dimitri Ialavoi, Wrexham University</li>
-      <li>Matúš Falis, University of Edinburgh</li>
       <li>Leo Xinyue Zhang, King's College London</li>
+      <li>Dimitri Ialavoi, Wrexham University</li>
     </ul>
     <h4>PhD Forum Chairs</h4>
     <ul>
@@ -78,6 +77,7 @@ a:active {
       <li>Goran Nenadic, University of Manchester</li>
       <li>Yamiko Msosa, King's College London</li>
       <li>Jaya Chaturvedi, King's College London</li>
+      <li>Saskia Sanderson, King's College London</li>
     </ul>
     <h4>Publicity Chairs</h4>
     <ul>
@@ -106,7 +106,60 @@ a:active {
 
 
  <h4>Reviewers</h4>
- To be announced 
+ <ul>
+   <li>Beatrice Alex, University of Edinburgh</li>
+   <li>Ebrahim Alharbi, The University of Sheffield</li>
+   <li>Areej Alhassan, The University of Manchester</li>
+   <li>Stephen Barlow, King's College London</li>
+   <li>Arlene Casey, University of Edinburgh</li>
+   <li>Jaya Chaturvedi, King's College London</li>
+   <li>Jenny Chim, Queen Mary University of London</li>
+   <li>Georgina Cosma, Loughborough University</li>
+   <li>Warren Del-Pinto, University of Manchester</li>
+   <li>Hang Dong, University of Exeter</li>
+   <li>Matúš Falis, University of Edinburgh</li>
+   <li>Eulalia Farre-Maduell, Barcelona Supercomputing Center</li>
+   <li>Elizabeth Ford, Brighton and Sussex Medical School</li>
+   <li>Jakob Grøhn Damgaard, Aarhus University</li>
+   <li>Franz Gruber, University of Edinburgh</li>
+   <li>Frida Hæstrup, Aarhus University Hospital, Denmark</li>
+   <li>Arooj Hussain, Jamia Hamdard</li>
+   <li>George Karystianis, University of New South Wales</li>
+   <li>Yunsoo Kim, University College London</li>
+   <li>Sara Kolding, Aarhus University Hospital</li>
+   <li>Niks Kolosnicins, Kings College London</li>
+   <li>Daisy Monika Lal, Lancaster University</li>
+   <li>Chaeeun Lee, University of Edinburgh</li>
+   <li>Jake Lever, University of Glasgow</li>
+   <li>Ruizhe Li, University of Aberdeen</li>
+   <li>Sarah Markham, Kings College London</li>
+   <li>Yamiko Msosa, King's College London</li>
+   <li>Goran Nenadic, The University of Manchester</li>
+   <li>Kawsar Noor, University College London</li>
+   <li>Scott Piao, Lancaster University</li>
+   <li>Fahrurrozi Rahman, University of Edinburgh</li>
+   <li>Paul Rayson, Lancaster University</li>
+   <li>Ehud Reiter, University of Aberdeen</li>
+   <li>Angus Roberts, King's College London</li>
+   <li>Nicolay Rusnachenko, Bournemouth University</li>
+   <li>Dan Schofield, NHS England</li>
+   <li>Patrick Schrempf, Canon Medical Research Europe &amp; University of St Andrews</li>
+   <li>Tom Searle, King's College London</li>
+   <li>Anoop Shah, University College London</li>
+   <li>Ian Simpson, University of Edinburgh</li>
+   <li>Irena Spasic, Cardiff University</li>
+   <li>Andrew Steele, NHS Scotland Volunteer</li>
+   <li>Robert Stewart, King's College London</li>
+   <li>Adam Sutton, King's College London</li>
+   <li>Jane Taylor, Open University</li>
+   <li>Phoey Lee Teh, Wrexham University</li>
+   <li>Ariel Teles, Federal Institute of Maranhão</li>
+   <li>James Teo, Kings College Hospital NHS Foundation Trust</li>
+   <li>Tao Wang, King's College London</li>
+   <li>Honghan Wu, University of Glasgow</li>
+   <li>Leo Xinyue Zhang, King's College London</li>
+   <li>Taiyu Zhu, King's College London</li>
+ </ul>
 
  <!--<h4>Programme Committee and Reviewers</h4>
   <ul>
