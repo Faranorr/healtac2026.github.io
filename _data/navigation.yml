@@ -40,24 +40,7 @@ main:
   - title: "News"
     url: /news/
   - title: "Previous Conferences"
-    url: "#"
-    children:
-      - title: "HealTAC 2025"
-        url: https://healtac2025.github.io/
-      - title: "HealTAC 2024"
-        url: https://healtac2024.github.io/
-      - title: "HealTAC 2023"
-        url: http://healtex.org/healtac-2023/
-      - title: "HealTAC 2022"
-        url: https://healtac2022.github.io/
-      - title: "HealTAC 2021"
-        url: http://healtex.org/healtac-2021/
-      - title: "HealTAC 2020"
-        url: http://healtex.org/healtac-2020/
-      - title: "HealTAC 2019"
-        url: http://healtex.org/healtac-2019/
-      - title: "HealTAC 2018"
-        url: http://healtex.org/healtac-2018/
+    url: /previous-conferences/
   # - title: "Sponsors"
   #   url: /sponsors/
   # - title: "News"

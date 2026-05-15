@@ -83,8 +83,8 @@ author:
     #  - label: "<strong style='color:#003865;'>Keynotes</strong><br>– <span style='color: black;'><strong>Jason Fries</strong> (Stanford Uni)<br>– <span style='color: black;'><strong>Alison O'Neil</strong> (Canon Medical)"
     #   icon: "far fa-calendar-alt"
     #   url: https://healtac2025.github.io/programme/
-    - label:  | 
-        <strong style='color:#003865;'>Key Dates</strong>
+    - label:  |
+        <strong style='color:#6495ED;'>KEY DATES</strong>
         <table style="width:100%; border-collapse: collapse; table-layout: fixed;">
           <tbody>
 
@@ -129,8 +129,8 @@ author:
         </table>
       icon: "far fa-calendar-alt"
       url: "javascript:void(0)"
-    - label: "<strong style='color:#003865;'>Keynotes</strong><br>– <span style='color: black;'><strong>Dr Martin Krallinger</strong><br><span style='color: black; font-size: 0.9em;'>(Barcelona Supercomputing Center)</span><br>– <span style='color: black;'><strong>Prof. Aline Villavicencio</strong><br><span style='color: black; font-size: 0.9em;'>(University of Exeter &amp; Sheffield)</span>"
-      icon: "fas fa-microphone"
+    - label: "<strong style='color:#6495ED;'>KEYNOTES</strong><br>–<span style='color: black;'><strong>Dr Martin Krallinger</strong><br>(Barcelona Supercomputing Center)</span><br>–<span style='color: black;'><strong>Prof. Aline Villavicencio</strong><br>(University of Exeter &amp; Sheffield)</span>"
+      icon: "fas fa-user-friends"
       url: /keynotes/
     # - label: "<strong style='color:#003865;'>Previous HealTACs</strong><br>"
     #   icon: "fas fa-fw fa-link"
@@ -169,8 +169,27 @@ author:
     #     <br><br>
     #   icon: "fas fa-handshake"
     #   url: ""
+    - label: "<strong style='color:#6495ED;'>EVENT SERIES</strong>"
+      icon: "far fa-calendar-check"
+      url: "javascript:void(0)"
+    - label: "<span style='color: black;'>HealTAC 2025</span>"
+      url: https://healtac2025.github.io/
+    - label: "<span style='color: black;'>HealTAC 2024</span>"
+      url: https://healtac2024.github.io/
+    - label: "<span style='color: black;'>HealTAC 2023</span>"
+      url: http://healtex.org/healtac-2023/
+    - label: "<span style='color: black;'>HealTAC 2022</span>"
+      url: https://healtac2022.github.io/
+    - label: "<span style='color: black;'>HealTAC 2021</span>"
+      url: http://healtex.org/healtac-2021/
+    - label: "<span style='color: black;'>HealTAC 2020</span>"
+      url: http://healtex.org/healtac-2020/
+    - label: "<span style='color: black;'>HealTAC 2019</span>"
+      url: http://healtex.org/healtac-2019/
+    - label: "<span style='color: black;'>HealTAC 2018</span>"
+      url: http://healtex.org/healtac-2018/
     - label: |
-        <strong style='color:#003865;'>Sponsors</strong>
+        <strong style='color:#6495ED;'>SPONSORS</strong>
       icon: "fas fa-handshake"
       url: "javascript:void(0)"
     - label: |
@@ -178,13 +197,13 @@ author:
           <img src="/assets/images/sponsors/dareuk.png" alt="DareUK" style="margin-bottom: 2.5px; max-width: 200px;">
         </div>
       icon: "<i class='fas fa-square' style='visibility: hidden;'></i>"
-      url: "https://dareuk.org.uk/"  
+      url: "https://dareuk.org.uk/"
     - label: |
         <div style="display: flex; flex-direction: column;">
           <img src="/assets/images/sponsors/HDR UK.jpg" alt="HDRUK" style="margin-bottom: 2.5px; max-width: 200px;">
         </div>
       icon: "<i class='fas fa-square' style='visibility: hidden;'></i>"
-      url: "https://www.hdruk.ac.uk/"  
+      url: "https://www.hdruk.ac.uk/"
 
     - label: |
         <div style="display: flex; flex-direction: column;">
@@ -197,13 +216,13 @@ author:
         <img src="/assets/images/sponsors/BSMS-Logo-Black.jpg" alt="Brighton and Sussex Medical School" style="margin-bottom: 2.5px; max-width: 200px;">
         </div>
       icon: "<i class='fas fa-square' style='visibility: hidden;'></i>"
-      url: "https://www.bsms.ac.uk/"  
+      url: "https://www.bsms.ac.uk/"
     - label: |
         <div style="display: flex; flex-direction: column;">
           <img src="/assets/images/safetext.png" alt="safetext" style="margin-bottom: 2.5px; max-width: 200px;">
         </div>
       icon: "<i class='fas fa-square' style='visibility: hidden;'></i>"
-      url: "https://www.linkedin.com/company/safetext-working-group/"  
+      url: "https://www.linkedin.com/company/safetext-working-group/"
     - label: |
         <div style="display: flex; flex-direction: column;">
           <img src="/assets/images/sponsors/CogStack.png" alt=Cogstack" style="margin-bottom: 2.5px; max-width: 200px;">
@@ -215,17 +234,13 @@ author:
           <img src="/assets/images/sponsors/Frontiers.jpg" alt="Frontier" style="margin-bottom: 2.5px; max-width: 200px;">
         </div>
       icon: "<i class='fas fa-square' style='visibility: hidden;'></i>"
-      url: "https://www.frontiersin.org/journals/digital-health"   
+      url: "https://www.frontiersin.org/journals/digital-health"
     - label: |
         <div style="display: flex; flex-direction: column;">
           <img src="/assets/images/sponsors/maudsley_logo.png" alt="Maudsley" style="margin-bottom: 2.5px; max-width: 200px;">
         </div>
       icon: "<i class='fas fa-square' style='visibility: hidden;'></i>"
-      url: "https://www.maudsleybrc.nihr.ac.uk/"   
-
-    - label: "<br><br><strong style='color:#003865;'>Previous HealTACs</strong><br>"
-      icon: "fas fa-fw fa-link"
-      url: http://healtex.org/healtac-conference-series/
+      url: "https://www.maudsleybrc.nihr.ac.uk/"
 footer:
   links:
     - label: "Twitter/X"
