@@ -494,7 +494,7 @@ Throughout the conference, we will have presentations from the community across 
 <button class="collapsible">Details</button>
 <div class="content">
 <p><strong>Moderator:</strong> <strong>Patrick Schrempf</strong> (Canon Medical Research Europe Ltd &amp; University of St Andrews)</p>
-<p><strong>Panellists:</strong> <strong>Natalia Viani</strong> (ML Engineer, Flatiron Health), <strong>Jack Richmond</strong> (Senior AI Scientist, Akrivia Health), <strong>Paul Howarth</strong> (Director of Research &amp; Development / Founder, Akumen Ltd), <strong>Robert Dürichen</strong> (Head of ML Analytics, Arcturis Data), <strong>Ed Broadhead</strong> (CEO, Health Narrator)</p>
+<p><strong>Panellists:</strong> <strong>Natalia Viani</strong> (Staff ML Engineer, Flatiron Health), <strong>Jack Richmond</strong> (Senior AI Scientist, Akrivia Health), <strong>Paul Howarth</strong> (Director of Research &amp; Development / Founder, Akumen Ltd), <strong>Robert Dürichen</strong> (Head of ML Analytics, Arcturis Data), <strong>Ed Broadhead</strong> (CEO, Health Narrator)</p>
 </div>
 </td>
 </tr>

@@ -169,25 +169,6 @@ author:
     #     <br><br>
     #   icon: "fas fa-handshake"
     #   url: ""
-    - label: "<strong style='color:#6495ED;'>EVENT SERIES</strong>"
-      icon: "far fa-calendar-check"
-      url: "javascript:void(0)"
-    - label: "<span style='color: black;'>HealTAC 2025</span>"
-      url: https://healtac2025.github.io/
-    - label: "<span style='color: black;'>HealTAC 2024</span>"
-      url: https://healtac2024.github.io/
-    - label: "<span style='color: black;'>HealTAC 2023</span>"
-      url: http://healtex.org/healtac-2023/
-    - label: "<span style='color: black;'>HealTAC 2022</span>"
-      url: https://healtac2022.github.io/
-    - label: "<span style='color: black;'>HealTAC 2021</span>"
-      url: http://healtex.org/healtac-2021/
-    - label: "<span style='color: black;'>HealTAC 2020</span>"
-      url: http://healtex.org/healtac-2020/
-    - label: "<span style='color: black;'>HealTAC 2019</span>"
-      url: http://healtex.org/healtac-2019/
-    - label: "<span style='color: black;'>HealTAC 2018</span>"
-      url: http://healtex.org/healtac-2018/
     - label: |
         <strong style='color:#6495ED;'>SPONSORS</strong>
       icon: "fas fa-handshake"
