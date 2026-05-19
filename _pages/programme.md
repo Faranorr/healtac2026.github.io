@@ -425,8 +425,12 @@ Throughout the conference, we will have presentations from the community across 
 <h5 style="margin-bottom: 0.9375rem; font-weight: bold; line-height: 1.1; color: #6495ED; font-size: 0.9375rem; clear: both; text-transform: uppercase; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; text-align: start;">MONDAY, 8 JUNE 2026<br>Day 1 – Workshops</h5>
 <table class="programme-table" style="background-color: #ffffff; margin-bottom: 20px; width: 790.2px; border-color: #e9e9e9; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; text-align: start;" border="0">
 <tr>
-<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="15%"></td>
-<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Workshops</td>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="15%">09:30–15:00</td>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Workshop 1 – <a href="/workshops/healthcare-text-tres/" style="color:#339982">Free-text healthcare data and Trusted Research Environments (TREs)</a></td>
+</tr>
+<tr>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="15%">15:00–17:30</td>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Workshop 2 – <a href="/workshops/patient-narratives-text-analytics/" style="color:#339982">From patient narratives to insights: applying text analytics to scalable lived experience data for new discoveries</a></td>
 </tr>
 </table>
 
