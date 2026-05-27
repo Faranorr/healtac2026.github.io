@@ -123,7 +123,7 @@ a:active {
    <li>Jakob Grøhn Damgaard, Aarhus University</li>
    <li>Franz Gruber, University of Edinburgh</li>
    <li>Frida Hæstrup, Aarhus University Hospital, Denmark</li>
-   <li>Arooj Hussain, Jamia Hamdard</li>
+   <li>Arooj Hussain, University of Manchester</li>
    <li>George Karystianis, University of New South Wales</li>
    <li>Yunsoo Kim, University College London</li>
    <li>Sara Kolding, Aarhus University Hospital</li>
@@ -134,7 +134,7 @@ a:active {
    <li>Ruizhe Li, University of Aberdeen</li>
    <li>Sarah Markham, Kings College London</li>
    <li>Yamiko Msosa, King's College London</li>
-   <li>Goran Nenadic, The University of Manchester</li>
+   <li>Goran Nenadic, University of Manchester</li>
    <li>Kawsar Noor, University College London</li>
    <li>Scott Piao, Lancaster University</li>
    <li>Fahrurrozi Rahman, University of Edinburgh</li>
