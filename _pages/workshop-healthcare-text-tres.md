@@ -13,7 +13,7 @@ These projects aim to develop early-stage prototypes that test new ideas to supp
 
 In this full-day workshop, the project representatives will present how the needs and opportunities for the healthcare data research community and public have shaped the work. The workshop will also provide an opportunity for the wider community to feedback on the outcomes, and outline future collaboration and expectations. 
 
-### Preliminary agenda
+### Agenda
 
 <table style="width:100%; border-collapse: collapse;">
   <thead>
@@ -33,11 +33,11 @@ In this full-day workshop, the project representatives will present how the need
     </tr>
     <tr>
       <td style="white-space:nowrap; padding:10px; border-bottom:1px solid #ccc;">10:05–10:30</td>
-      <td style="padding:10px; border-bottom:1px solid #ccc;">Introduction from HDR UK and DARE UK</td>
+      <td style="padding:10px; border-bottom:1px solid #ccc;">Introduction from HDR UK and DARE UK – <strong>Michelle Amugi, HDR UK</strong></td>
     </tr>
     <tr>
       <td style="white-space:nowrap; padding:10px; border-bottom:1px solid #ccc;">10:30–10:55</td>
-      <td style="padding:10px; border-bottom:1px solid #ccc;">STAR-TRE: Safe and trustworthy assessment of risk for sensitive free-text access</td>
+      <td style="padding:10px; border-bottom:1px solid #ccc;">STAR-TRE: Safe and trustworthy assessment of risk for sensitive free-text access – <strong>Dr Arlene Casey and Franz Gruber, University of Edinburgh</strong></td>
     </tr>
     <tr>
       <td style="white-space:nowrap; padding:10px; border-bottom:1px solid #ccc;">10:55–11:10</td>
@@ -45,11 +45,11 @@ In this full-day workshop, the project representatives will present how the need
     </tr>
     <tr>
       <td style="white-space:nowrap; padding:10px; border-bottom:1px solid #ccc;">11:10–11:35</td>
-      <td style="padding:10px; border-bottom:1px solid #ccc;">FORTRESS: Federated generation of free-text data</td>
+      <td style="padding:10px; border-bottom:1px solid #ccc;">FORTRESS: Federated generation of free-text data – <strong>Dr Warren Del-Pinto and Prof Goran Nenadic, University of Manchester</strong></td>
     </tr>
     <tr>
       <td style="white-space:nowrap; padding:10px; border-bottom:1px solid #ccc;">11:35–12:00</td>
-      <td style="padding:10px; border-bottom:1px solid #ccc;">TRExt: TRE Text Analytics</td>
+      <td style="padding:10px; border-bottom:1px solid #ccc;">TRExt: TRE Text Analytics – <strong>Dr Grazziela Figueredo, University of Nottingham</strong></td>
     </tr>
     <tr>
       <td style="white-space:nowrap; padding:10px; border-bottom:1px solid #ccc;">12:00–13:00</td>
