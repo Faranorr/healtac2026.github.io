@@ -112,11 +112,18 @@ html {
 
 <div class="column">
   <div class="card">
+    <img src="https://i1.rgstatic.net/ii/profile.image/305463059517444-1449839476579_Q512/Martin-Krallinger.jpg" alt="Martin Krallinger" style="width:100%; max-width:400px; display:block; margin:0 auto;">
     <div class="container">
       <h3><a href="https://www.bsc.es/krallinger-martin" style="text-decoration:none; color:inherit;">Dr. Martin Krallinger</a></h3>
       <p class="title">Barcelona Supercomputing Center</p>
-      <p>Martin Krallinger is head of the NLP for Biomedical Information Analysis (NLP4BIA) team at the Barcelona Supercomputing Center (BSC) and an expert in biomedical and clinical language technology systems. His work focuses on developing language technologies for health-related applications such as rare diseases, drug safety, biomaterials, cardiovascular diseases, toxicology, or occupational health, with particular interest in the generation and evaluation of multilingual solutions.</p>
-      <p>He is especially known for advancing benchmarking and evaluation of biomedical NLP and LLM-based tools, organizing international community challenges like BioCreative, BioASQ, BIONLP-ST, IberEval, IberLEF, biomedical WMT, and eHealth CLEF. His team has made major contributions to high-quality annotated datasets, medical corpora, and annotation protocols, which support building state-of-the-art transformer-based NLP systems using BSC's computational resources.</p>
+      <p><b>Multilingual Resources for Clinical NLP</b></p>
+      <p>Martin will be presenting some of the multilingual clinical NLP resources his team has been generating including also results of the <a href="https://www.linkedin.com/company/datatools4heart/" style="color:#339982">DataTools4Heart</a> and <a href="https://www.linkedin.com/showcase/ai4hf/" style="color:#339982">AI4HF</a> (EU project) projects.</p>
+      <button class="collapsible">Biography</button>
+      <div class="bio-content">
+        <p>Martin Krallinger is head of the NLP for Biomedical Information Analysis (NLP4BIA) team at the Barcelona Supercomputing Center (BSC) and an expert in biomedical and clinical language technology systems. His work focuses on developing language technologies for health-related applications such as rare diseases, drug safety, biomaterials, cardiovascular diseases, toxicology, or occupational health, with particular interest in the generation and evaluation of multilingual solutions.</p>
+        <p>He is especially known for advancing benchmarking and evaluation of biomedical NLP and LLM-based tools, organizing international community challenges like BioCreative, BioASQ, BIONLP-ST, IberEval, IberLEF, biomedical WMT, and eHealth CLEF. His team has made major contributions to high-quality annotated datasets, medical corpora, and annotation protocols, which support building state-of-the-art transformer-based NLP systems using BSC's computational resources.</p>
+      </div>
+      <br>
       <a href="https://www.bsc.es/krallinger-martin"><button class="button">More info</button></a>
       <p> </p>
     </div>
