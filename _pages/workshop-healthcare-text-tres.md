@@ -65,7 +65,7 @@ In this full-day workshop, the project representatives will present how the need
     </tr>
     <tr>
       <td style="white-space:nowrap; padding:10px; border-bottom:1px solid #ccc;">14:00–14:15</td>
-      <td style="padding:10px; border-bottom:1px solid #ccc;">Coffee break</td>
+      <td style="padding:10px; border-bottom:1px solid #ccc;">Reports from the break-out groups</td>
     </tr>
     <tr>
       <td style="white-space:nowrap; padding:10px; border-bottom:1px solid #ccc;">14:15–14:45</td>
@@ -73,7 +73,7 @@ In this full-day workshop, the project representatives will present how the need
     </tr>
     <tr>
       <td style="white-space:nowrap; padding:10px; border-bottom:1px solid #ccc;">14:45–15:00</td>
-      <td style="padding:10px; border-bottom:1px solid #ccc;">Feedback and summary</td>
+      <td style="padding:10px; border-bottom:1px solid #ccc;">Reports from the break-out groups and next steps</td>
     </tr>
   </tbody>
 </table>
