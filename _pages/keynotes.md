@@ -116,8 +116,9 @@ html {
     <div class="container">
       <h3><a href="https://www.bsc.es/krallinger-martin" style="text-decoration:none; color:inherit;">Dr. Martin Krallinger</a></h3>
       <p class="title">Barcelona Supercomputing Center</p>
-      <p><b>Multilingual Resources for Clinical NLP</b></p>
-      <p>Martin will be presenting some of the multilingual clinical NLP resources his team has been generating including also results of the <a href="https://www.linkedin.com/company/datatools4heart/" style="color:#339982">DataTools4Heart</a> and <a href="https://www.linkedin.com/showcase/ai4hf/" style="color:#339982">AI4HF</a> (EU project) projects.</p>
+      <p><b>Clinical Language Technology Resources and Multilingual NLP Systems: Development and Evaluation</b></p>
+      <p>Biomedical natural language processing has advanced rapidly with the emergence of large language models (LLMs), creating new opportunities to extract and leverage information from unstructured data sources such as clinical records, scientific literature, and social media. Despite this progress, significant challenges remain, particularly in the creation of high-quality annotated corpora, the development of reliable named entity recognition systems, and the establishment of robust evaluation frameworks.</p>
+      <p>This talk will highlight recent strategies in biomedical and clinical NLP, with a focus on multilingual resources that extend capabilities beyond English to other languages such as Spanish, Italian, Dutch, Romanian, and Swedish. It will present practical applications in areas including rare diseases, cardiology, and predictive modeling, along with an overview of community-driven shared tasks and evaluation initiatives that are shaping progress in the field.</p>
       <button class="collapsible">Biography</button>
       <div class="bio-content">
         <p>Martin Krallinger is head of the NLP for Biomedical Information Analysis (NLP4BIA) team at the Barcelona Supercomputing Center (BSC) and an expert in biomedical and clinical language technology systems. His work focuses on developing language technologies for health-related applications such as rare diseases, drug safety, biomaterials, cardiovascular diseases, toxicology, or occupational health, with particular interest in the generation and evaluation of multilingual solutions.</p>

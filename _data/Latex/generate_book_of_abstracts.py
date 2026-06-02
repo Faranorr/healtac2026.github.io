@@ -471,16 +471,14 @@ def draw_toc(c: rl_canvas.Canvas, entries: list[dict]) -> list[dict]:
         row_top    = y
         row_bottom = y - entry_h + ENTRY_PAD
 
-        # Badge
+        # Badge — anchored to row_top so it sits beside the author name
+        badge_y = row_top - 13  # centres the badge on the author text baseline
         bg, fg = BADGE_COLOURS.get(label, BADGE_COLOURS['Accepted'])
         c.setFillColorRGB(*bg)
-        c.roundRect(MARGIN_X, row_bottom + ENTRY_PAD,
-                    BADGE_W, BADGE_H, 2, fill=1, stroke=0)
+        c.roundRect(MARGIN_X, badge_y, BADGE_W, BADGE_H, 2, fill=1, stroke=0)
         c.setFont('Helvetica-Bold', 7)
         c.setFillColorRGB(*fg)
-        c.drawCentredString(MARGIN_X + BADGE_W / 2,
-                            row_bottom + ENTRY_PAD + 2.5,
-                            label.upper())
+        c.drawCentredString(MARGIN_X + BADGE_W / 2, badge_y + 2.5, label.upper())
 
         # Author
         c.setFont('Helvetica-Bold', 8.5)
