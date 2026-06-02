@@ -1,0 +1,29 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+@import "minimal-mistakes";
+
+// On phones, un-float the sidebar so it stacks full-width above the content
+// instead of squeezing into a narrow left column beside it.
+@media (max-width: 767px) {
+  .sidebar,
+  .sidebar.sticky {
+    float: none !important;
+    width: 100% !important;
+    position: relative !important;
+    clear: both !important;
+    margin: 0 0 1em 0 !important;
+    padding: 0 !important;
+  }
+
+  // Expanded link list should fill the full width too
+  .author__urls-wrapper,
+  .author__urls {
+    position: relative !important;
+    width: 100% !important;
+  }
+}

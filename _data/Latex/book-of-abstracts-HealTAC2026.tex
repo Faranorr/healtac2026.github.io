@@ -1,0 +1,200 @@
+%% HealTAC 2026 Book of Abstracts
+%% Health Text Analytics Conference
+%% 8–10 June 2026, London, UK
+%%
+%% Instructions for editors:
+%% Each abstract is represented by one \abstractentry{} block.
+%% Copy the block and fill in the placeholders marked with [[ ]].
+%% Sections group abstracts by presentation type.
+
+\documentclass[11pt]{article}
+\usepackage{times}
+\usepackage{url}
+\usepackage{graphicx}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[margin=2.5cm]{geometry}
+\usepackage{titlesec}
+\usepackage{hyperref}
+\usepackage{authblk}
+\usepackage{parskip}
+\usepackage{xcolor}
+\usepackage{fancyhdr}
+\usepackage{tocloft}
+\usepackage{booktabs}
+
+%% -------------------------------------------------------
+%% Colour scheme
+%% -------------------------------------------------------
+\definecolor{healtacblue}{RGB}{100,149,237}   % cornflower blue
+\definecolor{healtacteal}{RGB}{0,153,153}
+
+%% -------------------------------------------------------
+%% Header / footer
+%% -------------------------------------------------------
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{\small\color{healtacblue} HealTAC 2026 — Book of Abstracts}
+\fancyhead[R]{\small\color{healtacblue} 8–10 June 2026, London, UK}
+\fancyfoot[C]{\thepage}
+\renewcommand{\headrulewidth}{0.4pt}
+
+%% -------------------------------------------------------
+%% Section title formatting
+%% -------------------------------------------------------
+\titleformat{\section}{\large\bfseries\color{healtacblue}}{}{0em}{}[\titlerule]
+\titleformat{\subsection}{\normalsize\bfseries\color{healtacteal}}{}{0em}{}
+
+%% -------------------------------------------------------
+%% Abstract entry command
+%% Arguments:
+%%   #1  Presentation type label (e.g. Oral, Poster, Demo, Keynote)
+%%   #2  Title
+%%   #3  Authors  (e.g. Jane Smith^1, John Doe^{1,2})
+%%   #4  Affiliations (e.g. ^1 University of X \quad ^2 University of Y)
+%%   #5  Abstract body text
+%% -------------------------------------------------------
+\newcommand{\abstractentry}[5]{%
+  \vspace{0.6em}
+  {\small\textsc{\color{healtacteal}#1}}\\[2pt]
+  {\bfseries #2}\\[2pt]
+  {\itshape #3}\\[1pt]
+  {\small #4}
+  \vspace{4pt}
+  \hrule height 0.2pt
+  \vspace{4pt}
+  {\small #5}
+  \vspace{1em}
+  \hrule height 0.6pt
+  \vspace{0.5em}
+}
+
+%% -------------------------------------------------------
+\begin{document}
+
+%% -------------------------------------------------------
+%% Cover page
+%% -------------------------------------------------------
+\begin{titlepage}
+  \centering
+  \vspace*{3cm}
+  {\Huge\bfseries\color{healtacblue} Book of Abstracts}\\[1em]
+  {\LARGE Health Text Analytics Conference}\\[0.5em]
+  {\Large\color{healtacteal} HealTAC 2026}\\[2em]
+  {\large 8–10 June 2026}\\[0.3em]
+  {\large London, UK}\\[4em]
+  \includegraphics[width=0.35\linewidth]{healtac-logo}   % replace with actual logo file
+  \vfill
+  {\small \url{https://healtac2026.github.io}}
+\end{titlepage}
+
+\tableofcontents
+\newpage
+
+%% -------------------------------------------------------
+\section{Keynote Lectures}
+%% -------------------------------------------------------
+
+\abstractentry
+  {Keynote}
+  {[[KEYNOTE TITLE]]}
+  {[[Firstname Lastname]]}
+  {[[Institution, City, Country]]}
+  {[[Abstract text.]]}
+
+%% Add further keynote entries here by copying the block above.
+
+
+%% -------------------------------------------------------
+\section{Oral Presentations}
+%% -------------------------------------------------------
+
+\abstractentry
+  {Oral}
+  {[[PAPER TITLE]]}
+  {[[Author One$^1$, Author Two$^{1,2}$, Author Three$^2$]]}
+  {$^1$[[Institution A, City, Country]] \quad $^2$[[Institution B, City, Country]]}
+  {[[Abstract text.]]}
+
+%% Add further oral entries here by copying the block above.
+
+
+%% -------------------------------------------------------
+\section{Industry Panel}
+%% -------------------------------------------------------
+
+\abstractentry
+  {Panel}
+  {[[PANEL TITLE]]}
+  {[[Moderator and panellist names]]}
+  {[[Institutions]]}
+  {[[Panel description.]]}
+
+
+%% -------------------------------------------------------
+\section{PhD and Fellowship Forum}
+%% -------------------------------------------------------
+
+\abstractentry
+  {PhD / Fellowship}
+  {[[PAPER TITLE]]}
+  {[[Author One$^1$, Author Two$^2$]]}
+  {$^1$[[Institution A]] \quad $^2$[[Institution B]]}
+  {[[Abstract text.]]}
+
+%% Add further PhD/fellowship entries here by copying the block above.
+
+
+%% -------------------------------------------------------
+\section{Software Demonstrations}
+%% -------------------------------------------------------
+
+\abstractentry
+  {Demo}
+  {[[DEMO TITLE]]}
+  {[[Author One$^1$, Author Two$^2$]]}
+  {$^1$[[Institution A]] \quad $^2$[[Institution B]]}
+  {[[Abstract text.]]}
+
+%% Add further demo entries here by copying the block above.
+
+
+%% -------------------------------------------------------
+\section{Posters}
+%% -------------------------------------------------------
+
+\abstractentry
+  {Poster}
+  {[[PAPER TITLE]]}
+  {[[Author One$^1$, Author Two$^2$]]}
+  {$^1$[[Institution A]] \quad $^2$[[Institution B]]}
+  {[[Abstract text.]]}
+
+%% Add further poster entries here by copying the block above.
+
+
+%% -------------------------------------------------------
+\section{Workshops}
+%% -------------------------------------------------------
+
+\subsection{Workshop 1 — Free-text healthcare data and Trusted Research Environments (TREs)}
+
+\abstractentry
+  {Workshop}
+  {[[WORKSHOP PAPER / SESSION TITLE]]}
+  {[[Author One$^1$, Author Two$^2$]]}
+  {$^1$[[Institution A]] \quad $^2$[[Institution B]]}
+  {[[Abstract text.]]}
+
+\subsection{Workshop 2 — From patient narratives to insights}
+
+\abstractentry
+  {Workshop}
+  {[[WORKSHOP PAPER / SESSION TITLE]]}
+  {[[Author One$^1$, Author Two$^2$]]}
+  {$^1$[[Institution A]] \quad $^2$[[Institution B]]}
+  {[[Abstract text.]]}
+
+
+%% -------------------------------------------------------
+\end{document}
