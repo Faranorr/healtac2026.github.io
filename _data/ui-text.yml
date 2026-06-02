@@ -1,0 +1,9 @@
+# Override Minimal Mistakes UI strings
+# Full list of keys: https://github.com/mmistakes/minimal-mistakes/blob/master/_data/ui-text.yml
+en: &DEFAULT_EN
+  follow_label: "Info"
+
+en-US:
+  <<: *DEFAULT_EN
+en-GB:
+  <<: *DEFAULT_EN
