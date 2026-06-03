@@ -422,7 +422,7 @@ Throughout the conference, we will have presentations from the community across 
 </ul>
 -->
 
-<h5 style="margin-bottom: 0.9375rem; font-weight: bold; line-height: 1.1; color: #6495ED; font-size: 0.9375rem; clear: both; text-transform: uppercase; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; text-align: start;">MONDAY, 8 JUNE 2026<br>Day 1 – Workshops</h5>
+<h5 style="margin-bottom: 0.9375rem; font-weight: bold; line-height: 1.1; color: #6495ED; font-size: 0.9375rem; clear: both; text-transform: uppercase; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; text-align: start; display: flex; justify-content: space-between; align-items: flex-start;"><span>MONDAY, 8 JUNE 2026<br>Day 1 – Workshops</span><span style="text-transform: none; font-weight: normal;">Glyndebourne Suite</span></h5>
 <table class="programme-table" style="background-color: #ffffff; margin-bottom: 20px; width: 790.2px; border-color: #e9e9e9; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; text-align: start;" border="0">
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="15%">09:30–15:00</td>
@@ -434,7 +434,7 @@ Throughout the conference, we will have presentations from the community across 
 </tr>
 </table>
 
-<h5 style="margin-bottom: 0.9375rem; font-weight: bold; line-height: 1.1; color: #6495ED; font-size: 0.9375rem; clear: both; text-transform: uppercase; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; text-align: start; padding-top: 20px;">TUESDAY, 9 JUNE 2026<br>Day 2 – HealTAC day 1</h5>
+<h5 style="margin-bottom: 0.9375rem; font-weight: bold; line-height: 1.1; color: #6495ED; font-size: 0.9375rem; clear: both; text-transform: uppercase; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; text-align: start; padding-top: 20px; display: flex; justify-content: space-between; align-items: flex-start;"><span>TUESDAY, 9 JUNE 2026<br>Day 2 – HealTAC day 1</span><span style="text-transform: none; font-weight: normal;">Arundel 1</span></h5>
 <table class="programme-table" style="background-color: #ffffff; margin-bottom: 20px; width: 790.2px; border-color: #e9e9e9; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; text-align: start;" border="0">
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="15%">09:30–10:00</td>
@@ -584,7 +584,9 @@ Throughout the conference, we will have presentations from the community across 
 </tr>
 </table>
 
-<h5 style="margin-bottom: 0.9375rem; font-weight: bold; line-height: 1.1; color: #6495ED; font-size: 0.9375rem; clear: both; text-transform: uppercase; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; text-align: start; padding-top: 20px;">WEDNESDAY, 10 JUNE 2026<br>Day 3 – HealTAC day 2</h5>
+<h5 style="margin-bottom: 0.9375rem; font-weight: bold; line-height: 1.1; color: #6495ED; font-size: 0.9375rem; clear: both; text-transform: uppercase; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; text-align: start; padding-top: 20px; display: flex; justify-content: space-between; align-items: flex-start;"><span>TUESDAY, 9 JUNE 2026<br>19:00 – Conference Dinner</span><span style="text-transform: none; font-weight: normal;">Arundel 1</span></h5>
+
+<h5 style="margin-bottom: 0.9375rem; font-weight: bold; line-height: 1.1; color: #6495ED; font-size: 0.9375rem; clear: both; text-transform: uppercase; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; text-align: start; padding-top: 20px; display: flex; justify-content: space-between; align-items: flex-start;"><span>WEDNESDAY, 10 JUNE 2026<br>Day 3 – HealTAC day 2</span><span style="text-transform: none; font-weight: normal;">Arundel 1</span></h5>
 <table class="programme-table" style="background-color: #ffffff; margin-bottom: 20px; width: 790.2px; border-color: #e9e9e9; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; text-align: start;" border="0">
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="15%">09:00–09:15</td>
