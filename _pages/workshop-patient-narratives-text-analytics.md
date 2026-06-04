@@ -5,6 +5,8 @@ title: "From patient narratives to insights: applying text analytics to scalable
 
 Pre-conference workshop on Monday 8 June.
 
+15:30–17:30
+
 
 <div style="text-align: ;">
   <a href="https://www.maudsleybrc.nihr.ac.uk/" target="_blank">

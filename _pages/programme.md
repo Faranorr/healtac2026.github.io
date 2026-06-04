@@ -429,7 +429,11 @@ Throughout the conference, we will have presentations from the community across 
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Workshop 1 – <a href="/workshops/healthcare-text-tres/" style="color:#339982">Free-text healthcare data and Trusted Research Environments (TREs)</a></td>
 </tr>
 <tr>
-<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="15%">15:00–17:30</td>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="15%">15:00–15:30</td>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Break</td>
+</tr>
+<tr>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="15%">15:30–17:30</td>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Workshop 2 – <a href="/workshops/patient-narratives-text-analytics/" style="color:#339982">From patient narratives to insights: applying text analytics to scalable lived experience data for new discoveries</a></td>
 </tr>
 </table>
