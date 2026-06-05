@@ -48,7 +48,7 @@ SPONSOR_LOGO_FILES = [
     SPONSORS / 'maudsley_logo.png',
 ]
 
-EXCLUDED_PAPERS = {'12'}  # author asked not to publish
+EXCLUDED_PAPERS = {'12', '10'}  # authors asked not to publish
 
 # Manual corrections for CSV data errors
 AUTHOR_CORRECTIONS = {

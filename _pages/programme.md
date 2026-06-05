@@ -450,11 +450,11 @@ Throughout the conference, we will have presentations from the community across 
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="15%">10:05–10:15</td>
-<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Opening address</td>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Opening address<br><strong>Prof. Goran Nenadic</strong>, Healtex, the UK Health Text Analytics Network</td>
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="15%">10:15–11:15</td>
-<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Keynote – <strong>Dr Martin Krallinger</strong> (Barcelona Supercomputing Center) &nbsp;<a href="/keynotes/" style="color:#339982">Speaker profile and abstract</a></td>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Keynote – <strong>Dr Martin Krallinger</strong> (Barcelona Supercomputing Center) &nbsp;<a href="/keynotes/" style="color:#339982">Speaker profile and abstract</a><br>Chair: Dr Yamiko Msosa, King's College London</td>
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="15%">11:15–11:30</td>
@@ -463,8 +463,9 @@ Throughout the conference, we will have presentations from the community across 
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="15%">11:30–12:00</td>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Oral session 1, group 1 – Mental Health &amp; Social Determinants of Health<br>
-<button class="collapsible">Papers</button>
+<button class="collapsible">Details</button>
 <div class="content">
+<p><strong>Chair: Dr Fahrurrozi Rahman, University of Edinburgh</strong></p>
 <ul>
 <li><strong>Paul Howarth and Elouise Ross.</strong> Learning from Tragedy: Structuring Complex Narrative Evidence in Health Systems with Ontology-Guided Hybrid NLP</li>
 <li><strong>Matúš Falis, Alice Eaton, Michael Holder, Kieran Sweeney, Matthew Iveson, Samuel McInerney, Franz Gruber, Emily Ball, Heather Whalley and Arlene Casey.</strong> Extraction of Antidepressant Response from Primary-Care FreeText Data with Large Language Models <em>(lightning talk)</em></li>
@@ -477,8 +478,9 @@ Throughout the conference, we will have presentations from the community across 
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="15%">12:00–12:30</td>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Oral session 1, group 2 – Evaluation &amp; Reliability<br>
-<button class="collapsible">Papers</button>
+<button class="collapsible">Details</button>
 <div class="content">
+<p><strong>Chair: Dr Fahrurrozi Rahman, University of Edinburgh</strong></p>
 <ul>
 <li><strong>Zicheng Li, Honghan Wu and Liana Romaniuk.</strong> A Human-Centred Evaluation Framework for Patient-Facing Mental-Health LLMs Using Clinically Grounded Synthetic Dialogues</li>
 <li><strong>Liam Barrett, Nikhil Joshi and Nishchay Mehta.</strong> LLM reliability in clinical information extraction from ENT electronic health records <em>(lightning talk)</em></li>
@@ -509,8 +511,9 @@ Throughout the conference, we will have presentations from the community across 
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="15%">14:45–15:15</td>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Oral session 2, group 3 – Engineering, Resources &amp; Governance<br>
-<button class="collapsible">Papers</button>
+<button class="collapsible">Details</button>
 <div class="content">
+<p><strong>Chair: Dr Jaya Chaturvedi, King's College London</strong></p>
 <ul>
 <li><strong>Wilson Lukmanjaya, Sarah Cox, Tony Butler, Oscar Perez-Concha, Leah Bromfield and George Karystianis.</strong> The Secret is in the Relationships: De-identifying Child Intake Reports</li>
 <li><strong>Adam Sutton, Niko Möller-Grell, Thomas Searle and Richard Dobson.</strong> Fast, Accurate, and Local Conversion of MIMIC-IV to OMOP with DBT <em>(lightning talk)</em></li>
@@ -523,8 +526,9 @@ Throughout the conference, we will have presentations from the community across 
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="15%">15:15–15:45</td>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Oral session 2, group 4 – Narrative Analysis &amp; Information Extraction<br>
-<button class="collapsible">Papers</button>
+<button class="collapsible">Details</button>
 <div class="content">
+<p><strong>Chair: Dr Jaya Chaturvedi, King's College London</strong></p>
 <ul>
 <li><strong>Tao Wang, Zhuoyuan Tang, Kai Yang, Li Yuan and Angus Roberts.</strong> Depression Severity Estimation via Speaker Diarization and Multi-Task Learning with Multimodal Cross-Attention</li>
 <li><strong>Oscar Windrath-Carr and Maite Arribas.</strong> A Scalable Approach to Address the Lack of Labelled Clinical Free Text Data: Case Study for Venous Thromboembolism <em>(lightning talk)</em></li>
@@ -599,8 +603,9 @@ Throughout the conference, we will have presentations from the community across 
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="15%">09:15–10:15</td>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">PhD and fellowship forum<br>
-<button class="collapsible">Papers</button>
+<button class="collapsible">Details</button>
 <div class="content">
+<p><strong>Chair: Dr Matúš Falis, University of Edinburgh</strong></p>
 <ul>
 <li><strong>Faezeh Safari, Hang Dong, Zeyu Fu and Aline Villavicencio.</strong> A Neuro-Symbolic Approach to Graph-Verified and Interpretable Chest X-Ray Report Generation</li>
 <li><strong>Linglong Qian and Zina Ibrahim.</strong> TIMELY-Agent: An Agentic Framework for Multimodal Clinical Reasoning Benchmark Construction</li>
@@ -612,8 +617,9 @@ Throughout the conference, we will have presentations from the community across 
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="15%">10:15–10:45</td>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">PhD and fellowship lightning talks<br>
-<button class="collapsible">Papers</button>
+<button class="collapsible">Details</button>
 <div class="content">
+<p><strong>Chair: Dr Tao Wang, King's College London</strong></p>
 <ul>
 <li><strong>Agathe Zecevic, Angus Roberts and Sebastian Zeki.</strong> Exploring limitations of guideline-grounded Clinical Decision Support Systems by comparison with clinical practice</li>
 <li><strong>Adam Williams, Pj Noble and Kirsten McMillan.</strong> Comparison of Transformer Encoder-Based Text Classifiers in Identifying Canine Involvement in Road Traffic Accidents</li>
@@ -633,13 +639,14 @@ Throughout the conference, we will have presentations from the community across 
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Panel – Human-Centered AI &amp; NLP: Bridging Research and Real-World Practice<br>
 <button class="collapsible">Details</button>
 <div class="content">
-<p><strong>Panellists:</strong> <strong>Matthew Broadbent</strong> (Clinical Informatics Lead, South London and Maudsley NHSFT), <strong>Rudolf Cardinal</strong> (Consultant Psychiatrist, Cambridgeshire and Peterborough NHSFT and Professor of Psychiatry and Informatics, University of Cambridge), <strong>Ian Roberts</strong> (Research Software Engineer, University of Sheffield), <strong>Agathe Zecevic</strong> (Senior Data Scientist and Clinical Scientific Computing NLP lead at Guy's and St Thomas' NHSFT)</p>
+<p><strong>Moderator:</strong> <strong>Prof. Rob Stewart</strong> (King's College London and South London and Maudsley NHSFT)</p>
+<p><strong>Panellists:</strong> <strong>Matthew Broadbent</strong> (Clinical Informatics Lead, South London and Maudsley NHSFT), <strong>Rudolf Cardinal</strong> (Consultant Psychiatrist, Cambridgeshire and Peterborough NHSFT and Professor of Psychiatry and Informatics, University of Cambridge), <strong>Ian Roberts</strong> (Research Software Engineer, University of Sheffield), <strong>Arlene Casey</strong> (Principal NLP Data Scientist, DataLoch), <strong>Mohammad Al-Agil</strong> (Senior Developer Analyst, King's College Hospital NHSFT)</p>
 </div>
 </td>
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="15%">12:00–13:00</td>
-<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Keynote – <strong>Prof. Aline Villavicencio</strong> (University of Exeter &amp; University of Sheffield) &nbsp;<a href="/keynotes/" style="color:#339982">Speaker profile and abstract</a></td>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Keynote – <strong>Prof. Aline Villavicencio</strong> (University of Exeter &amp; University of Sheffield) &nbsp;<a href="/keynotes/" style="color:#339982">Speaker profile and abstract</a><br>Chair: Dr Sneha Jha, Queen's University Belfast</td>
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="15%">13:00–13:05</td>
