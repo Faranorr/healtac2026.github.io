@@ -450,7 +450,7 @@ Throughout the conference, we will have presentations from the community across 
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="15%">10:05–10:15</td>
-<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Opening address<br><strong>Prof. Goran Nenadic</strong>, Healtex, the UK Health Text Analytics Network</td>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Opening address – <strong>Prof. Goran Nenadic</strong> (University of Manchester and Healtex, the UK Health Text Analytics Network)</td>
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="15%">10:15–11:15</td>
