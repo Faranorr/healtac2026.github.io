@@ -67,10 +67,9 @@ author:
     # - label: "<strong style='color:#003865;'>TUTORIAL</strong><br><span style='color: black;'>Resources<br>"
     #   icon: "fas fa-laptop-code"
     #   url: https://knowlab.github.io/healtac2025_tutorial/
-    # - label: "<strong style='color:#003865;'>BOOK OF ABSTRACTS</strong><br><span style='color:black;'>Download<br>"
-    #   icon: "fas fa-file-pdf"
-    #   url: https://drive.usercontent.google.com/u/0/uc?id=1oBAgnUsqvdGFpUPL8GAdw5XmnF7M2gUC&export=download
-    #   download: "HealTAC2025_Book_of_Abstracts.pdf"
+    - label: "<strong style='color:#003865;'>BOOK OF ABSTRACTS</strong><br><span style='color:black;'>Download<br>"
+      icon: "fas fa-file-pdf"
+      url: /assets/Book_of_Abstracts.pdf
     # - label: "<strong style='color:#003865;'>ACCOMMODATION</strong><br><span style='color:black;'>Book now.<br>"
     #   icon: "fas fa-home"
     #   url: https://healtac2025.github.io/accommodation/
