@@ -42,6 +42,24 @@ By the end of this interactive workshop, participants will be able to:
 - **Rethink data and methods:** Gain insight into the challenges and possibilities of capturing and analysing patient voice and lived experience at scale, and how these compare with clinician-reported text.
 - **Shape what comes next:** Contribute ideas and expertise to a shared process report and emerging framework, helping ensure that insights from the workshop inform future research, practice, and policy.
 
+## Agenda
+
+| Time | Session |
+|------|---------|
+| 15:30–15:40 | Welcome, purpose and housekeeping — Dr Saskia Sanderson |
+| 15:40–15:45 | Framing: why patient narratives and text analytics? — Dr Saskia Sanderson |
+| 15:45–15:55 | Patient perspective video 1 — Amy Chidley |
+| 15:55–16:05 | Patient perspective video 2 — Jon Bartlett |
+| 16:05–16:15 | Qualitative and social science perspective — Dr Paula Bondaronek |
+| 16:15–16:25 | PPIE / lived-experience reflection — Niks Kolosnicins in conversation with Dr Saskia Sanderson |
+| 16:25–16:30 | Comfort break / transition to tables |
+| 16:30–16:40 | Activity 1: Opportunities — table discussions |
+| 16:40–16:50 | Share-back 1 |
+| 16:50–17:00 | Activity 2: Challenges, harms and safeguards — table discussions |
+| 17:00–17:10 | Share-back 2 |
+| 17:10–17:25 | Whole-room synthesis: priorities and next steps — Dr Saskia Sanderson and Craig Mackie |
+| 17:25–17:30 | Email sign-up and close — Dr Saskia Sanderson |
+
 ## Workshop organiser
 
 **Organiser:** Dr Saskia Sanderson, Data Science Lead for the NIHR Mental Health Translational Research Collaboration (TRC) Mission; Senior Research Fellow at King's College London; and member of the NIHR Maudsley Biomedical Research Centre (BRC) Informatics Theme.
