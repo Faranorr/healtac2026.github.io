@@ -467,7 +467,7 @@ Throughout the conference, we will have presentations from the community across 
 <div class="content">
 <p><strong>Chair: Dr Fahrurrozi Rahman, University of Edinburgh</strong></p>
 <ul>
-<li><strong>Paul Howarth and Elouise Ross.</strong> Learning from Tragedy: Structuring Complex Narrative Evidence in Health Systems with Ontology-Guided Hybrid NLP</li>
+<li><strong>Paul Howarth.</strong> Learning from Tragedy: Structuring Complex Narrative Evidence in Health Systems with Ontology-Guided Hybrid NLP</li>
 <li><strong>Matúš Falis, Alice Eaton, Michael Holder, Kieran Sweeney, Matthew Iveson, Samuel McInerney, Franz Gruber, Emily Ball, Heather Whalley and Arlene Casey.</strong> Extraction of Antidepressant Response from Primary-Care FreeText Data with Large Language Models <em>(lightning talk)</em></li>
 <li><strong>Sharon Sondh, Christoph Mueller, Lifang Li, Angus Roberts, Harsharon Sondh and Robert Stewart.</strong> Application of a BERT NLP model for recorded violence to investigate its associations with emergency department attendance and mental health service use in older adults <em>(lightning talk)</em></li>
 <li><strong>David Chandran, Alice Broadbent, Jyoti Sanyal and Robert Stewart.</strong> Utilization of a fine-tuned BERT model to identify instances of the subject of clinical records experiencing job-loss <em>(lightning talk)</em></li>
