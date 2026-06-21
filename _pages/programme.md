@@ -422,6 +422,30 @@ Throughout the conference, we will have presentations from the community across 
 </ul>
 -->
 
+<h4 style="color:#009999;">2026 Conference Awards</h4>
+<table class="programme-table" style="background-color: #ffffff; margin-bottom: 20px; width: 790.2px; border-color: #e9e9e9; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; text-align: start;" border="0">
+<tr>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; font-weight: bold;" width="20%">Best Poster</td>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;"><strong>Zitong Li</strong> – Large Language Models for Sparse Clinical Time Series: A MIMIC-IV Benchmark of Imputation, Calibration, and Explanation Reliability</td>
+</tr>
+<tr>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; font-weight: bold;" width="20%">Best PhD / Fellowship Talk</td>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;"><strong>Linglong Qian</strong> – TIMELY-Agent: An Agentic Framework for Multimodal Clinical Reasoning Benchmark Construction</td>
+</tr>
+<tr>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; font-weight: bold;" width="20%">People's Choice</td>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;"><strong>Tao Wang</strong> – Depression Severity Estimation via Speaker Diarization and Multi-Task Learning with Multimodal Cross-Attention</td>
+</tr>
+<tr>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; font-weight: bold;" width="20%">Best Long Talk</td>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;"><strong>Wilson Lukmanjaya</strong> – The Secret is in the Relationships: De-identifying Child Intake Reports</td>
+</tr>
+<tr>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; font-weight: bold;" width="20%">Best Lightning Talk</td>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;"><strong>Arooj Hussain</strong> – Assessing Certainty of Diagnoses in Clinical Text</td>
+</tr>
+</table>
+
 <h5 style="margin-bottom: 0.9375rem; font-weight: bold; line-height: 1.1; color: #6495ED; font-size: 0.9375rem; clear: both; text-transform: uppercase; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; text-align: start; display: flex; justify-content: space-between; align-items: flex-start;"><span>MONDAY, 8 JUNE 2026<br>Day 1 – Workshops</span><span style="text-transform: none; font-weight: normal;">Arundel 1</span></h5>
 <table class="programme-table" style="background-color: #ffffff; margin-bottom: 20px; width: 790.2px; border-color: #e9e9e9; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; text-align: start;" border="0">
 <tr>
